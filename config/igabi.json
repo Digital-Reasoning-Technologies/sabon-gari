@@ -1,0 +1,268 @@
+{
+  "siteName": "Igabi",
+  "metadata": {
+    "title": "Igabi Local Government",
+    "description": "Official website of Igabi Local Government Area, Kaduna State, Nigeria."
+  },
+  "navbar": {
+    "logo": "/logo.png",
+    "logoAlt": "Igabi LGA Logo",
+    "navLinks": [
+      { "name": "About Igabi", "href": "/about" },
+      { "name": "Government", "href": "/government" },
+      { "name": "Projects", "href": "/projects" },
+      { "name": "Agriculture", "href": "/agriculture" },
+      { "name": "News", "href": "/news" },
+      { "name": "Gallery", "href": "/gallery" }
+    ],
+    "contactButtonLabel": "Contact Us"
+  },
+  "hero": {
+    "slides": [
+      {
+        "image": "/bg1.png",
+        "title": "Igabi – Gateway to Northern Kaduna",
+        "subtitle": "Igabi Local Government Area is one of the most populous LGAs in Kaduna State and plays a vital role in agriculture, trade, and suburban development around Kaduna metropolis."
+      }
+    ]
+  },
+  "about": {
+    "sectionTitle": "About Igabi",
+    "generalInfoHeading": "General Information",
+    "paragraphs": [
+      "Igabi Local Government Area is located in the central part of Kaduna State in north-western Nigeria. The administrative headquarters of the LGA is in Turunku town.",
+      "Igabi is one of the largest and most populated local government areas in Kaduna State, with several towns that serve as suburban extensions of Kaduna metropolis.",
+      "The area is known for its strong agricultural economy and vibrant markets that support both rural and urban communities."
+    ],
+    "readMoreHref": "/about",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d385614.4770891938!2d7.238137750362402!3d10.745482865537808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11b2b08783592479%3A0xcda379091171c958!2sIgabi%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773153127726!5m2!1sen!2sng"
+  },
+  "chairman": {
+    "sectionTitle": "Message from the Chairman",
+    "name": "Executive Chairman, Igabi Local Government",
+    "image": "/chairman.png",
+    "messageParagraphs": [
+      "Welcome to the official website of Igabi Local Government Area. Our administration is committed to improving infrastructure, agriculture, healthcare, and education across the communities we serve.",
+      "Igabi is blessed with fertile agricultural land and a hardworking population that contributes greatly to Kaduna State's economic growth.",
+      "Through transparency, collaboration, and innovation, we aim to promote sustainable development and enhance the quality of life for our citizens."
+    ]
+  },
+  "agriculture": {
+    "sectionTitle": "Agriculture – Key Economic Activity",
+    "cards": [
+      {
+        "title": "Maize Farming",
+        "subtitle": "Major Staple Crop",
+        "image": "/maize.jpeg",
+        "description": "Maize farming is widely practiced across Igabi LGA and contributes significantly to food production in Kaduna State."
+      },
+      {
+        "title": "Rice Production",
+        "subtitle": "Irrigation Farming",
+        "image": "/Rice.jpeg",
+        "description": "Rice cultivation is practiced in several communities within Igabi, supporting both household consumption and local markets."
+      },
+      {
+        "title": "Livestock Rearing",
+        "subtitle": "Animal Husbandry",
+        "image": "/livestock.jpeg",
+        "description": "Cattle, goats, sheep, and poultry are raised by farmers across Igabi communities, contributing to rural livelihoods."
+      }
+    ],
+    "learnMoreText": "Learn More About Agriculture",
+    "learnMoreHref": "/agriculture"
+  },
+  "news": {
+    "sectionTitle": "Latest News",
+    "subtitle": "Stay informed about development projects and government initiatives across Igabi Local Government."
+  },
+  "footer": {
+    "logo": "/logo.png",
+    "logoAlt": "Igabi LGA Logo",
+    "headquarters": "Headquarters: Local Government Secretariat, Turunku, Kaduna State, Nigeria.",
+    "contact": [
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@igabilga.gov.ng" },
+      { "icon": "mapPin", "text": "Turunku, Kaduna State" }
+    ],
+    "socialLinks": [
+      { "name": "Facebook", "href": "https://www.facebook.com/", "icon": "facebook" },
+      { "name": "Twitter", "href": "https://x.com/", "icon": "twitter" },
+      { "name": "Instagram", "href": "https://www.instagram.com/", "icon": "instagram" },
+      { "name": "LinkedIn", "href": "https://www.linkedin.com/", "icon": "linkedin" },
+      { "name": "YouTube", "href": "https://www.youtube.com/", "icon": "youtube" }
+    ],
+    "quickLinks": [
+      { "label": "Home", "href": "/" },
+      { "label": "About Igabi", "href": "/about" },
+      { "label": "Government", "href": "/government" },
+      { "label": "Projects", "href": "/projects" },
+      { "label": "Agriculture", "href": "/agriculture" },
+      { "label": "News & Events", "href": "/news" }
+    ],
+    "copyright": "© 2026 Igabi Local Government Area. All rights reserved."
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "About Igabi",
+      "subtitle": "Discover the history, people, and geography of Igabi Local Government Area.",
+      "image": "/bg1.png"
+    },
+    "tabs": {
+      "general": {
+        "leadership": [
+          "Executive Chairman: Igabi Local Government",
+          "Vice Chairman: Deputy Chairman"
+        ],
+        "location": [
+          "Location: Central Kaduna State, Nigeria",
+          "Headquarters: Turunku",
+          "Neighboring LGAs: Kaduna North, Kaduna South, Giwa, Birnin Gwari, and Zaria."
+        ],
+        "demographics": [
+          "Major Ethnic Groups: Hausa and Fulani.",
+          "Languages Spoken: Hausa and Fulfulde."
+        ],
+        "economy": [
+          "Main Economic Activities: Farming, livestock rearing, and trading.",
+          "Climate: Tropical savannah climate with rainy season between May and October."
+        ]
+      }
+    },
+    "geographyEconomy": {
+      "title": "Geography & Economy",
+      "location": "Igabi Local Government Area lies within the Northern Guinea Savannah belt and is characterized by fertile land suitable for agriculture.",
+      "climate": "The climate supports both rain-fed and irrigation farming across many communities.",
+      "mainActivities": [
+        "Crop Farming: Maize, rice, millet, and sorghum.",
+        "Livestock Rearing: Cattle, goats, sheep, and poultry.",
+        "Trading: Markets across Turunku and surrounding communities."
+      ]
+    }
+  },
+  "governmentPage": {
+    "hero": {
+      "title": "Government",
+      "subtitle": "Leadership and administrative structure of Igabi Local Government.",
+      "image": "/bg1.png"
+    },
+    "structure": {
+      "intro": "Igabi Local Government operates through an executive leadership supported by a legislative council and administrative departments.",
+      "executive": [
+        "Executive Chairman",
+        "Vice Chairman",
+        "Secretary to the Local Government",
+        "Supervisory Councilors responsible for major sectors."
+      ],
+      "legislative": [
+        "The Legislative Council consists of elected councilors representing wards in Igabi.",
+        "A Speaker elected among the councilors presides over legislative sessions."
+      ],
+      "departments": [
+        "Administration and Finance",
+        "Agriculture and Natural Resources",
+        "Health Services",
+        "Works and Housing",
+        "Social Development",
+        "Education Authority"
+      ]
+    },
+    "electoralWards": [
+      { "ward": "Afaka" },
+      { "ward": "Birnin Yero" },
+      { "ward": "Gadan-Gayan" },
+      { "ward": "Igabi" },
+      { "ward": "Kerawa" },
+      { "ward": "Rigachikun" },
+      { "ward": "Sabon Birni" },
+      { "ward": "Turunku" },
+      { "ward": "Zangon Aya" },
+      { "ward": "Zangon Baje" }
+    ]
+  },
+  "projectsPage": {
+    "hero": {
+      "title": "Development Projects",
+      "subtitle": "Infrastructure and community development initiatives across Igabi Local Government Area.",
+      "image": "/bg1.png"
+    },
+    "introParagraph": "Igabi Local Government continues to invest in road construction, healthcare facilities, schools, and agricultural support programs to improve the quality of life for residents."
+  },
+  "agriculturePage": {
+    "hero": {
+      "title": "Agriculture in Igabi",
+      "subtitle": "Agriculture remains the backbone of Igabi's rural economy.",
+      "image": "/bg1.png"
+    },
+    "overview": "Farmers across Igabi cultivate staple crops and rear livestock, supplying food to Kaduna metropolis and surrounding regions.",
+    "majorCrops": [
+      {
+        "title": "Maize",
+        "description": "A staple crop cultivated widely across Igabi communities.",
+        "image": "/maize.jpeg"
+      },
+      {
+        "title": "Rice",
+        "description": "Rice farming supports both household consumption and commercial trade.",
+        "image": "/Rice.jpeg"
+      },
+      {
+        "title": "Yam Farming",
+        "description": "Traditional grains widely grown across the savannah region.",
+        "image": "/millet.jpeg"
+      }
+    ]
+  },
+  "newsPage": {
+    "metadata": {
+      "title": "News | Igabi Local Government",
+      "description": "Latest news and announcements from Igabi LGA"
+    },
+    "hero": {
+      "title": "Latest News",
+      "subtitle": "Updates and announcements from Igabi Local Government.",
+      "image": "/bg1.png"
+    }
+  },
+  "galleryPage": {
+    "metadata": {
+      "title": "Gallery | Igabi Local Government",
+      "description": "A visual journey through Igabi LGA"
+    },
+    "hero": {
+      "title": "Igabi Gallery",
+      "subtitle": "Explore the culture, communities, and agriculture of Igabi Local Government Area.",
+      "image": "/bg1.png"
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Reach out to Igabi Local Government for inquiries and information.",
+      "image": "/bg1.png"
+    },
+    "contactDetails": [
+      { "icon": "mapPin", "text": "Igabi Local Government Secretariat, Turunku, Kaduna State, Nigeria" },
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@igabilga.gov.ng" }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d385614.4770891938!2d7.238137750362402!3d10.745482865537808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11b2b08783592479%3A0xcda379091171c958!2sIgabi%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773153127726!5m2!1sen!2sng",
+    "successMessage": "Thank you for contacting Igabi Local Government. We will get back to you soon."
+  },
+  "upload": {
+    "defaultFolder": "igabi/news"
+  },
+  "theme": {
+    "colors": {
+      "brand": "142 71% 45%",
+      "brandHover": "142 71% 40%",
+      "brandDark": "142 60% 30%",
+      "brandMuted": "142 30% 96%",
+      "brandForeground": "0 0% 100%",
+      "brandMutedForeground": "142 20% 35%"
+    }
+  },
+  "dashboard": {
+    "adminLabel": "Igabi Admin"
+  }
+}

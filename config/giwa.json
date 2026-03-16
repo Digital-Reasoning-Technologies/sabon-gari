@@ -1,0 +1,274 @@
+{
+  "siteName": "Giwa",
+  "metadata": {
+    "title": "Giwa Local Government",
+    "description": "Official website of Giwa Local Government Area, Kaduna State - A proud agricultural community in Northern Kaduna."
+  },
+  "navbar": {
+    "logo": "/logo.png",
+    "logoAlt": "Giwa LGA Logo",
+    "navLinks": [
+      { "name": "About Giwa", "href": "/about" },
+      { "name": "Government", "href": "/government" },
+      { "name": "Projects", "href": "/projects" },
+      { "name": "Agriculture", "href": "/agriculture" },
+      { "name": "News", "href": "/news" },
+      { "name": "Gallery", "href": "/gallery" }
+    ],
+    "contactButtonLabel": "Contact Us"
+  },
+  "hero": {
+    "slides": [
+      {
+        "image": "/bg1.png",
+        "title": "Giwa – A Center of Agriculture and Heritage",
+        "subtitle": "Located in the northern part of Kaduna State, Giwa Local Government Area is known for its rich farmlands, vibrant rural communities, and strong agricultural economy."
+      },
+      {
+        "image": "/bg1.png",
+        "title": "Giwa – A Center of Agriculture and Heritage",
+        "subtitle": "Located in the northern part of Kaduna State, Giwa Local Government Area is known for its rich farmlands, vibrant rural communities, and strong agricultural economy."
+      }
+    ]
+  },
+  "about": {
+    "sectionTitle": "About Giwa",
+    "generalInfoHeading": "General Information",
+    "paragraphs": [
+      "Giwa Local Government Area is situated in the northern region of Kaduna State, Nigeria. The administrative headquarters of the LGA is located in Giwa town.",
+      "The area is largely rural and known for its strong agricultural base. Farming communities across the LGA cultivate staple crops that contribute significantly to food supply within Kaduna State.",
+      "The population of Giwa consists primarily of Hausa and Fulani communities, alongside other ethnic groups. Agriculture, livestock rearing, and trading form the foundation of the local economy."
+    ],
+    "readMoreHref": "/about",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d499683.04505471385!2d7.240828399981151!3d11.193274627959898!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11b2f232adffe6fb%3A0x4fddd85d0f61e39c!2sGiwa%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773148030466!5m2!1sen!2sng"
+  },
+  "chairman": {
+    "sectionTitle": "Message from the Chairman",
+    "name": "Executive Chairman, Giwa Local Government",
+    "image": "/chairman.png",
+    "messageParagraphs": [
+      "I warmly welcome you to the official website of Giwa Local Government Area. Our administration remains committed to promoting development, transparency, and improved service delivery to our communities.",
+      "Giwa is blessed with fertile lands and hardworking citizens who continue to contribute to agricultural production across Kaduna State. We are focused on improving infrastructure, education, healthcare, and economic opportunities for our people.",
+      "Through this platform, we invite citizens, partners, and investors to learn more about our programs and participate in the continued development of our local government."
+    ]
+  },
+  "agriculture": {
+    "sectionTitle": "Agriculture - The Backbone of Giwa",
+    "cards": [
+      {
+        "title": "Maize Production",
+        "subtitle": "Staple Crop Farming",
+        "image": "/maize.jpeg",
+        "description": "Maize is widely cultivated across Giwa communities and forms a major part of household food supply as well as local agricultural trade."
+      },
+      {
+        "title": "Millet",
+        "subtitle": "Traditional Grain Crop",
+        "image": "/millet.jpeg",
+        "description": "Millet is an important crop grown by farmers across Giwa. This grain thrives in the savannah climate and contributes to food security."
+      },
+      {
+        "title": "Livestock Rearing",
+        "subtitle": "Animal Husbandry",
+        "image": "/livestock.jpeg",
+        "description": "Livestock rearing, including cattle, goats, sheep, and poultry, is an important economic activity that supports livelihoods across the LGA."
+      }
+    ],
+    "learnMoreText": "Learn More About Agriculture",
+    "learnMoreHref": "/agriculture"
+  },
+  "news": {
+    "sectionTitle": "Latest News",
+    "subtitle": "Stay informed about government initiatives, development projects, and community activities in Giwa Local Government."
+  },
+  "footer": {
+    "logo": "/logo.png",
+    "logoAlt": "Giwa LGA Logo",
+    "headquarters": "Headquarters: Local Government Secretariat, Giwa Town, Kaduna State, Nigeria.",
+    "contact": [
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@giwalga.gov.ng" },
+      { "icon": "mapPin", "text": "Giwa Town, Kaduna State" }
+    ],
+    "socialLinks": [
+      { "name": "Facebook", "href": "https://www.facebook.com/", "icon": "facebook" },
+      { "name": "Twitter", "href": "https://x.com/", "icon": "twitter" },
+      { "name": "Instagram", "href": "https://www.instagram.com/", "icon": "instagram" },
+      { "name": "LinkedIn", "href": "https://www.linkedin.com/", "icon": "linkedin" },
+      { "name": "YouTube", "href": "https://www.youtube.com/", "icon": "youtube" }
+    ],
+    "quickLinks": [
+      { "label": "Home", "href": "/" },
+      { "label": "About Giwa", "href": "/about" },
+      { "label": "Government", "href": "/government" },
+      { "label": "Projects", "href": "/projects" },
+      { "label": "Agriculture", "href": "/agriculture" },
+      { "label": "News & Events", "href": "/news" }
+    ],
+    "copyright": "Giwa Local Government Area. All rights reserved."
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "About Giwa",
+      "subtitle": "Learn about the people, geography, and culture of Giwa Local Government Area.",
+      "image": "/bg1.png"
+    },
+    "tabs": {
+      "general": {
+        "leadership": [
+          "Executive Chairman: Giwa Local Government",
+          "Vice Chairman: Deputy Chairman"
+        ],
+        "location": [
+          "Location: Northern Kaduna State, Nigeria",
+          "Headquarters: Giwa Town",
+          "Neighboring Areas: Zaria, Sabon Gari, Igabi, Birnin Gwari, and parts of Katsina State."
+        ],
+        "demographics": [
+          "Major Ethnic Groups: Hausa and Fulani.",
+          "Languages Spoken: Hausa and Fulfulde."
+        ],
+        "economy": [
+          "Main Economic Activities: Crop farming, livestock rearing, and rural trading.",
+          "Climate: Tropical savannah climate with rainy season between May and October."
+        ]
+      }
+    },
+    "geographyEconomy": {
+      "title": "Geography & Economy",
+      "location": "Giwa Local Government occupies a large rural area within northern Kaduna State and serves as an important agricultural region for the state.",
+      "climate": "The area lies within the Sudan savannah vegetation zone with moderate rainfall suitable for crop farming.",
+      "mainActivities": [
+        "Crop Farming: Maize, millet, sorghum, and groundnuts.",
+        "Livestock Rearing: Cattle, goats, sheep, and poultry.",
+        "Trading: Weekly rural markets supporting agricultural trade."
+      ]
+    }
+  },
+  "governmentPage": {
+    "hero": {
+      "title": "Government",
+      "subtitle": "The leadership and administrative structure of Giwa Local Government.",
+      "image": "/bg1.png"
+    },
+    "structure": {
+      "intro": "Giwa Local Government operates under a democratic system consisting of the executive arm, legislative council, and administrative departments responsible for delivering public services.",
+      "executive": [
+        "Executive Chairman",
+        "Vice Chairman",
+        "Secretary to the Local Government",
+        "Supervisory Councilors responsible for departments such as Agriculture, Health, Education, and Works."
+      ],
+      "legislative": [
+        "The Legislative Council consists of elected councilors representing the wards of the Local Government.",
+        "A Speaker elected among the councilors presides over council meetings."
+      ],
+      "departments": [
+        "Administration & Finance Department",
+        "Agriculture & Natural Resources Department",
+        "Social Development & Information Department",
+        "Works, Housing, Land & Survey Department",
+        "Local Government Education Authority (LGEA)",
+        "Primary Health Care Authority (PHCA)"
+      ]
+    },
+    "electoralWards": [
+      { "ward": "Dan Mahawayi" },
+      { "ward": "Fatika" },
+      { "ward": "Giwa" },
+      { "ward": "Galadimawa" },
+      { "ward": "Gangara" },
+      { "ward": "Idasu" },
+      { "ward": "Kadage" },
+      { "ward": "Kidandan" },
+      { "ward": "Panhauya" },
+      { "ward": "Shika" },
+      { "ward": "Yakawada" }
+    ]
+  },
+  "projectsPage": {
+    "hero": {
+      "title": "Infrastructure & Development Projects",
+      "subtitle": "Explore development projects implemented across Giwa Local Government Area.",
+      "image": "/bg1.png"
+    },
+    "introParagraph": "Giwa Local Government continues to invest in infrastructure, agriculture, education, and healthcare projects to improve living conditions and promote sustainable development."
+  },
+  "agriculturePage": {
+    "hero": {
+      "title": "Agriculture in Giwa",
+      "subtitle": "Agriculture remains the backbone of Giwa's economy, supporting farmers and traders across the LGA.",
+      "image": "/bg1.png"
+    },
+    "overview": "Farmers across Giwa cultivate a variety of crops including maize, millet, sorghum, and groundnuts. Livestock rearing also plays an important role in the local economy.",
+    "majorCrops": [
+      {
+        "title": "Maize",
+        "description": "Maize is one of the most important crops grown across Giwa communities.",
+        "image": "/maize.jpeg"
+      },
+      {
+        "title": "Millet",
+        "description": "Millet is a traditional staple food widely cultivated by farmers across the region.",
+        "image": "/millet.jpeg"
+      },
+      {
+        "title": "Livestock Rearing",
+        "description": "Livestock rearing, including cattle, goats, sheep, and poultry, is an important economic activity that supports livelihoods across the LGA.",
+        "image": "/livestock.jpeg"
+      }
+    ]
+  },
+  "newsPage": {
+    "metadata": {
+      "title": "News | Giwa Local Government",
+      "description": "Latest news and announcements from Giwa LGA"
+    },
+    "hero": {
+      "title": "Latest News",
+      "subtitle": "Updates and announcements from Giwa Local Government.",
+      "image": "/bg1.png"
+    }
+  },
+  "galleryPage": {
+    "metadata": {
+      "title": "Gallery | Giwa Local Government",
+      "description": "A visual journey through Giwa LGA"
+    },
+    "hero": {
+      "title": "Giwa Gallery",
+      "subtitle": "Explore the culture, communities, and agriculture of Giwa Local Government Area.",
+      "image": "/bg1.png"
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Reach out to Giwa Local Government for inquiries and information.",
+      "image": "/bg1.png"
+    },
+    "contactDetails": [
+      { "icon": "mapPin", "text": "Giwa Local Government Secretariat, Giwa Town, Kaduna State, Nigeria" },
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@giwalga.gov.ng" }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d499683.04505471385!2d7.240828399981151!3d11.193274627959898!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11b2f232adffe6fb%3A0x4fddd85d0f61e39c!2sGiwa%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773148030466!5m2!1sen!2sng",
+    "successMessage": "Thank you for contacting Giwa Local Government. We will get back to you soon."
+  },
+  "upload": {
+    "defaultFolder": "giwa/news"
+  },
+"theme": {
+  "colors": {
+    "brand": "142 71% 45%",
+    "brandHover": "142 71% 40%",
+    "brandDark": "142 60% 30%",
+    "brandMuted": "142 30% 96%",
+    "brandForeground": "0 0% 100%",
+    "brandMutedForeground": "142 20% 35%"
+  },
+  "dashboard": {
+    "adminLabel": "Giwa Admin"
+  }
+}
+}

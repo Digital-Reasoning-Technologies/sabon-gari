@@ -1,0 +1,269 @@
+{
+  "siteName": "Kubau",
+  "metadata": {
+    "title": "Kubau Local Government",
+    "description": "Official website of Kubau Local Government Area, Kaduna State, Nigeria."
+  },
+  "navbar": {
+    "logo": "/logo.png",
+    "logoAlt": "Kubau LGA Logo",
+    "navLinks": [
+      { "name": "About Kubau", "href": "/about" },
+      { "name": "Government", "href": "/government" },
+      { "name": "Projects", "href": "/projects" },
+      { "name": "Agriculture", "href": "/agriculture" },
+      { "name": "News", "href": "/news" },
+      { "name": "Gallery", "href": "/gallery" }
+    ],
+    "contactButtonLabel": "Contact Us"
+  },
+  "hero": {
+    "slides": [
+      {
+        "image": "/bg1.png",
+        "title": "Kubau – Agricultural Strength of Northern Kaduna",
+        "subtitle": "Kubau Local Government Area is known for its vibrant farming communities and fertile agricultural lands."
+      },
+      {
+        "image": "/bg1.png",
+        "title": "Kubau – Community, Commerce and Culture",
+        "subtitle": "Markets and rural trading activities across Kubau contribute to the economic development of Kaduna State."
+      }
+    ]
+  },
+  "about": {
+    "sectionTitle": "About Kubau",
+    "generalInfoHeading": "General Information",
+    "paragraphs": [
+      "Kubau Local Government Area is located in the northern region of Kaduna State, Nigeria. The administrative headquarters is Anchau town.",
+      "The LGA is predominantly inhabited by Hausa and Fulani communities along with other indigenous groups living across its towns and villages.",
+      "Agriculture forms the backbone of the local economy, with farmers cultivating maize, millet, sorghum, groundnuts, and beans."
+    ],
+    "readMoreHref": "/about",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8542.581853455562!2d8.154428142783399!3d10.79772599632036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11ad3f391476d259%3A0x54779c1e0195def7!2sKubau%20811108%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773484894369!5m2!1sen!2sng"
+  },
+  "chairman": {
+    "sectionTitle": "Message from the Chairman",
+    "name": "Executive Chairman, Kubau Local Government",
+    "image": "/chairman.png",
+    "messageParagraphs": [
+      "Welcome to the official website of Kubau Local Government Area. Our administration remains committed to improving the welfare of our people through development initiatives in infrastructure, agriculture, and social services.",
+      "Kubau is home to hardworking farmers and traders who contribute significantly to food production and local commerce within Kaduna State.",
+      "Through transparent governance and community collaboration, we aim to create sustainable growth and opportunities for residents."
+    ]
+  },
+  "agriculture": {
+    "sectionTitle": "Agriculture – Backbone of Kubau",
+    "cards": [
+      {
+        "title": "Maize Farming",
+        "subtitle": "Staple Crop",
+        "image": "/maize.jpeg",
+        "description": "Maize is widely cultivated across Kubau communities and serves as a major staple crop."
+      },
+      {
+        "title": "Yam Farming",
+        "subtitle": "Grain Production",
+        "image": "/yam.png",
+        "description": "Farmers cultivate millet and sorghum across the LGA as important grains for food security."
+      },
+      {
+        "title": "Livestock Rearing",
+        "subtitle": "Animal Husbandry",
+        "image": "/livestock.jpeg",
+        "description": "Livestock such as cattle, goats, sheep, and poultry are raised in many rural communities across Kubau."
+      }
+    ],
+    "learnMoreText": "Learn More About Agriculture",
+    "learnMoreHref": "/agriculture"
+  },
+  "news": {
+    "sectionTitle": "Latest News",
+    "subtitle": "Stay informed about development projects, community programs, and government initiatives in Kubau."
+  },
+  "footer": {
+    "logo": "/logo.png",
+    "logoAlt": "Kubau LGA Logo",
+    "headquarters": "Headquarters: Local Government Secretariat, Anchau, Kaduna State, Nigeria.",
+    "contact": [
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@kubaulga.gov.ng" },
+      { "icon": "mapPin", "text": "Anchau, Kaduna State" }
+    ],
+    "socialLinks": [
+      { "name": "Facebook", "href": "https://www.facebook.com/", "icon": "facebook" },
+      { "name": "Twitter", "href": "https://x.com/", "icon": "twitter" },
+      { "name": "Instagram", "href": "https://www.instagram.com/", "icon": "instagram" },
+      { "name": "LinkedIn", "href": "https://www.linkedin.com/", "icon": "linkedin" },
+      { "name": "YouTube", "href": "https://www.youtube.com/", "icon": "youtube" }
+    ],
+    "quickLinks": [
+      { "label": "Home", "href": "/" },
+      { "label": "About Kubau", "href": "/about" },
+      { "label": "Government", "href": "/government" },
+      { "label": "Projects", "href": "/projects" },
+      { "label": "Agriculture", "href": "/agriculture" },
+      { "label": "News & Events", "href": "/news" }
+    ],
+    "copyright": "© 2026 Kubau Local Government Area. All rights reserved."
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "About Kubau",
+      "subtitle": "Discover the geography, culture, and economy of Kubau Local Government Area.",
+      "image": "/bg1.png"
+    },
+    "tabs": {
+      "general": {
+        "leadership": [
+          "Executive Chairman: Kubau Local Government",
+          "Vice Chairman: Deputy Chairman"
+        ],
+        "location": [
+          "Location: Northern Kaduna State, Nigeria",
+          "Headquarters: Anchau",
+          "Neighboring LGAs: Ikara, Kauru, Soba, and Zaria."
+        ],
+        "demographics": [
+          "Major Ethnic Groups: Hausa, Fulani.",
+          "Languages Spoken: Hausa and English."
+        ],
+        "economy": [
+          "Main Economic Activities: Farming, livestock rearing, and rural trading.",
+          "Climate: Tropical savannah climate suitable for grain production."
+        ]
+      }
+    },
+    "geographyEconomy": {
+      "title": "Geography & Economy",
+      "location": "Kubau lies within northern Kaduna State and is characterized by rural farming settlements and agricultural land.",
+      "climate": "The area experiences a rainy season between May and October and a dry season from November to April.",
+      "mainActivities": [
+        "Crop Farming: Maize, millet, sorghum, beans, and groundnuts.",
+        "Livestock Rearing: Cattle, goats, sheep, and poultry.",
+        "Local Markets: Agricultural trading across Kubau communities."
+      ]
+    }
+  },
+  "governmentPage": {
+    "hero": {
+      "title": "Government",
+      "subtitle": "Leadership and administrative structure of Kubau Local Government.",
+      "image": "/bg1.png"
+    },
+    "structure": {
+      "intro": "Kubau Local Government operates through an executive leadership supported by a legislative council and administrative departments.",
+      "executive": [
+        "Executive Chairman",
+        "Vice Chairman",
+        "Secretary to the Local Government",
+        "Supervisory Councilors responsible for major sectors."
+      ],
+      "legislative": [
+        "The Legislative Council consists of elected councilors representing wards in Kubau.",
+        "A Speaker elected among the councilors presides over legislative sessions."
+      ],
+      "departments": [
+        "Administration and Finance",
+        "Agriculture and Natural Resources",
+        "Health Services",
+        "Works and Housing",
+        "Social Development",
+        "Education Authority"
+      ]
+    },
+    "electoralWards": [
+      { "ward": "Anchau" },
+      { "ward": "Dutsen Wai" },
+      { "ward": "Garu" },
+      { "ward": "Kubau" },
+      { "ward": "Pambegua" },
+      { "ward": "Zabi" }
+    ]
+  },
+  "projectsPage": {
+    "hero": {
+      "title": "Development Projects",
+      "subtitle": "Infrastructure and community development initiatives across Kubau Local Government Area.",
+      "image": "/bg1.png"
+    },
+    "introParagraph": "Kubau Local Government continues to invest in roads, schools, healthcare, and agricultural support to improve the quality of life for residents."
+  },
+  "agriculturePage": {
+    "hero": {
+      "title": "Agriculture in Kubau",
+      "subtitle": "Agriculture remains the backbone of Kubau's economy.",
+      "image": "/bg1.png"
+    },
+    "overview": "Farmers across Kubau cultivate maize, millet, sorghum, beans, and groundnuts while raising livestock to support food production and local commerce.",
+    "majorCrops": [
+      {
+        "title": "Maize",
+        "description": "A staple crop cultivated widely across Kubau communities.",
+        "image": "/maize.jpeg"
+      },
+      {
+        "title": "Yam Farming",
+        "description": "Important grains for food security grown across the LGA.",
+        "image": "/yam.png"
+      },
+      {
+        "title": "Livestock Rearing",
+        "description": "Cattle, goats, sheep, and poultry are raised across Kubau communities.",
+        "image": "/livestock.jpeg"
+      }
+    ]
+  },
+  "newsPage": {
+    "metadata": {
+      "title": "News | Kubau Local Government",
+      "description": "Latest news and announcements from Kubau LGA"
+    },
+    "hero": {
+      "title": "Latest News",
+      "subtitle": "Updates and announcements from Kubau Local Government.",
+      "image": "/bg1.png"
+    }
+  },
+  "galleryPage": {
+    "metadata": {
+      "title": "Gallery | Kubau Local Government",
+      "description": "A visual journey through Kubau LGA"
+    },
+    "hero": {
+      "title": "Kubau Gallery",
+      "subtitle": "Explore the culture, communities, and agriculture of Kubau Local Government Area.",
+      "image": "/bg1.png"
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Reach out to Kubau Local Government for inquiries and information.",
+      "image": "/bg1.png"
+    },
+    "contactDetails": [
+      { "icon": "mapPin", "text": "Kubau Local Government Secretariat, Anchau, Kaduna State, Nigeria" },
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@kubaulga.gov.ng" }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8542.581853455562!2d8.154428142783399!3d10.79772599632036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11ad3f391476d259%3A0x54779c1e0195def7!2sKubau%20811108%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773484894369!5m2!1sen!2sng",
+    "successMessage": "Thank you for contacting Kubau Local Government. We will get back to you soon."
+  },
+  "upload": {
+    "defaultFolder": "kubau/news"
+  },
+  "theme": {
+    "colors": {
+      "brand": "142 71% 45%",
+      "brandHover": "142 71% 40%",
+      "brandDark": "142 60% 30%",
+      "brandMuted": "142 30% 96%",
+      "brandForeground": "0 0% 100%",
+      "brandMutedForeground": "142 20% 35%"
+    }
+  },
+  "dashboard": {
+    "adminLabel": "Kubau Admin"
+  }
+}

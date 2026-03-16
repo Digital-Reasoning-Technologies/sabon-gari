@@ -1,0 +1,274 @@
+{
+  "siteName": "Chikun",
+  "metadata": {
+    "title": "Chikun Local Government",
+    "description": "Official website of Chikun Local Government Area, Kaduna State, Nigeria."
+  },
+  "navbar": {
+    "logo": "/logo.png",
+    "logoAlt": "Chikun Logo",
+    "navLinks": [
+      { "name": "About Chikun", "href": "/about" },
+      { "name": "Government", "href": "/government" },
+      { "name": "Projects", "href": "/projects" },
+      { "name": "Agriculture", "href": "/agriculture" },
+      { "name": "News", "href": "/news" },
+      { "name": "Gallery", "href": "/gallery" }
+    ],
+    "contactButtonLabel": "Contact Us"
+  },
+  "hero": {
+    "slides": [
+      {
+        "image": "/bg1.png",
+        "title": "Chikun is the gateway to progress",
+        "subtitle": "It's a land of heritage, peace, and immense agricultural wealth. Our local economy is a powerhouse of production and trade, fueled by a commitment to modernizing our infrastructure and empowering our people."
+      },
+      {
+        "image": "/bg1.png",
+        "title": "Heritage, Peace, and Growth",
+        "subtitle": "From our growing suburban communities to our vibrant markets, Chikun connects tradition with progress. Discover a community built on diversity, agriculture, and open governance."
+      }
+    ]
+  },
+  "about": {
+    "sectionTitle": "About Chikun",
+    "generalInfoHeading": "General Information",
+    "paragraphs": [
+      "Chikun Local Government Area is located in central Kaduna State, Nigeria, with its administrative headquarters in Kujama town. The area is one of the largest LGAs in Kaduna State and plays a major role in supporting the economy of Kaduna metropolis.",
+      "The LGA is home to diverse communities including the Gbagyi (indigenous inhabitants), Hausa, Fulani, and other ethnic groups from across Nigeria. These communities contribute to the cultural diversity and economic vitality of the area.",
+      "Chikun is known for its agricultural production, residential expansion, and important suburban districts such as Sabon Tasha, Narayi, and Gonin-Gora which serve as key economic and residential zones around Kaduna city."
+    ],
+    "readMoreHref": "/about",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3689.9006558766714!2d7.108278782914778!3d10.27181054798698!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104d20b6754d899b%3A0xaaeb1aa4bc2a336c!2sChikun%20800104%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773145590066!5m2!1sen!2sng"
+  },
+  "chairman": {
+    "sectionTitle": "Message from the Chairman",
+    "name": "Executive Chairman, Chikun Local Government",
+    "image": "/chairman.png",
+    "messageParagraphs": [
+      "I welcome you to the official website of Chikun Local Government Area. Our local government is blessed with hardworking citizens, fertile lands, and thriving communities that continue to contribute to the development of Kaduna State.",
+      "Our administration is committed to improving infrastructure, supporting agriculture, strengthening education and healthcare services, and promoting economic growth throughout the LGA.",
+      "Through this digital platform, we aim to provide transparent information about our activities, development initiatives, and opportunities for partnership and investment in Chikun."
+    ]
+  },
+  "agriculture": {
+    "sectionTitle": "Agriculture – Backbone of the Local Economy",
+    "cards": [
+      {
+        "title": "Maize & Grain Farming",
+        "subtitle": "Staple Food Production",
+        "image": "/maize.jpeg",
+        "description": "Farmers across Chikun cultivate maize, millet, and sorghum as major staple crops supplying local markets in Kaduna State and neighboring areas."
+      },
+      {
+        "title": "Rice & Yam Cultivation",
+        "subtitle": "Important Food Crops",
+        "image": "/yam.png",
+        "description": "Rice and yam farming form an important part of agricultural activity in Chikun, with produce distributed through rural markets and urban trading centers."
+      },
+      {
+        "title": "Livestock Rearing",
+        "subtitle": "Animal Husbandry",
+        "image": "/livestock.jpeg",
+        "description": "Livestock rearing including cattle, goats, sheep, and poultry contributes significantly to food supply and household income for many residents."
+      }
+    ],
+    "learnMoreText": "Learn More About Agriculture",
+    "learnMoreHref": "/agriculture"
+  },
+  "news": {
+    "sectionTitle": "Latest News",
+    "subtitle": "Stay updated with announcements, community programs, and development initiatives from Chikun Local Government."
+  },
+  "footer": {
+    "logo": "/logo.png",
+    "logoAlt": "Chikun LGA Logo",
+    "headquarters": "Headquarters: Local Government Secretariat, Kujama, Kaduna State, Nigeria.",
+    "contact": [
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@chikunlga.gov.ng" },
+      { "icon": "mapPin", "text": "Kujama, Kaduna State" }
+    ],
+    "socialLinks": [
+      { "name": "Facebook", "href": "https://www.facebook.com/", "icon": "facebook" },
+      { "name": "Twitter", "href": "https://x.com/", "icon": "twitter" },
+      { "name": "Instagram", "href": "https://www.instagram.com/", "icon": "instagram" },
+      { "name": "LinkedIn", "href": "https://www.linkedin.com/", "icon": "linkedin" },
+      { "name": "YouTube", "href": "https://www.youtube.com/", "icon": "youtube" }
+    ],
+    "quickLinks": [
+      { "label": "Home", "href": "/" },
+      { "label": "About Chikun", "href": "/about" },
+      { "label": "Government", "href": "/government" },
+      { "label": "Projects", "href": "/projects" },
+      { "label": "Agriculture", "href": "/agriculture" },
+      { "label": "News & Events", "href": "/news" }
+    ],
+    "copyright": "© 2026 Chikun Local Government Area. All rights reserved."
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "About Chikun",
+      "subtitle": "Learn about the geography, people, and culture of Chikun Local Government Area.",
+      "image": "/bg1.png"
+    },
+    "tabs": {
+      "general": {
+        "leadership": [
+          "Executive Chairman: Chikun Local Government",
+          "Vice Chairman: Deputy Chairman"
+        ],
+        "location": [
+          "Location: Central Kaduna State, Nigeria",
+          "Headquarters: Kujama",
+          "Land Area: Approximately 4,466 km²",
+          "Neighboring LGAs: Igabi, Kaduna South, Kajuru, Kachia, Birnin Gwari, and Giwa."
+        ],
+        "demographics": [
+          "Major Ethnic Groups: Gbagyi (indigenous), Hausa, Fulani.",
+          "Languages Spoken: Gbagyi, Hausa, and English."
+        ],
+        "economy": [
+          "Main Economic Activities: Agriculture, livestock rearing, trading, and small-scale industries.",
+          "Climate: Tropical climate with rainy season from May to October and dry season from November to April."
+        ]
+      }
+    },
+    "geographyEconomy": {
+      "title": "Geography & Economy",
+      "location": "Chikun Local Government Area is strategically located around Kaduna metropolis, making it an important residential and agricultural zone that supports the urban population of Kaduna city.",
+      "climate": "The area lies within the Northern Guinea Savannah belt with fertile soils and moderate rainfall suitable for crop farming and livestock rearing.",
+      "mainActivities": [
+        "Crop Farming: Maize, rice, cassava, yam, millet, and sorghum.",
+        "Livestock Rearing: Cattle, goats, sheep, and poultry.",
+        "Trading: Local markets and commercial centers across Sabon Tasha, Narayi, and other communities."
+      ]
+    }
+  },
+  "governmentPage": {
+    "hero": {
+      "title": "Government",
+      "subtitle": "The leadership and governance structure of Chikun Local Government.",
+      "image": "/GovHero.jpg"
+    },
+    "structure": {
+      "intro": "Chikun Local Government operates under a democratic system consisting of the executive arm, legislative council, and administrative departments responsible for delivering public services.",
+      "executive": [
+        "Executive Chairman",
+        "Vice Chairman",
+        "Secretary to the Local Government",
+        "Supervisory Councilors overseeing departments such as Health, Education, Agriculture, and Works."
+      ],
+      "legislative": [
+        "The Legislative Council consists of elected councilors representing wards within the LGA.",
+        "A Speaker elected from among the councilors presides over council proceedings."
+      ],
+      "departments": [
+        "Administration and Finance Department",
+        "Agriculture and Natural Resources Department",
+        "Social Development Department",
+        "Works and Housing Department",
+        "Local Government Education Authority (LGEA)",
+        "Primary Health Care Authority (PHCA)"
+      ]
+    },
+    "electoralWards": [
+      { "ward": "Chikun" },
+      { "ward": "Gwagwada" },
+      { "ward": "Kakau" },
+      { "ward": "Kujama" },
+      { "ward": "Narayi" },
+      { "ward": "Rido" },
+      { "ward": "Sabon Tasha" },
+      { "ward": "Ungwan Romi" },
+      { "ward": "Nassarawa" },
+      { "ward": "Gonin Gora" }
+    ]
+  },
+  "projectsPage": {
+    "hero": {
+      "title": "Infrastructure & Development Projects",
+      "subtitle": "Explore infrastructure and development projects carried out across Chikun Local Government Area.",
+      "image": "/4.jpg"
+    },
+    "introParagraph": "Chikun Local Government continues to invest in infrastructure, healthcare, education, and road development to improve the quality of life for residents and strengthen economic growth."
+  },
+  "agriculturePage": {
+    "hero": {
+      "title": "Agriculture in Chikun",
+      "subtitle": "Agriculture remains a major driver of the local economy supporting thousands of farmers and traders.",
+      "image": "/bg2.png"
+    },
+    "overview": "Chikun farmers cultivate a wide variety of crops including maize, rice, cassava, yam, millet, and sorghum. Livestock farming also plays an important role in the local economy.",
+    "majorCrops": [
+      {
+        "title": "Maize",
+        "description": "Maize is one of the most widely cultivated crops in Chikun and serves as a staple food for local communities.",
+        "image": "/maize.jpeg"
+      },
+      {
+        "title": "Rice",
+        "description": "Rice farming supports local consumption and regional markets across Kaduna State.",
+        "image": "/yam.png"
+      },
+      {
+        "title": "Cassava & Yam",
+        "description": "Root crops such as cassava and yam are widely cultivated by rural farmers throughout the LGA.",
+        "image": "/yam.png"
+      }
+    ]
+  },
+  "newsPage": {
+    "metadata": {
+      "title": "News | Chikun Local Government",
+      "description": "Latest news and events from Chikun LGA"
+    },
+    "hero": {
+      "title": "Latest News",
+      "subtitle": "Updates and announcements from Chikun Local Government.",
+      "image": "/news/newsHero.png"
+    }
+  },
+  "galleryPage": {
+    "metadata": {
+      "title": "Gallery | Chikun Local Government",
+      "description": "A visual journey through Chikun LGA"
+    },
+    "hero": {
+      "title": "Chikun Gallery",
+      "subtitle": "A visual journey through the communities, culture, and agriculture of Chikun.",
+      "image": "/bg1.png"
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Reach out to Chikun Local Government for inquiries and information.",
+      "image": "/bg1.png"
+    },
+    "contactDetails": [
+      { "icon": "mapPin", "text": "Chikun Local Government Secretariat, Kujama, Kaduna State, Nigeria" },
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@chikunlga.gov.ng" }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3689.9006558766714!2d7.108278782914778!3d10.27181054798698!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104d20b6754d899b%3A0xaaeb1aa4bc2a336c!2sChikun%20800104%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773145590066!5m2!1sen!2sng",
+    "successMessage": "Thank you for contacting Chikun Local Government. We will respond to your inquiry soon."
+  },
+  "upload": {
+    "defaultFolder": "chikun/news"
+  },
+  "theme": {
+    "colors": {
+      "brand": "142 76% 36%",
+      "brandHover": "142 76% 42%",
+      "brandDark": "142 61% 26%",
+      "brandMuted": "142 40% 96%",
+      "brandForeground": "0 0% 100%",
+      "brandMutedForeground": "142 40% 70%"
+    }
+  },
+  "dashboard": {
+    "adminLabel": "Chikun Admin"
+  }
+}

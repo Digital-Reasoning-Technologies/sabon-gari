@@ -1,0 +1,731 @@
+{
+  "info": {
+    "name": "Kudan News API",
+    "description": "API for managing news articles",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Auth - Register",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"email\": \"user@example.com\",\n  \"password\": \"password123\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": "{{base_url}}/api/auth/register"
+      }
+    },
+    {
+      "name": "Auth - Login",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"email\": \"user@example.com\",\n  \"password\": \"password123\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": "{{base_url}}/api/auth/login"
+      }
+    },
+    {
+      "name": "Auth - Me",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": "{{base_url}}/api/auth/me"
+      }
+    },
+    {
+      "name": "Auth - Create User (Superadmin)",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"email\": \"admin@example.com\",\n  \"password\": \"password123\",\n  \"role\": \"admin\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": "{{base_url}}/api/auth/users"
+      }
+    },
+    {
+      "name": "Public - Get All News",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/public/news?page=1&limit=6"
+      }
+    },
+    {
+      "name": "Public - Get News by Slug",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/public/news/{{news_slug}}"
+      }
+    },
+    {
+      "name": "Public - Get All Gallery",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/public/gallery?page=1&limit=12"
+      }
+    },
+    {
+      "name": "Public - Get Gallery Item by ID",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/public/gallery/{{gallery_id}}"
+      }
+    },
+    {
+      "name": "Public - Get All Projects",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/public/projects?page=1&limit=12"
+      }
+    },
+    {
+      "name": "Public - Get Project by ID",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/public/projects/{{project_id}}"
+      }
+    },
+    {
+      "name": "Dashboard - Get All News",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": "{{base_url}}/api/dashboard/news?page=1&limit=6"
+      }
+    },
+    {
+      "name": "Dashboard - Create News",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"title\": \"Latest News Update\",\n  \"content\": \"This is the full content of the news article...\",\n  \"description\": \"Brief description of the news\",\n  \"images\": [\"{{uploaded_image_url}}\"],\n  \"date\": \"2025-12-13T10:00:00.000Z\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": "{{base_url}}/api/dashboard/news"
+      }
+    },
+    {
+      "name": "Dashboard - Get News by Slug",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": "{{base_url}}/api/dashboard/news/{{news_slug}}"
+      }
+    },
+    {
+      "name": "Dashboard - Update News by Slug",
+      "request": {
+        "method": "PUT",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"title\": \"Updated News Title\",\n  \"content\": \"This is the updated content...\",\n  \"description\": \"Updated description\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": "{{base_url}}/api/dashboard/news/{{news_slug}}"
+      }
+    },
+    {
+      "name": "Dashboard - Delete News by Slug",
+      "request": {
+        "method": "DELETE",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": "{{base_url}}/api/dashboard/news/{{news_slug}}"
+      }
+    },
+    {
+      "name": "Dashboard - Get All Gallery",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": "{{base_url}}/api/dashboard/gallery?page=1&limit=12"
+      }
+    },
+    {
+      "name": "Dashboard - Create Gallery Item",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"title\": \"Gallery Test Item 1\",\n  \"description\": \"Uploaded via Cloudinary + saved as gallery item\",\n  \"images\": [\"{{uploaded_image_url}}\", \"{{uploaded_image_url}}\"],\n  \"date\": \"2025-12-13\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": "{{base_url}}/api/dashboard/gallery"
+      }
+    },
+    {
+      "name": "Dashboard - Get Gallery Item by ID",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": "{{base_url}}/api/dashboard/gallery/{{gallery_id}}"
+      }
+    },
+    {
+      "name": "Dashboard - Update Gallery Item by ID",
+      "request": {
+        "method": "PUT",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"title\": \"Updated Gallery Title\",\n  \"description\": \"Updated gallery description\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": "{{base_url}}/api/dashboard/gallery/{{gallery_id}}"
+      }
+    },
+    {
+      "name": "Dashboard - Delete Gallery Item by ID",
+      "request": {
+        "method": "DELETE",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": "{{base_url}}/api/dashboard/gallery/{{gallery_id}}"
+      }
+    },
+    {
+      "name": "Dashboard - Get All Projects",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": "{{base_url}}/api/dashboard/projects?page=1&limit=12"
+      }
+    },
+    {
+      "name": "Dashboard - Create Project",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"title\": \"Project Test 1\",\n  \"description\": \"Created via API\",\n  \"image\": \"{{uploaded_image_url}}\",\n  \"images\": [\"{{uploaded_image_url}}\"],\n  \"location\": \"Kudan\",\n  \"status\": \"Completed\",\n  \"date\": \"2025-12-13\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": "{{base_url}}/api/dashboard/projects"
+      }
+    },
+    {
+      "name": "Dashboard - Get Project by ID",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": "{{base_url}}/api/dashboard/projects/{{project_id}}"
+      }
+    },
+    {
+      "name": "Dashboard - Update Project by ID",
+      "request": {
+        "method": "PUT",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"status\": \"In Progress\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": "{{base_url}}/api/dashboard/projects/{{project_id}}"
+      }
+    },
+    {
+      "name": "Dashboard - Delete Project by ID",
+      "request": {
+        "method": "DELETE",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": "{{base_url}}/api/dashboard/projects/{{project_id}}"
+      }
+    },
+    {
+      "name": "Get All News",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/news?page=1&limit=6"
+      }
+    },
+    {
+      "name": "Get All Gallery",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/gallery?page=1&limit=12"
+      }
+    },
+    {
+      "name": "Upload Image (Cloudinary)",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "body": {
+          "mode": "formdata",
+          "formdata": [
+            {
+              "key": "file",
+              "type": "file",
+              "description": "Select an image file to upload"
+            },
+            {
+              "key": "folder",
+              "value": "kudan/news",
+              "type": "text",
+              "description": "Optional Cloudinary folder"
+            }
+          ]
+        },
+        "url": "{{base_url}}/api/upload"
+      }
+    },
+    {
+      "name": "Create Gallery Item",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"title\": \"Gallery Test Item 1\",\n  \"description\": \"Uploaded via Cloudinary + saved as gallery item\",\n  \"images\": [\"{{uploaded_image_url}}\", \"{{uploaded_image_url}}\"],\n  \"date\": \"2025-12-13\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": "{{base_url}}/api/gallery"
+      }
+    },
+    {
+      "name": "Get Gallery Item by ID",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/gallery/{{gallery_id}}"
+      }
+    },
+    {
+      "name": "Update Gallery Item by ID",
+      "request": {
+        "method": "PUT",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"title\": \"Updated Gallery Title\",\n  \"description\": \"Updated gallery description\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": "{{base_url}}/api/gallery/{{gallery_id}}"
+      }
+    },
+    {
+      "name": "Delete Gallery Item by ID",
+      "request": {
+        "method": "DELETE",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": "{{base_url}}/api/gallery/{{gallery_id}}"
+      }
+    },
+    {
+      "name": "Get All Projects",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/projects?page=1&limit=12"
+      }
+    },
+    {
+      "name": "Create Project",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"title\": \"Project Test 1\",\n  \"description\": \"Created via API\",\n  \"image\": \"{{uploaded_image_url}}\",\n  \"images\": [\"{{uploaded_image_url}}\"],\n  \"location\": \"Kudan\",\n  \"status\": \"Completed\",\n  \"date\": \"2025-12-13\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": "{{base_url}}/api/projects"
+      }
+    },
+    {
+      "name": "Get Project by ID",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/projects/{{project_id}}"
+      }
+    },
+    {
+      "name": "Update Project by ID",
+      "request": {
+        "method": "PUT",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"status\": \"In Progress\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": "{{base_url}}/api/projects/{{project_id}}"
+      }
+    },
+    {
+      "name": "Delete Project by ID",
+      "request": {
+        "method": "DELETE",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": "{{base_url}}/api/projects/{{project_id}}"
+      }
+    },
+    {
+      "name": "Create News",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"title\": \"Latest News Update\",\n  \"content\": \"This is the full content of the news article...\",\n  \"description\": \"Brief description of the news\",\n  \"images\": [\"{{uploaded_image_url}}\"],\n  \"date\": \"2025-12-13T10:00:00.000Z\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": "{{base_url}}/api/news"
+      }
+    },
+    {
+      "name": "Get News by Slug",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/news/{{news_slug}}"
+      }
+    },
+    {
+      "name": "Update News by Slug",
+      "request": {
+        "method": "PUT",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"title\": \"Updated News Title\",\n  \"content\": \"This is the updated content...\",\n  \"description\": \"Updated description\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": "{{base_url}}/api/news/{{news_slug}}"
+      }
+    },
+    {
+      "name": "Delete News by Slug",
+      "request": {
+        "method": "DELETE",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": "{{base_url}}/api/news/{{news_slug}}"
+      }
+    },
+    {
+      "name": "Check DB Status",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/db-status"
+      }
+    }
+  ],
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "http://localhost:3000",
+      "type": "string",
+      "description": "Base URL for the API"
+    },
+    {
+      "key": "token",
+      "value": "PUT_JWT_TOKEN_HERE",
+      "type": "string",
+      "description": "JWT token from /api/auth/login. Used as Authorization: Bearer {{token}}"
+    },
+    {
+      "key": "news_slug",
+      "value": "latest-news-update",
+      "type": "string",
+      "description": "The slug of the news article to test with"
+    },
+    {
+      "key": "gallery_id",
+      "value": "PUT_GALLERY_OBJECT_ID_HERE",
+      "type": "string",
+      "description": "MongoDB _id for gallery item endpoints (/api/gallery/{{gallery_id}})"
+    },
+    {
+      "key": "project_id",
+      "value": "PUT_PROJECT_OBJECT_ID_HERE",
+      "type": "string",
+      "description": "MongoDB _id for project endpoints (/api/projects/{{project_id}})"
+    },
+    {
+      "key": "uploaded_image_url",
+      "value": "https://res.cloudinary.com/<cloud-name>/image/upload/<public-id>",
+      "type": "string",
+      "description": "Paste the secure_url from Upload Image response here"
+    }
+  ]
+}

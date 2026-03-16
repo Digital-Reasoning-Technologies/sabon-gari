@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Brand palette (LGA accent colors). Overridden by inline style from site config when theme.colors is set. */
+:root {
+  --brand: 142 76% 36%;
+  --brand-hover: 142 76% 42%;
+  --brand-dark: 142 61% 26%;
+  --brand-muted: 142 40% 96%;
+  --brand-foreground: 0 0% 100%;
+  --brand-muted-foreground: 142 40% 70%;
+}
+
+/* Override Next.js portal positioning */
+nextjs-portal {
+  left: unset !important;
+  top: unset !important;
+}

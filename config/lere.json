@@ -1,0 +1,269 @@
+{
+  "siteName": "Lere",
+  "metadata": {
+    "title": "Lere Local Government",
+    "description": "Official website of Lere Local Government Area, Kaduna State, Nigeria."
+  },
+  "navbar": {
+    "logo": "/logo.png",
+    "logoAlt": "Lere LGA Logo",
+    "navLinks": [
+      { "name": "About Lere", "href": "/about" },
+      { "name": "Government", "href": "/government" },
+      { "name": "Projects", "href": "/projects" },
+      { "name": "Agriculture", "href": "/agriculture" },
+      { "name": "News", "href": "/news" },
+      { "name": "Gallery", "href": "/gallery" }
+    ],
+    "contactButtonLabel": "Contact Us"
+  },
+  "hero": {
+    "slides": [
+      {
+        "image": "/bg1.png",
+        "title": "Lere – A Land of Heritage and Agriculture",
+        "subtitle": "Lere Local Government Area is known for its agricultural strength and historic landmarks in Kaduna State."
+      },
+      {
+        "image": "/bg1.png",
+        "title": "Lere – Communities Supporting Development",
+        "subtitle": "Farmers and traders across Lere contribute significantly to food production and commerce in Kaduna State."
+      }
+    ]
+  },
+  "about": {
+    "sectionTitle": "About Lere",
+    "generalInfoHeading": "General Information",
+    "paragraphs": [
+      "Lere Local Government Area is located in the northern region of Kaduna State, Nigeria. The administrative headquarters is Saminaka town.",
+      "The LGA is home to several ethnic groups including Hausa, Fulani, and other indigenous communities that have lived in the region for generations.",
+      "Agriculture is the primary economic activity, with crops such as maize, millet, sorghum, beans, and groundnuts cultivated across the area."
+    ],
+    "readMoreHref": "/about",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17108.35688862335!2d8.56434036857932!3d10.381992991711813!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x105329334f83e63d%3A0x32d4378d1d49bcdb!2sLere%20811104%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773485652149!5m2!1sen!2sng"
+  },
+  "chairman": {
+    "sectionTitle": "Message from the Chairman",
+    "name": "Executive Chairman, Lere Local Government",
+    "image": "/chairman.png",
+    "messageParagraphs": [
+      "Welcome to the official website of Lere Local Government Area. Our administration is committed to strengthening agriculture, improving infrastructure, and enhancing public services for our communities.",
+      "Lere is blessed with hardworking farmers, vibrant markets, and a rich cultural heritage that contributes to Kaduna State's development.",
+      "Through collaboration with our communities and stakeholders, we will continue to pursue sustainable development across the LGA."
+    ]
+  },
+  "agriculture": {
+    "sectionTitle": "Agriculture – Backbone of Lere",
+    "cards": [
+      {
+        "title": "Maize Farming",
+        "subtitle": "Staple Crop",
+        "image": "/maize.jpeg",
+        "description": "Maize is widely cultivated across Lere communities and serves as a staple crop for households."
+      },
+      {
+        "title": "Millet & Sorghum",
+        "subtitle": "Grain Production",
+        "image": "/yam.png",
+        "description": "Millet and sorghum are major grains grown by farmers throughout the LGA."
+      },
+      {
+        "title": "Livestock Rearing",
+        "subtitle": "Animal Husbandry",
+        "image": "/livestock.jpeg",
+        "description": "Cattle, goats, sheep, and poultry are raised across rural communities within Lere."
+      }
+    ],
+    "learnMoreText": "Learn More About Agriculture",
+    "learnMoreHref": "/agriculture"
+  },
+  "news": {
+    "sectionTitle": "Latest News",
+    "subtitle": "Stay informed about development projects, community programs, and government initiatives in Lere."
+  },
+  "footer": {
+    "logo": "/logo.png",
+    "logoAlt": "Lere LGA Logo",
+    "headquarters": "Headquarters: Local Government Secretariat, Saminaka, Kaduna State, Nigeria.",
+    "contact": [
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@lerelga.gov.ng" },
+      { "icon": "mapPin", "text": "Saminaka, Kaduna State" }
+    ],
+    "socialLinks": [
+      { "name": "Facebook", "href": "https://www.facebook.com/", "icon": "facebook" },
+      { "name": "Twitter", "href": "https://x.com/", "icon": "twitter" },
+      { "name": "Instagram", "href": "https://www.instagram.com/", "icon": "instagram" },
+      { "name": "LinkedIn", "href": "https://www.linkedin.com/", "icon": "linkedin" },
+      { "name": "YouTube", "href": "https://www.youtube.com/", "icon": "youtube" }
+    ],
+    "quickLinks": [
+      { "label": "Home", "href": "/" },
+      { "label": "About Lere", "href": "/about" },
+      { "label": "Government", "href": "/government" },
+      { "label": "Projects", "href": "/projects" },
+      { "label": "Agriculture", "href": "/agriculture" },
+      { "label": "News & Events", "href": "/news" }
+    ],
+    "copyright": "© 2026 Lere Local Government Area. All rights reserved."
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "About Lere",
+      "subtitle": "Discover the culture, geography, and economy of Lere Local Government Area.",
+      "image": "/bg1.png"
+    },
+    "tabs": {
+      "general": {
+        "leadership": [
+          "Executive Chairman: Lere Local Government",
+          "Vice Chairman: Deputy Chairman"
+        ],
+        "location": [
+          "Location: Northern Kaduna State, Nigeria",
+          "Headquarters: Saminaka",
+          "Neighboring LGAs: Kubau, Kauru, Ikara, and Sanga."
+        ],
+        "demographics": [
+          "Major Ethnic Groups: Hausa, Fulani, and other indigenous groups.",
+          "Languages Spoken: Hausa and English."
+        ],
+        "economy": [
+          "Main Economic Activities: Farming, livestock rearing, and trading.",
+          "Climate: Tropical savannah climate suitable for agriculture."
+        ]
+      }
+    },
+    "geographyEconomy": {
+      "title": "Geography & Economy",
+      "location": "Lere lies in northern Kaduna State and is known for its fertile farmland and historic landmarks such as Lere Rock.",
+      "climate": "The area experiences a rainy season between May and October and a dry season from November to April.",
+      "mainActivities": [
+        "Crop Farming: Maize, millet, sorghum, beans, and groundnuts.",
+        "Livestock Rearing: Cattle, goats, sheep, and poultry.",
+        "Local Markets: Agricultural trading and commerce across communities."
+      ]
+    }
+  },
+  "governmentPage": {
+    "hero": {
+      "title": "Government",
+      "subtitle": "Leadership and administrative structure of Lere Local Government.",
+      "image": "/bg1.png"
+    },
+    "structure": {
+      "intro": "Lere Local Government operates through an executive leadership supported by a legislative council and administrative departments.",
+      "executive": [
+        "Executive Chairman",
+        "Vice Chairman",
+        "Secretary to the Local Government",
+        "Supervisory Councilors responsible for major sectors."
+      ],
+      "legislative": [
+        "The Legislative Council consists of elected councilors representing wards in Lere.",
+        "A Speaker elected among the councilors presides over legislative sessions."
+      ],
+      "departments": [
+        "Administration and Finance",
+        "Agriculture and Natural Resources",
+        "Health Services",
+        "Works and Housing",
+        "Social Development",
+        "Education Authority"
+      ]
+    },
+    "electoralWards": [
+      { "ward": "Lere" },
+      { "ward": "Saminaka" },
+      { "ward": "Dan Alhaji" },
+      { "ward": "Garu" },
+      { "ward": "Sabon Gari" },
+      { "ward": "Tsohon Gari" }
+    ]
+  },
+  "projectsPage": {
+    "hero": {
+      "title": "Development Projects",
+      "subtitle": "Infrastructure and community development initiatives across Lere Local Government Area.",
+      "image": "/bg1.png"
+    },
+    "introParagraph": "Lere Local Government continues to invest in roads, schools, healthcare, and agricultural support to improve the quality of life for residents."
+  },
+  "agriculturePage": {
+    "hero": {
+      "title": "Agriculture in Lere",
+      "subtitle": "Agriculture remains the backbone of Lere's economy.",
+      "image": "/bg1.png"
+    },
+    "overview": "Farmers across Lere cultivate maize, millet, sorghum, beans, and groundnuts while raising livestock to support food production and local commerce.",
+    "majorCrops": [
+      {
+        "title": "Maize",
+        "description": "A staple crop cultivated widely across Lere communities.",
+        "image": "/maize.jpeg"
+      },
+      {
+        "title": "Millet & Sorghum",
+        "description": "Major grains grown by farmers throughout the LGA.",
+        "image": "/yam.png"
+      },
+      {
+        "title": "Livestock Rearing",
+        "description": "Cattle, goats, sheep, and poultry are raised across Lere communities.",
+        "image": "/livestock.jpeg"
+      }
+    ]
+  },
+  "newsPage": {
+    "metadata": {
+      "title": "News | Lere Local Government",
+      "description": "Latest news and announcements from Lere LGA"
+    },
+    "hero": {
+      "title": "Latest News",
+      "subtitle": "Updates and announcements from Lere Local Government.",
+      "image": "/bg1.png"
+    }
+  },
+  "galleryPage": {
+    "metadata": {
+      "title": "Gallery | Lere Local Government",
+      "description": "A visual journey through Lere LGA"
+    },
+    "hero": {
+      "title": "Lere Gallery",
+      "subtitle": "Explore the culture, communities, and agriculture of Lere Local Government Area.",
+      "image": "/bg1.png"
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Reach out to Lere Local Government for inquiries and information.",
+      "image": "/bg1.png"
+    },
+    "contactDetails": [
+      { "icon": "mapPin", "text": "Lere Local Government Secretariat, Saminaka, Kaduna State, Nigeria" },
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@lerelga.gov.ng" }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17108.35688862335!2d8.56434036857932!3d10.381992991711813!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x105329334f83e63d%3A0x32d4378d1d49bcdb!2sLere%20811104%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773485652149!5m2!1sen!2sng",
+    "successMessage": "Thank you for contacting Lere Local Government. We will get back to you soon."
+  },
+  "upload": {
+    "defaultFolder": "lere/news"
+  },
+  "theme": {
+    "colors": {
+      "brand": "142 71% 45%",
+      "brandHover": "142 71% 40%",
+      "brandDark": "142 60% 30%",
+      "brandMuted": "142 30% 96%",
+      "brandForeground": "0 0% 100%",
+      "brandMutedForeground": "142 20% 35%"
+    }
+  },
+  "dashboard": {
+    "adminLabel": "Lere Admin"
+  }
+}

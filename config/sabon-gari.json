@@ -1,0 +1,171 @@
+{
+  "siteName": "Sabon Gari",
+  "metadata": {
+    "title": "Sabon Gari Local Government",
+    "description": "Official website of Sabon Gari Local Government Area, Kaduna State, Nigeria."
+  },
+  "navbar": {
+    "logo": "/logo.png",
+    "logoAlt": "Sabon Gari LGA Logo",
+    "navLinks": [
+      { "name": "About Sabon Gari", "href": "/about" },
+      { "name": "Government", "href": "/government" },
+      { "name": "Projects", "href": "/projects" },
+      { "name": "Agriculture", "href": "/agriculture" },
+      { "name": "News", "href": "/news" },
+      { "name": "Gallery", "href": "/gallery" }
+    ],
+    "contactButtonLabel": "Contact Us"
+  },
+  "hero": {
+    "slides": [
+      {
+        "image": "/bg1.png",
+        "title": "Sabon Gari – A Commercial Hub",
+        "subtitle": "Sabon Gari Local Government Area is an important commercial and residential center in Kaduna State."
+      },
+      {
+        "image": "/bg2.png",
+        "title": "Sabon Gari – Gateway to Education and Trade",
+        "subtitle": "Its proximity to Ahmadu Bello University and Zaria makes Sabon Gari an active center of commerce and learning."
+      }
+    ]
+  },
+  "about": {
+    "sectionTitle": "About Sabon Gari",
+    "generalInfoHeading": "General Information",
+    "paragraphs": [
+      "Sabon Gari Local Government Area is located in Kaduna State, Nigeria. The administrative headquarters is Sabon Gari town.",
+      "The LGA lies close to Zaria city and serves as a major residential and commercial area supporting trade and services in the region.",
+      "Economic activities include commerce, transportation, education services, and agriculture in surrounding rural communities."
+    ],
+    "readMoreHref": "/about",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8533.194709142565!2d7.7276426427954865!3d11.123007133520643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11b283b0e8657c53%3A0xb5e64ee6cf71ec00!2sSabon%20Gari%2C%20Zaria%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773670528957!5m2!1sen!2sng"
+  },
+  "chairman": {
+    "sectionTitle": "Message from the Chairman",
+    "name": "Executive Chairman, Sabon Gari Local Government",
+    "image": "/chairman.png",
+    "messageParagraphs": [
+      "Welcome to the official website of Sabon Gari Local Government Area. Our administration is committed to improving infrastructure, education, and economic opportunities for residents.",
+      "Sabon Gari serves as a key commercial and residential center supporting the broader Zaria metropolitan area.",
+      "Through responsible governance and collaboration with communities, we aim to build a modern and prosperous local government."
+    ]
+  },
+  "agriculture": {
+    "sectionTitle": "Agriculture – Supporting Local Food Production",
+    "cards": [
+      {
+        "title": "Maize Farming",
+        "subtitle": "Staple Crop",
+        "image": "/maize.jpeg",
+        "description": "Maize is widely cultivated in rural communities surrounding Sabon Gari."
+      },
+      {
+        "title": "Millet & Sorghum",
+        "subtitle": "Grain Crops",
+        "image": "/Millet.jpeg",
+        "description": "Farmers grow millet and sorghum as major grains contributing to local food supply."
+      },
+      {
+        "title": "Livestock Rearing",
+        "subtitle": "Animal Husbandry",
+        "image": "/livestock.jpeg",
+        "description": "Livestock such as cattle, goats, sheep, and poultry are raised in rural areas within the LGA."
+      }
+    ],
+    "learnMoreText": "Learn More About Agriculture",
+    "learnMoreHref": "/agriculture"
+  },
+  "news": {
+    "sectionTitle": "Latest News",
+    "subtitle": "Stay informed about development projects and community initiatives in Sabon Gari."
+  },
+  "footer": {
+    "logo": "/logo.png",
+    "logoAlt": "Sabon Gari LGA Logo",
+    "headquarters": "Headquarters: Local Government Secretariat, Sabon Gari, Kaduna State, Nigeria.",
+    "contact": [
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@sabongarilga.gov.ng" },
+      { "icon": "mapPin", "text": "Sabon Gari, Kaduna State" }
+    ],
+    "quickLinks": [
+      { "label": "Home", "href": "/" },
+      { "label": "About Sabon Gari", "href": "/about" },
+      { "label": "Government", "href": "/government" },
+      { "label": "Projects", "href": "/projects" },
+      { "label": "Agriculture", "href": "/agriculture" },
+      { "label": "News", "href": "/news" }
+    ],
+    "socialLinks": [
+      { "platform": "facebook", "href": "#" },
+      { "platform": "twitter", "href": "#" }
+    ]
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "About Sabon Gari",
+      "subtitle": "Discover the culture, economy, and development of Sabon Gari Local Government Area.",
+      "image": "/bg1.png"
+    },
+    "tabs": {
+      "general": {
+        "leadership": [
+          "Executive Chairman: Sabon Gari Local Government",
+          "Vice Chairman: Deputy Chairman"
+        ],
+        "location": [
+          "Location: Kaduna State, Northern Nigeria",
+          "Headquarters: Sabon Gari",
+          "Neighboring LGAs: Zaria, Igabi, and Soba."
+        ],
+        "demographics": [
+          "Major Ethnic Groups: Hausa, Fulani, and diverse Nigerian communities.",
+          "Languages Spoken: Hausa and English."
+        ],
+        "economy": [
+          "Main Economic Activities: Commerce, transportation, education services, and agriculture.",
+          "Proximity to major institutions including Ahmadu Bello University."
+        ]
+      }
+    },
+    "geographyEconomy": {
+      "title": "Geography & Economy",
+      "location": "Sabon Gari lies within the Zaria metropolitan area and acts as a residential and commercial hub.",
+      "climate": "The LGA experiences a tropical savannah climate with rainy and dry seasons typical of northern Nigeria.",
+      "mainActivities": [
+        "Commerce: Retail markets and trading activities.",
+        "Education Services: Proximity to Ahmadu Bello University and other institutions.",
+        "Agriculture: Farming of maize, millet, sorghum, and livestock rearing."
+      ]
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Reach out to Sabon Gari Local Government for inquiries and information.",
+      "image": "/bg1.png"
+    },
+    "contactDetails": [
+      { "icon": "mapPin", "text": "Sabon Gari Local Government Secretariat, Sabon Gari, Kaduna State, Nigeria" },
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@sabongarilga.gov.ng" }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8533.194709142565!2d7.7276426427954865!3d11.123007133520643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11b283b0e8657c53%3A0xb5e64ee6cf71ec00!2sSabon%20Gari%2C%20Zaria%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773670528957!5m2!1sen!2sng",
+    "successMessage": "Thank you for contacting Sabon Gari Local Government. We will get back to you soon."
+  },
+  "theme": {
+    "colors": {
+      "brand": "142 71% 45%",
+      "brandHover": "142 71% 40%",
+      "brandDark": "142 60% 30%",
+      "brandMuted": "142 30% 96%",
+      "brandForeground": "0 0% 100%",
+      "brandMutedForeground": "142 20% 35%"
+    }
+  },
+  "dashboard": {
+    "adminLabel": "Sabon Gari Admin"
+  }
+}

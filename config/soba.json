@@ -1,0 +1,171 @@
+{
+  "siteName": "Soba",
+  "metadata": {
+    "title": "Soba Local Government",
+    "description": "Official website of Soba Local Government Area, Kaduna State, Nigeria."
+  },
+  "navbar": {
+    "logo": "/logo.png",
+    "logoAlt": "Soba LGA Logo",
+    "navLinks": [
+      { "name": "About Soba", "href": "/about" },
+      { "name": "Government", "href": "/government" },
+      { "name": "Projects", "href": "/projects" },
+      { "name": "Agriculture", "href": "/agriculture" },
+      { "name": "News", "href": "/news" },
+      { "name": "Gallery", "href": "/gallery" }
+    ],
+    "contactButtonLabel": "Contact Us"
+  },
+  "hero": {
+    "slides": [
+      {
+        "image": "/bg1.png",
+        "title": "Soba – Agricultural Strength of Northern Kaduna",
+        "subtitle": "Soba Local Government Area is known for its farming communities and rural markets."
+      },
+      {
+        "image": "/bg2.png",
+        "title": "Soba – Communities Driving Food Production",
+        "subtitle": "Farmers across Soba contribute significantly to grain production in Kaduna State."
+      }
+    ]
+  },
+  "about": {
+    "sectionTitle": "About Soba",
+    "generalInfoHeading": "General Information",
+    "paragraphs": [
+      "Soba Local Government Area is located in the northern region of Kaduna State, Nigeria. The administrative headquarters is Maigana town.",
+      "The LGA is predominantly inhabited by Hausa and Fulani communities along with other indigenous groups.",
+      "Agriculture forms the backbone of the local economy, with crops such as maize, millet, sorghum, beans, and groundnuts widely cultivated."
+    ],
+    "readMoreHref": "/about",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17074.621835860682!2d8.046809803752922!3d10.981544941760108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11ad6c17c6a248b3%3A0xd88176b027454b0e!2sSoba%20801122%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773664382813!5m2!1sen!2sng"
+  },
+  "chairman": {
+    "sectionTitle": "Message from the Chairman",
+    "name": "Executive Chairman, Soba Local Government",
+    "image": "/chairman.png",
+    "messageParagraphs": [
+      "Welcome to the official website of Soba Local Government Area. Our administration remains committed to improving infrastructure, education, and healthcare for our residents.",
+      "Soba is known for its strong agricultural base and hardworking farming communities that contribute to food production in Kaduna State.",
+      "Through transparent governance and collaboration with community leaders, we aim to promote sustainable development across the LGA."
+    ]
+  },
+  "agriculture": {
+    "sectionTitle": "Agriculture – Backbone of Soba",
+    "cards": [
+      {
+        "title": "Maize Farming",
+        "subtitle": "Staple Crop",
+        "image": "/maize.jpeg",
+        "description": "Maize is widely cultivated across Soba communities and serves as a major staple food crop."
+      },
+      {
+        "title": "Millet & Sorghum",
+        "subtitle": "Grain Production",
+        "image": "/Millet.jpeg",
+        "description": "Farmers across the LGA grow millet and sorghum as key grains supporting local food security."
+      },
+      {
+        "title": "Livestock Rearing",
+        "subtitle": "Animal Husbandry",
+        "image": "/livestock.jpeg",
+        "description": "Livestock such as cattle, goats, sheep, and poultry are raised across rural communities in Soba."
+      }
+    ],
+    "learnMoreText": "Learn More About Agriculture",
+    "learnMoreHref": "/agriculture"
+  },
+  "news": {
+    "sectionTitle": "Latest News",
+    "subtitle": "Stay informed about development projects, community programs, and government initiatives in Soba."
+  },
+  "footer": {
+    "logo": "/logo.png",
+    "logoAlt": "Soba LGA Logo",
+    "headquarters": "Headquarters: Local Government Secretariat, Maigana, Kaduna State, Nigeria.",
+    "contact": [
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@sobalga.gov.ng" },
+      { "icon": "mapPin", "text": "Maigana, Kaduna State" }
+    ],
+    "quickLinks": [
+      { "label": "Home", "href": "/" },
+      { "label": "About Soba", "href": "/about" },
+      { "label": "Government", "href": "/government" },
+      { "label": "Projects", "href": "/projects" },
+      { "label": "Agriculture", "href": "/agriculture" },
+      { "label": "News", "href": "/news" }
+    ],
+    "socialLinks": [
+      { "platform": "facebook", "href": "#" },
+      { "platform": "twitter", "href": "#" }
+    ]
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "About Soba",
+      "subtitle": "Discover the culture, geography, and economy of Soba Local Government Area.",
+      "image": "/bg1.png"
+    },
+    "tabs": {
+      "general": {
+        "leadership": [
+          "Executive Chairman: Soba Local Government",
+          "Vice Chairman: Deputy Chairman"
+        ],
+        "location": [
+          "Location: Northern Kaduna State, Nigeria",
+          "Headquarters: Maigana",
+          "Neighboring LGAs: Ikara, Kubau, Zaria, and Kudan."
+        ],
+        "demographics": [
+          "Major Ethnic Groups: Hausa, Fulani.",
+          "Languages Spoken: Hausa and English."
+        ],
+        "economy": [
+          "Main Economic Activities: Farming, livestock rearing, and rural trading.",
+          "Climate: Tropical savannah climate suitable for agriculture."
+        ]
+      }
+    },
+    "geographyEconomy": {
+      "title": "Geography & Economy",
+      "location": "Soba lies within northern Kaduna State and consists largely of rural farming communities and agricultural land.",
+      "climate": "The area experiences a rainy season between May and October and a dry season from November to April.",
+      "mainActivities": [
+        "Crop Farming: Maize, millet, sorghum, beans, and groundnuts.",
+        "Livestock Rearing: Cattle, goats, sheep, and poultry.",
+        "Local Markets: Agricultural trading across rural communities."
+      ]
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Reach out to Soba Local Government for inquiries and information.",
+      "image": "/bg1.png"
+    },
+    "contactDetails": [
+      { "icon": "mapPin", "text": "Soba Local Government Secretariat, Maigana, Kaduna State, Nigeria" },
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@sobalga.gov.ng" }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17074.621835860682!2d8.046809803752922!3d10.981544941760108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11ad6c17c6a248b3%3A0xd88176b027454b0e!2sSoba%20801122%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773664382813!5m2!1sen!2sng",
+    "successMessage": "Thank you for contacting Soba Local Government. We will get back to you soon."
+  },
+  "theme": {
+    "colors": {
+      "brand": "142 71% 45%",
+      "brandHover": "142 71% 40%",
+      "brandDark": "142 60% 30%",
+      "brandMuted": "142 30% 96%",
+      "brandForeground": "0 0% 100%",
+      "brandMutedForeground": "142 20% 35%"
+    }
+  },
+  "dashboard": {
+    "adminLabel": "Soba Admin"
+  }
+}

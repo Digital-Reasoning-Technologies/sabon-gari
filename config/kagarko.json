@@ -1,0 +1,303 @@
+{
+  "siteName": "Kagarko",
+  "metadata": {
+    "title": "Kagarko Local Government",
+    "description": "Official website of Kagarko Local Government Area, Kaduna State - Gateway to progress."
+  },
+  "navbar": {
+    "logo": "/logo.png",
+    "logoAlt": "Kagarko Logo",
+    "navLinks": [
+      { "name": "About Kagarko", "href": "/about" },
+      { "name": "Government", "href": "/government" },
+      { "name": "Projects", "href": "/projects" },
+      { "name": "Agriculture", "href": "/agriculture" },
+      { "name": "News", "href": "/news" },
+      { "name": "Gallery", "href": "/gallery" }
+    ],
+    "contactButtonLabel": "Contact Us"
+  },
+  "hero": {
+    "slides": [
+      {
+        "image": "/bg1.png",
+        "title": "Kagarko is the gateway to progress",
+        "subtitle": "It's a land of heritage, peace, and immense agricultural wealth. Our local economy is a powerhouse of ginger production and trade, fueled by a commitment to modernizing our infrastructure and empowering our people."
+      },
+      {
+        "image": "/bg1.png",
+        "title": "Heritage, Peace, and Growth",
+        "subtitle": "From the Iddah Market to our thriving chiefdoms, Kagarko connects tradition with progress. Discover a community built on diversity, agriculture, and open governance."
+      }
+    ]
+  },
+  "about": {
+    "sectionTitle": "About Kagarko",
+    "generalInfoHeading": "General Information",
+    "paragraphs": [
+      "Kagarko Local Government Area is a strategic gateway located in the southern part of Kaduna State, with its headquarters in the town of Kagarko. Spanning an area of approximately 2,356 km², the LGA is currently led by Hon. Muhuyideen Abdullahi Umar (Chairman).",
+      "The area is a beautiful melting pot of cultures, home to the Koro, Gbagyi, Hausa, Fulani, and Adara tribes. This diversity is our strength, reflected in our vibrant markets and peaceful communal life. Our economy is driven by large-scale farming, being a major contributor to Nigeria's non-oil exports."
+    ],
+    "readMoreHref": "/about",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10306.95444679021!2d7.688774570635563!3d9.489944355296446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104d8b0a93150e8f%3A0x7504399c1b2e4bef!2sKagarko%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1772974940072!5m2!1sen!2sng"
+  },
+  "chairman": {
+    "sectionTitle": "Message from the Chairman",
+    "name": "Hon. Muhuyideen Abdullahi Umar – Chairman",
+    "image": "/chairman.png",
+    "messageParagraphs": [
+      "I warmly welcome you to the official digital portal of Kagarko Local Government. Our land is blessed with fertile soil and industrious people. This platform serves as a bridge between our administration and the world, showcasing our milestones in infrastructure, health, and our world-class agricultural sector.",
+      "Our administration is focused on \"Open Governance\"—ensuring that every project, from rural roads to healthcare centers, improves the life of the common citizen. We invite investors and partners to join us as we transform Kagarko into a modern economic hub."
+    ]
+  },
+  "agriculture": {
+    "sectionTitle": "Agriculture - Farming is our Pride",
+    "cards": [
+      {
+        "title": "Ginger",
+        "subtitle": "The Green Gold",
+"image": "/ginger.png",
+    "description": "Kagarko is the heart of Nigeria's ginger production. Our farmers produce high-pungency ginger that is sought after by international markets for its superior quality."
+      },
+      {
+        "title": "Yams",
+        "subtitle": "The Tuber Hub",
+        "image": "/yam.png",
+        "description": "With the famous Iddah Market as a focal point, Kagarko is one of the largest suppliers of premium yams to the Federal Capital Territory and beyond."
+      },
+      {
+        "title": "Turmeric & Grains",
+        "subtitle": "Diverse Output",
+        "image": "/Turmeric%20%26%20Grains.png",
+        "description": "Beyond ginger, we are leaders in Turmeric, Maize, and Soybean cultivation, supported by a growing network of processing hubs and irrigation sites."
+      }
+    ],
+    "learnMoreText": "Learn More About Our Agriculture",
+    "learnMoreHref": "/agriculture"
+  },
+  "news": {
+    "sectionTitle": "Latest News",
+    "subtitle": "Stay in Touch with Us"
+  },
+  "footer": {
+    "logo": "/logo.png",
+    "logoAlt": "Kagarko LGA Logo",
+    "headquarters": "Headquarters: Local Government Secretariat, Kagarko\nKaduna State, Nigeria.",
+    "contact": [
+      { "icon": "phone", "text": "+234 [Insert Local Phone]" },
+      { "icon": "mail", "text": "General: info@kagarkolga.gov.ng | Support: support@kagarkolga.gov.ng" },
+      { "icon": "mapPin", "text": "Kagarko Local Government Secretariat, Kagarko Town, Kaduna State, Nigeria" }
+    ],
+    "socialLinks": [
+      { "name": "Facebook", "href": "https://www.facebook.com/", "icon": "facebook" },
+      { "name": "Twitter", "href": "https://x.com/", "icon": "twitter" },
+      { "name": "Instagram", "href": "https://www.instagram.com/", "icon": "instagram" },
+      { "name": "LinkedIn", "href": "https://www.linkedin.com/", "icon": "linkedin" },
+      { "name": "YouTube", "href": "https://www.youtube.com/", "icon": "youtube" }
+    ],
+    "quickLinks": [
+      { "label": "Home", "href": "/" },
+      { "label": "About Kagarko", "href": "/about" },
+      { "label": "Government", "href": "/government" },
+      { "label": "Projects", "href": "/projects" },
+      { "label": "Agriculture", "href": "/agriculture" },
+      { "label": "News & Events", "href": "/news" }
+    ],
+    "copyright": "Kagarko Local Government Area. All rights reserved."
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "About Kagarko",
+      "subtitle": "Learn about our history, culture, and the people of Kagarko.",
+      "image": "/bg1.png"
+    },
+    "tabs": {
+      "general": {
+        "leadership": [
+          "Chairman: Hon. Muhuyideen Abdullahi Umar",
+          "Vice Chairman: (Administered via Council)"
+        ],
+        "location": [
+          "Location: Southern Kaduna State, Nigeria",
+          "Headquarters: Kagarko Town",
+          "Area: 2,356 km²",
+          "Neighboring Locations: Bordering Kachia LGA to the North, Jaba LGA to the East, and sharing a significant border with the Federal Capital Territory (Abuja) to the South, and Niger State to the West."
+        ],
+        "demographics": [
+          "Major Tribes: Koro, Gbagyi, Hausa, Fulani, and Adara.",
+          "Languages: Koro, Gbagyi, Hausa, and Fulfulde."
+        ],
+        "economy": [
+          "Main Economic Activities: Intensive Ginger farming, Yam cultivation, Livestock rearing, and Cross-border trading.",
+          "Climate: Tropical Continental climate with a distinct rainy season (April–October) and a dry Harmattan season (November–March)."
+        ]
+      },
+      "history": {
+        "paragraphs": [
+          "Kagarko Local Government Area was established in 1991 in Kaduna State. The name \"Kagarko\" reflects the area's identity as a strategic gateway and a land of diverse communities and rich agricultural heritage.",
+          "Today, our administrative headquarters is located in Kagarko Town, the center of local governance and community life. Kagarko is led by an elected Chairman and Vice Chairman and comprises 10 electoral wards, each represented by an elected councilor, with traditional rulers and village heads providing grassroots support.",
+          "Over the decades, Kagarko has maintained its deep-rooted agricultural traditions—especially in ginger and yam production—while steadily embracing modern development, open governance, and progress."
+        ]
+      },
+      "culture": {
+        "paragraphs": [
+          "Kagarko is known for its rich cultural diversity, with the Koro, Gbagyi, Hausa, Fulani, and Adara tribes coexisting in a vibrant melting pot. Residents take pride in traditional festivals, music, dance, and crafts that have been passed down through generations.",
+          "These cultural expressions not only bind the community together but also highlight our strong connection to the land and our role as a major contributor to Nigeria's non-oil exports."
+        ],
+        "tribes": ["Koro", "Gbagyi", "Hausa", "Fulani", "Adara"],
+        "languages": [
+          "Primary: Koro, Gbagyi, Hausa, Fulfulde",
+          "Secondary: English (official language) and Nigerian Pidgin"
+        ]
+      }
+    },
+    "geographyEconomy": {
+      "title": "Geography & Economy",
+      "location": "Kagarko Local Government is strategically located as the \"Gateway to Kaduna State\" from the nation's capital. It shares vital borders with the FCT (Abuja), making it a critical hub for the supply of agricultural produce to the capital city. This prime location, coupled with highly fertile lands and a favorable moisture profile, has made Ginger and Yam production the backbone of our economy.",
+      "climate": "Kagarko enjoys a tropical climate with moderate temperatures. The high rainfall in the southern part of the LGA supports the growth of root crops and forest-based agriculture.",
+      "mainActivities": [
+        "Farming: Leading producer of Ginger, Turmeric, and Yams in Nigeria.",
+        "Livestock Rearing: Significant cattle and poultry populations.",
+        "Trading: The Iddah Market and Kagarko Central Market are major commercial hubs for traders from Abuja and the North."
+      ]
+    }
+  },
+  "governmentPage": {
+    "hero": {
+      "title": "Government",
+      "subtitle": "Learn about the structure, leadership, and governance of Kagarko Local Government.",
+      "image": "/bg1.png"
+    },
+    "structure": {
+      "intro": "Kagarko LGA is governed by an integrated leadership structure that combines modern democratic representation with a rich traditional system comprising four major chiefdoms.",
+      "executive": [
+        "Chairman: Hon. Muhuyideen Abdullahi Umar (Turaki Jnr)",
+        "Vice Chairman: (Council Appointed)",
+        "Secretary to the Local Government: Hon. Danjuma G. Akuso",
+        "Supervisory Councilors & Special Advisors: Appointed members overseeing Health, Agriculture, and Education."
+      ],
+      "legislative": [
+        "Speaker of the Legislative Council: Elected from among the councilors.",
+        "Members of the Council: 10 elected councilors representing the 10 political wards."
+      ],
+      "departments": [
+        "Admin & Finance Department",
+        "Agriculture & Forestry Department (Focus on Ginger Value Chain)",
+        "Social Development & Information Department",
+        "Works, Housing, Land & Survey Department",
+        "Local Government Education Authority (LGEA)",
+        "Primary Health Care Authority (PHCA)"
+      ]
+    },
+    "leadership": [
+      { "name": "Senator Uba Sani", "title": "Executive Governor of Kaduna State", "image": "/uba.jpeg" },
+      { "name": "Hon. Sadiq Mamman Lagos", "title": "Ministry for Local Government and Chieftaincy Affairs", "image": "/commissioner.PNG" },
+      { "name": "Hon. Muhuyideen Abdullahi Umar", "title": "Chairman", "image": "/chairman.png" },
+      { "name": "Hon. Danjuma G. Akuso", "title": "Council Secretary", "image": "/vice.jpg" }
+    ],
+    "electoralWards": [
+      { "ward": "Kagarko North", "councillor": "Elected Councilor", "image": "/logo.png" },
+      { "ward": "Kagarko South", "councillor": "Elected Councilor", "image": "/logo.png" },
+      { "ward": "Kukui", "councillor": "Elected Councilor", "image": "/logo.png" },
+      { "ward": "Iddah", "councillor": "Elected Councilor", "image": "/logo.png" },
+      { "ward": "Jere North", "councillor": "Elected Councilor", "image": "/logo.png" },
+      { "ward": "Jere South", "councillor": "Elected Councilor", "image": "/logo.png" },
+      { "ward": "Dogon Kurmi", "councillor": "Elected Councilor", "image": "/logo.png" },
+      { "ward": "Kushe", "councillor": "Elected Councilor", "image": "/logo.png" },
+      { "ward": "Kurmin Jibrin", "councillor": "Elected Councilor", "image": "/logo.png" },
+      { "ward": "Katugal", "councillor": "Elected Councilor", "image": "/logo.png" }
+    ],
+    "traditionalInstitution": {
+      "intro": "Unlike many LGAs under a single emirate, Kagarko features a unique multi-chiefdom structure reflecting its diverse ethnic heritage.",
+      "chiefdoms": [
+        "Koro Chiefdom: Headed by the Ere-Koro, HRM Yohanna Akidi.",
+        "Kagarko Emirate: Headed by the Emir of Kagarko, HRH Malam Sa'ad Abubakar.",
+        "Jere Emirate Council: Headed by the Emir of Jere, HRH Dr. Abdullahi Daniya.",
+        "Dnata Chiefdom: Headed by the Esu Dnata, HRH Bitrus James."
+      ],
+      "role": "The traditional rulers in Kagarko are the primary custodians of peace and culture. They work in harmony with the Local Government Chairman to resolve communal issues, manage land disputes, and promote the \"Ginger Revolution\" among local farmers."
+    }
+  },
+  "projectsPage": {
+    "metadata": {
+      "title": "Projects | Kagarko Local Government",
+      "description": "Building a Better Community Together - Explore our infrastructure development initiatives."
+    },
+    "hero": {
+      "title": "Projects",
+      "subtitle": "Building a Better Community Together - Explore our infrastructure development initiatives.",
+      "image": "/bg1.png"
+    },
+    "introParagraph": "At Kagarko Local Government, we believe in transparency and community engagement. This page showcases our completed and ongoing infrastructure projects designed to improve local connectivity, health, and services. We are committed to working closely with our citizens to ensure every initiative meets the needs of our diverse chiefdoms."
+  },
+  "agriculturePage": {
+    "metadata": {
+      "title": "Agriculture | Kagarko Local Government",
+      "description": "Explore agriculture and ginger value chain in Kagarko LGA."
+    },
+    "hero": {
+      "title": "Agriculture in Kagarko",
+      "subtitle": "Discover our agricultural heritage and the crops that make Kagarko a major hub for ginger and yams.",
+      "image": "/bg1.png"
+    },
+    "overview": "Kagarko is the heart of Nigeria's ginger production and a major supplier of premium yams. Our economy is driven by large-scale farming and a commitment to modernizing infrastructure.",
+    "majorCrops": [
+      { "title": "Ginger", "description": "Kagarko is the heart of Nigeria's ginger production. Our farmers produce high-pungency ginger sought after by international markets.", "image": "/ginger.png" },
+      { "title": "Yams", "description": "With the famous Iddah Market as a focal point, Kagarko is one of the largest suppliers of premium yams to the FCT and beyond.", "image": "/yam.png" },
+      { "title": "Turmeric & Grains", "description": "We are leaders in Turmeric, Maize, and Soybean cultivation, supported by a growing network of processing hubs and irrigation sites.", "image": "/Turmeric%20%26%20Grains.png" }
+    ]
+  },
+  "newsPage": {
+    "metadata": {
+      "title": "News | Kagarko Local Government",
+      "description": "Latest news and events from Kagarko LGA"
+    },
+    "hero": {
+      "title": "Latest News",
+      "subtitle": "Stay updated with the latest news, announcements, and upcoming events from Kagarko Local Government.",
+      "image": "/news/newsHero.png"
+    }
+  },
+  "galleryPage": {
+    "metadata": {
+      "title": "Gallery | Kagarko Local Government",
+      "description": "A visual journey through Kagarko LGA"
+    },
+    "hero": {
+      "title": "Discover the Art of Kagarko",
+      "subtitle": "A visual journey through the moments, stories, and creativity that shape the Kagarko Local Government experience.",
+      "image": "/bg1.png"
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "We're here to help and answer any questions you might have about Kagarko Local Government.",
+      "image": "/bg1.png"
+    },
+    "contactDetails": [
+      { "icon": "mapPin", "text": "Kagarko Local Government Secretariat, Kagarko Town, Kaduna State, Nigeria" },
+      { "icon": "phone", "text": "+234 [Insert Local Phone] | Customer Service: [Insert Number]" },
+      { "icon": "mail", "text": "General: info@kagarkolga.gov.ng | Support: support@kagarkolga.gov.ng" }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10306.898615820575!2d7.692074921678323!3d9.491800822543794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104d8b0a93150e8f%3A0x7504399c1b2e4bef!2sKagarko%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1772975534975!5m2!1sen!2sng",
+    "directionsText": "Kagarko Local Government Secretariat is located in Kagarko Town, the headquarters of Kagarko LGA. It is accessible via the main road from Kaduna and Abuja. Public transportation is available from major cities and neighboring local government areas.",
+    "successMessage": "Thank you for contacting Kagarko Local Government. We will get back to you soon."
+  },
+  "upload": {
+    "defaultFolder": "kagarko/news"
+  },
+  "theme": {
+    "colors": {
+      "brand": "142 76% 36%",
+      "brandHover": "142 76% 42%",
+      "brandDark": "142 61% 26%",
+      "brandMuted": "142 40% 96%",
+      "brandForeground": "0 0% 100%",
+      "brandMutedForeground": "142 40% 70%"
+    }
+  },
+  "dashboard": {
+    "adminLabel": "Kagarko Admin"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "siteName": "Jaba",
+  "metadata": {
+    "title": "Jaba Local Government",
+    "description": "Official website of Jaba Local Government Area, Kaduna State, Nigeria."
+  },
+  "navbar": {
+    "logo": "/logo.png",
+    "logoAlt": "Jaba LGA Logo",
+    "navLinks": [
+      { "name": "About Jaba", "href": "/about" },
+      { "name": "Government", "href": "/government" },
+      { "name": "Projects", "href": "/projects" },
+      { "name": "Agriculture", "href": "/agriculture" },
+      { "name": "News", "href": "/news" },
+      { "name": "Gallery", "href": "/gallery" }
+    ],
+    "contactButtonLabel": "Contact Us"
+  },
+  "hero": {
+    "slides": [
+     
+      {
+        "image": "/bg1.png",
+        "title": "Jaba – Home of the Ham People",
+        "subtitle": "Jaba Local Government Area is a culturally rich region in southern Kaduna known for agriculture, strong community traditions, and vibrant local markets."
+      },
+      {
+        "image": "/bg2.png",
+        "title": "Jaba – The Gateway to Progress",
+        "subtitle": "Jaba Local Government Area is a culturally rich region in southern Kaduna known for agriculture, strong community traditions, and vibrant local markets."
+      }
+    ]
+  },
+  "about": {
+    "sectionTitle": "About Jaba",
+    "generalInfoHeading": "General Information",
+    "paragraphs": [
+      "Jaba Local Government Area is located in the southern part of Kaduna State, Nigeria. The headquarters of the LGA is Kwoi town.",
+      "The area is predominantly inhabited by the Ham (Jaba) ethnic group, who have a rich cultural heritage and long history in southern Kaduna.",
+      "Agriculture remains the main economic activity, with farmers producing crops such as maize, millet, sorghum, and groundnuts."
+    ],
+    "readMoreHref": "/about",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d9227.974961964452!2d7.9671375772905995!3d9.853678805704421!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1skachia%20local%20government%20area!5e1!3m2!1sen!2sng!4v1773225069804!5m2!1sen!2sng"
+  },
+  "chairman": {
+    "sectionTitle": "Message from the Chairman",
+    "name": "Executive Chairman, Jaba Local Government",
+    "image": "/chairman.png",
+    "messageParagraphs": [
+      "Welcome to the official website of Jaba Local Government Area. Our administration is dedicated to promoting development through improved infrastructure, education, healthcare, and agricultural support.",
+      "Jaba is blessed with fertile land and hardworking communities who contribute significantly to food production within Kaduna State.",
+      "We are committed to transparent governance and sustainable development that benefits every citizen across our communities."
+    ]
+  },
+  "agriculture": {
+    "sectionTitle": "Agriculture – Backbone of Jaba",
+    "cards": [
+      {
+        "title": "Maize Farming",
+        "subtitle": "Staple Crop",
+        "image": "/maize.jpeg",
+        "description": "Maize is widely cultivated across Jaba communities and serves as an important staple food and commercial crop."
+      },
+      {
+        "title": "Ginger",
+        "subtitle": "The Green Gold",
+        "image": "/ginger.png",
+        "description": "Millet and sorghum are traditional grains grown across the savannah region and remain important food crops in Jaba."
+      },
+      {
+        "title": "Livestock Rearing",
+        "subtitle": "Animal Husbandry",
+        "image": "/livestock.jpeg",
+        "description": "Livestock such as cattle, goats, sheep, and poultry are raised across rural communities within Jaba LGA."
+      }
+    ],
+    "learnMoreText": "Learn More About Agriculture",
+    "learnMoreHref": "/agriculture"
+  },
+  "news": {
+    "sectionTitle": "Latest News",
+    "subtitle": "Stay informed about development projects, community programs, and government initiatives in Jaba."
+  },
+  "footer": {
+    "logo": "/logo.png",
+    "logoAlt": "Jaba LGA Logo",
+    "headquarters": "Headquarters: Local Government Secretariat, Kwoi, Kaduna State, Nigeria.",
+    "contact": [
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@jabalga.gov.ng" },
+      { "icon": "mapPin", "text": "Kwoi, Kaduna State" }
+    ],
+    "quickLinks": [
+      { "label": "Home", "href": "/" },
+      { "label": "About Jaba", "href": "/about" },
+      { "label": "Government", "href": "/government" },
+      { "label": "Projects", "href": "/projects" },
+      { "label": "Agriculture", "href": "/agriculture" },
+      { "label": "News", "href": "/news" }
+    ]
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "About Jaba",
+      "subtitle": "Discover the culture, geography, and economy of Jaba Local Government Area.",
+      "image": "/about.jpg"
+    },
+    "tabs": {
+      "general": {
+        "leadership": [
+          "Executive Chairman: Jaba Local Government",
+          "Vice Chairman: Hon. Gajere Yohanna Bingbotor"
+        ],
+        "location": [
+          "Location: Southern Kaduna State, Nigeria",
+          "Headquarters: Kwoi",
+          "Neighboring LGAs: Jema’a, Zangon Kataf, and Kauru."
+        ],
+        "demographics": [
+          "Major Ethnic Group: Ham (Jaba) people.",
+          "Languages Spoken: Ham language and Hausa."
+        ],
+        "economy": [
+          "Main Economic Activities: Farming, livestock rearing, and local trading.",
+          "Climate: Tropical savannah climate suitable for crop farming."
+        ]
+      }
+    },
+    "geographyEconomy": {
+      "title": "Geography & Economy",
+      "location": "Jaba lies within the southern Kaduna region with fertile agricultural land suitable for grain and root crop production.",
+      "climate": "The area experiences a rainy season between May and October and a dry season between November and April.",
+      "mainActivities": [
+        "Crop Farming: Maize, millet, sorghum, and groundnuts.",
+        "Livestock Rearing: Cattle, goats, sheep, and poultry.",
+        "Local Markets: Agricultural produce trading across rural communities."
+      ]
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Reach out to Jaba Local Government for inquiries and information.",
+      "image": "/bg1.png"
+    },
+    "contactDetails": [
+      { "icon": "mapPin", "text": "Jaba Local Government Secretariat, Kwoi, Kaduna State, Nigeria" },
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@jabalga.gov.ng" }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d9227.974961964452!2d7.9671375772905995!3d9.853678805704421!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1skachia%20local%20government%20area!5e1!3m2!1sen!2sng!4v1773225069804!5m2!1sen!2sng",
+    "successMessage": "Thank you for contacting Jaba Local Government. We will get back to you soon."
+  },
+  "theme": {
+    "colors": {
+      "brand": "142 71% 45%",
+      "brandHover": "142 71% 40%",
+      "brandDark": "142 60% 30%",
+      "brandMuted": "142 30% 96%",
+      "brandForeground": "0 0% 100%",
+      "brandMutedForeground": "142 20% 35%"
+    }
+  },
+  "dashboard": {
+    "adminLabel": "Jaba Admin"
+  }
+}

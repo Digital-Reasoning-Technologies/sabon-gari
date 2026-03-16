@@ -1,0 +1,269 @@
+{
+  "siteName": "Kauru",
+  "metadata": {
+    "title": "Kauru Local Government",
+    "description": "Official website of Kauru Local Government Area, Kaduna State, Nigeria."
+  },
+  "navbar": {
+    "logo": "/logo.png",
+    "logoAlt": "Kauru LGA Logo",
+    "navLinks": [
+      { "name": "About Kauru", "href": "/about" },
+      { "name": "Government", "href": "/government" },
+      { "name": "Projects", "href": "/projects" },
+      { "name": "Agriculture", "href": "/agriculture" },
+      { "name": "News", "href": "/news" },
+      { "name": "Gallery", "href": "/gallery" }
+    ],
+    "contactButtonLabel": "Contact Us"
+  },
+  "hero": {
+    "slides": [
+      {
+        "image": "/bg1.png",
+        "title": "Kauru – A Land of Agriculture and Heritage",
+        "subtitle": "Kauru Local Government Area is known for its fertile lands and strong agricultural communities in southern Kaduna."
+      },
+      {
+        "image": "/bg1.png",
+        "title": "Kauru – Communities Driving Development",
+        "subtitle": "Farmers and traders across Kauru contribute significantly to food production and local commerce in Kaduna State."
+      }
+    ]
+  },
+  "about": {
+    "sectionTitle": "About Kauru",
+    "generalInfoHeading": "General Information",
+    "paragraphs": [
+      "Kauru Local Government Area is located in the southern region of Kaduna State, Nigeria. The administrative headquarters is Kauru town.",
+      "The area is home to diverse ethnic groups including the Gbagyi (Gbari), Hausa, Fulani, and other indigenous communities.",
+      "Agriculture remains the dominant economic activity with crops such as maize, millet, sorghum, ginger, and groundnuts widely cultivated."
+    ],
+    "readMoreHref": "/about",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8548.845552320545!2d8.145160642775666!3d10.575181754885012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11ad3596b343684b%3A0xc9360b7236a15473!2sKauru%20800106%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773483466014!5m2!1sen!2sng"
+  },
+  "chairman": {
+    "sectionTitle": "Message from the Chairman",
+    "name": "Executive Chairman, Kauru Local Government",
+    "image": "/chairman.png",
+    "messageParagraphs": [
+      "Welcome to the official website of Kauru Local Government Area. Our administration is committed to improving infrastructure, education, healthcare, and economic opportunities for our communities.",
+      "Kauru is blessed with fertile land and hardworking farmers who contribute significantly to Kaduna State's agricultural economy.",
+      "Through good governance and collaboration with our communities, we aim to achieve sustainable development across the local government."
+    ]
+  },
+  "agriculture": {
+    "sectionTitle": "Agriculture – Backbone of Kauru",
+    "cards": [
+      {
+        "title": "Maize Farming",
+        "subtitle": "Staple Crop",
+        "image": "/maize.jpeg",
+        "description": "Maize is widely cultivated across Kauru communities and remains an important staple food crop."
+      },
+      {
+        "title": "Ginger Farming",
+        "subtitle": "Major Cash Crop",
+        "image": "/ginger.png",
+        "description": "Ginger is grown by farmers in Kauru and contributes to Kaduna State's reputation as a major ginger-producing region."
+      },
+      {
+        "title": "Livestock Rearing",
+        "subtitle": "Animal Husbandry",
+        "image": "/livestock.jpeg",
+        "description": "Cattle, goats, sheep, and poultry are raised across rural communities within Kauru Local Government Area."
+      }
+    ],
+    "learnMoreText": "Learn More About Agriculture",
+    "learnMoreHref": "/agriculture"
+  },
+  "news": {
+    "sectionTitle": "Latest News",
+    "subtitle": "Stay informed about development projects, community programs, and government initiatives in Kauru."
+  },
+  "footer": {
+    "logo": "/logo.png",
+    "logoAlt": "Kauru LGA Logo",
+    "headquarters": "Headquarters: Local Government Secretariat, Kauru, Kaduna State, Nigeria.",
+    "contact": [
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@kaurulga.gov.ng" },
+      { "icon": "mapPin", "text": "Kauru, Kaduna State" }
+    ],
+    "socialLinks": [
+      { "name": "Facebook", "href": "https://www.facebook.com/", "icon": "facebook" },
+      { "name": "Twitter", "href": "https://x.com/", "icon": "twitter" },
+      { "name": "Instagram", "href": "https://www.instagram.com/", "icon": "instagram" },
+      { "name": "LinkedIn", "href": "https://www.linkedin.com/", "icon": "linkedin" },
+      { "name": "YouTube", "href": "https://www.youtube.com/", "icon": "youtube" }
+    ],
+    "quickLinks": [
+      { "label": "Home", "href": "/" },
+      { "label": "About Kauru", "href": "/about" },
+      { "label": "Government", "href": "/government" },
+      { "label": "Projects", "href": "/projects" },
+      { "label": "Agriculture", "href": "/agriculture" },
+      { "label": "News & Events", "href": "/news" }
+    ],
+    "copyright": "© 2026 Kauru Local Government Area. All rights reserved."
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "About Kauru",
+      "subtitle": "Discover the culture, geography, and economy of Kauru Local Government Area.",
+      "image": "/bg1.png"
+    },
+    "tabs": {
+      "general": {
+        "leadership": [
+          "Executive Chairman: Kauru Local Government",
+          "Vice Chairman: Deputy Chairman"
+        ],
+        "location": [
+          "Location: Southern Kaduna State, Nigeria",
+          "Headquarters: Kauru",
+          "Neighboring LGAs: Kajuru, Zangon Kataf, and Sanga."
+        ],
+        "demographics": [
+          "Major Ethnic Groups: Gbagyi (Gbari), Hausa, Fulani.",
+          "Languages Spoken: Gbagyi language, Hausa, and English."
+        ],
+        "economy": [
+          "Main Economic Activities: Farming, livestock rearing, and trading.",
+          "Climate: Tropical savannah climate suitable for agriculture."
+        ]
+      }
+    },
+    "geographyEconomy": {
+      "title": "Geography & Economy",
+      "location": "Kauru lies within the southern Kaduna region and has fertile agricultural land suitable for crop production.",
+      "climate": "The area experiences a rainy season from May to October and a dry season from November to April.",
+      "mainActivities": [
+        "Crop Farming: Maize, millet, sorghum, ginger, and groundnuts.",
+        "Livestock Rearing: Cattle, goats, sheep, and poultry.",
+        "Local Markets: Agricultural produce trading across rural communities."
+      ]
+    }
+  },
+  "governmentPage": {
+    "hero": {
+      "title": "Government",
+      "subtitle": "Leadership and administrative structure of Kauru Local Government.",
+      "image": "/bg1.png"
+    },
+    "structure": {
+      "intro": "Kauru Local Government operates through an executive leadership supported by a legislative council and administrative departments.",
+      "executive": [
+        "Executive Chairman",
+        "Vice Chairman",
+        "Secretary to the Local Government",
+        "Supervisory Councilors responsible for major sectors."
+      ],
+      "legislative": [
+        "The Legislative Council consists of elected councilors representing wards in Kauru.",
+        "A Speaker elected among the councilors presides over legislative sessions."
+      ],
+      "departments": [
+        "Administration and Finance",
+        "Agriculture and Natural Resources",
+        "Health Services",
+        "Works and Housing",
+        "Social Development",
+        "Education Authority"
+      ]
+    },
+    "electoralWards": [
+      { "ward": "Kauru" },
+      { "ward": "Kumana" },
+      { "ward": "Kachia Road" },
+      { "ward": "Badurum" },
+      { "ward": "Kurmin Musa" },
+      { "ward": "Rumada" }
+    ]
+  },
+  "projectsPage": {
+    "hero": {
+      "title": "Development Projects",
+      "subtitle": "Infrastructure and community development initiatives across Kauru Local Government Area.",
+      "image": "/bg1.png"
+    },
+    "introParagraph": "Kauru Local Government continues to invest in roads, education, healthcare, and agricultural development to improve the lives of its residents."
+  },
+  "agriculturePage": {
+    "hero": {
+      "title": "Agriculture in Kauru",
+      "subtitle": "Agriculture remains the backbone of Kauru's economy.",
+      "image": "/bg1.png"
+    },
+    "overview": "Farmers across Kauru cultivate maize, ginger, millet, sorghum, and groundnuts while raising livestock to support local food production and income.",
+    "majorCrops": [
+      {
+        "title": "Maize",
+        "description": "A staple crop cultivated widely across Kauru communities.",
+        "image": "/maize.jpeg"
+      },
+      {
+        "title": "Ginger",
+        "description": "A major cash crop grown by farmers across southern Kaduna.",
+        "image": "/ginger.png"
+      },
+      {
+        "title": "Livestock Rearing",
+        "description": "Cattle, goats, sheep, and poultry are raised across Kauru communities.",
+        "image": "/livestock.jpeg"
+      }
+    ]
+  },
+  "newsPage": {
+    "metadata": {
+      "title": "News | Kauru Local Government",
+      "description": "Latest news and announcements from Kauru LGA"
+    },
+    "hero": {
+      "title": "Latest News",
+      "subtitle": "Updates and announcements from Kauru Local Government.",
+      "image": "/bg1.png"
+    }
+  },
+  "galleryPage": {
+    "metadata": {
+      "title": "Gallery | Kauru Local Government",
+      "description": "A visual journey through Kauru LGA"
+    },
+    "hero": {
+      "title": "Kauru Gallery",
+      "subtitle": "Explore the culture, communities, and agriculture of Kauru Local Government Area.",
+      "image": "/bg1.png"
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Reach out to Kauru Local Government for inquiries and information.",
+      "image": "/bg1.png"
+    },
+    "contactDetails": [
+      { "icon": "mapPin", "text": "Kauru Local Government Secretariat, Kauru, Kaduna State, Nigeria" },
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@kaurulga.gov.ng" }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8548.845552320545!2d8.145160642775666!3d10.575181754885012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11ad3596b343684b%3A0xc9360b7236a15473!2sKauru%20800106%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773483466014!5m2!1sen!2sng",
+    "successMessage": "Thank you for contacting Kauru Local Government. We will get back to you soon."
+  },
+  "upload": {
+    "defaultFolder": "kauru/news"
+  },
+  "theme": {
+    "colors": {
+      "brand": "142 71% 45%",
+      "brandHover": "142 71% 40%",
+      "brandDark": "142 60% 30%",
+      "brandMuted": "142 30% 96%",
+      "brandForeground": "0 0% 100%",
+      "brandMutedForeground": "142 20% 35%"
+    }
+  },
+  "dashboard": {
+    "adminLabel": "Kauru Admin"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "siteName": "Sanga",
+  "metadata": {
+    "title": "Sanga Local Government",
+    "description": "Official website of Sanga Local Government Area, Kaduna State, Nigeria."
+  },
+
+  "navbar": {
+    "logo": "/logo.png",
+    "logoAlt": "Sanga LGA Logo",
+    "navLinks": [
+      { "name": "About Sanga", "href": "/about" },
+      { "name": "Government", "href": "/government" },
+      { "name": "Projects", "href": "/projects" },
+      { "name": "Agriculture", "href": "/agriculture" },
+      { "name": "News", "href": "/news" },
+      { "name": "Gallery", "href": "/gallery" }
+    ],
+    "contactButtonLabel": "Contact Us"
+  },
+
+  "hero": {
+    "slides": [
+      {
+        "image": "/bg1.png",
+        "title": "Sanga – Heritage and Agriculture",
+        "subtitle": "Sanga Local Government Area is known for its rich cultural heritage and fertile agricultural land in southern Kaduna."
+      },
+      {
+        "image": "/bg2.png",
+        "title": "Sanga – Communities Supporting Development",
+        "subtitle": "Farmers and traders across Sanga contribute to food production and economic activity in Kaduna State."
+      }
+    ]
+  },
+
+  "about": {
+    "sectionTitle": "About Sanga",
+    "generalInfoHeading": "General Information",
+    "paragraphs": [
+      "Sanga Local Government Area is located in the southern region of Kaduna State, Nigeria. The administrative headquarters is Gwantu town.",
+      "The LGA is home to several indigenous ethnic groups including Numana, Ninzam, Mada, as well as Hausa and Fulani communities.",
+      "Agriculture is the main economic activity, with crops such as maize, millet, sorghum, and groundnuts cultivated across rural communities."
+    ],
+    "readMoreHref": "/about",
+    "mapEmbedUrl": "https://www.google.com/maps?q=Sanga+Kaduna&t=k&output=embed"
+  },
+
+  "chairman": {
+    "sectionTitle": "Message from the Chairman",
+    "name": "Executive Chairman, Sanga Local Government",
+    "image": "/chairman.png",
+    "messageParagraphs": [
+      "Welcome to the official website of Sanga Local Government Area. Our administration is committed to strengthening agriculture, improving infrastructure, and delivering quality public services to our communities.",
+      "Sanga is blessed with fertile land and hardworking farmers who contribute significantly to Kaduna State’s agricultural production.",
+      "Through transparent governance and collaboration with community leaders, we aim to achieve sustainable development for all residents."
+    ]
+  },
+
+  "agriculture": {
+    "sectionTitle": "Agriculture – Backbone of Sanga",
+    "cards": [
+      {
+        "title": "Maize Farming",
+        "subtitle": "Staple Crop",
+        "image": "/maize.jpeg",
+        "description": "Maize is widely cultivated across Sanga communities and serves as a staple food crop."
+      },
+      {
+        "title": "Millet & Sorghum",
+        "subtitle": "Grain Production",
+        "image": "/millet.jpeg",
+        "description": "Millet and sorghum are important grains grown by farmers throughout the LGA."
+      },
+      {
+        "title": "Livestock Rearing",
+        "subtitle": "Animal Husbandry",
+        "image": "/livestock.jpeg",
+        "description": "Livestock such as cattle, goats, sheep, and poultry are raised across rural communities within Sanga."
+      }
+    ],
+    "learnMoreText": "Learn More About Agriculture",
+    "learnMoreHref": "/agriculture"
+  },
+
+  "news": {
+    "sectionTitle": "Latest News",
+    "subtitle": "Stay informed about development projects, community programs, and government initiatives in Sanga."
+  },
+
+  "footer": {
+    "logo": "/logo.png",
+    "logoAlt": "Sanga LGA Logo",
+    "headquarters": "Headquarters: Local Government Secretariat, Gwantu, Kaduna State, Nigeria.",
+    "contact": [
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@sangalga.gov.ng" },
+      { "icon": "mapPin", "text": "Gwantu, Kaduna State" }
+    ],
+    "quickLinks": [
+      { "label": "Home", "href": "/" },
+      { "label": "About Sanga", "href": "/about" },
+      { "label": "Government", "href": "/government" },
+      { "label": "Projects", "href": "/projects" },
+      { "label": "Agriculture", "href": "/agriculture" },
+      { "label": "News", "href": "/news" }
+    ]
+  },
+
+  "aboutPage": {
+    "hero": {
+      "title": "About Sanga",
+      "subtitle": "Discover the culture, geography, and economy of Sanga Local Government Area.",
+      "image": "/bg1.png"
+    },
+
+    "tabs": {
+      "general": {
+        "leadership": [
+          "Executive Chairman: Sanga Local Government",
+          "Vice Chairman: Deputy Chairman"
+        ],
+
+        "location": [
+          "Location: Southern Kaduna State, Nigeria",
+          "Headquarters: Gwantu",
+          "Neighboring LGAs: Jema'a, Kauru, and Kaura."
+        ],
+
+        "demographics": [
+          "Major Ethnic Groups: Numana, Ninzam, Mada, Hausa, Fulani.",
+          "Languages Spoken: Local indigenous languages, Hausa, and English."
+        ],
+
+        "economy": [
+          "Main Economic Activities: Farming, livestock rearing, and rural trading.",
+          "Climate: Tropical savannah climate suitable for agriculture."
+        ]
+      }
+    },
+
+    "geographyEconomy": {
+      "title": "Geography & Economy",
+      "location": "Sanga lies within the southern Kaduna region and is characterized by fertile farmland and rural communities.",
+      "climate": "The area experiences a rainy season between May and October and a dry season from November to April.",
+      "mainActivities": [
+        "Crop Farming: Maize, millet, sorghum, and groundnuts.",
+        "Livestock Rearing: Cattle, goats, sheep, and poultry.",
+        "Local Markets: Agricultural trading across rural communities."
+      ]
+    }
+  },
+
+  "contactPage": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Reach out to Sanga Local Government for inquiries and information.",
+      "image": "/bg1.png"
+    },
+
+    "contactDetails": [
+      { "icon": "mapPin", "text": "Sanga Local Government Secretariat, Gwantu, Kaduna State, Nigeria" },
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@sangalga.gov.ng" }
+    ],
+
+    "mapEmbedUrl": "https://www.google.com/maps?q=Sanga+Kaduna&t=k&output=embed",
+
+    "successMessage": "Thank you for contacting Sanga Local Government. We will get back to you soon."
+  },
+
+  "theme": {
+    "colors": {
+      "brand": "142 71% 45%",
+      "brandHover": "142 71% 40%",
+      "brandDark": "142 60% 30%",
+      "brandMuted": "142 30% 96%",
+      "brandForeground": "0 0% 100%",
+      "brandMutedForeground": "142 20% 35%"
+    }
+  },
+
+  "dashboard": {
+    "adminLabel": "Sanga Admin"
+  }
+}

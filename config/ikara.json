@@ -1,0 +1,273 @@
+{
+  "siteName": "Ikara",
+  "metadata": {
+    "title": "Ikara Local Government",
+    "description": "Official website of Ikara Local Government Area, Kaduna State, Nigeria."
+  },
+  "navbar": {
+    "logo": "/logo.png",
+    "logoAlt": "Ikara LGA Logo",
+    "navLinks": [
+      { "name": "About Ikara", "href": "/about" },
+      { "name": "Government", "href": "/government" },
+      { "name": "Projects", "href": "/projects" },
+      { "name": "Agriculture", "href": "/agriculture" },
+      { "name": "News", "href": "/news" },
+      { "name": "Gallery", "href": "/gallery" }
+    ],
+    "contactButtonLabel": "Contact Us"
+  },
+  "hero": {
+    "slides": [
+      {
+        "image": "/bg1.png",
+        "title": "Ikara – A Strong Agricultural Hub",
+        "subtitle": "Ikara Local Government Area is a vibrant farming region in northern Kaduna State known for grain production and strong rural markets."
+      },
+      {
+        "image": "/bg2.png",
+        "title": "Heritage, Peace, and Growth",
+        "subtitle": "Ikara Local Government Area is a vibrant farming region in northern Kaduna State known for grain production and strong rural markets."
+      }
+    ]
+  },
+  "about": {
+    "sectionTitle": "About Ikara",
+    "generalInfoHeading": "General Information",
+    "paragraphs": [
+      "Ikara Local Government Area is located in the northern part of Kaduna State, Nigeria. The administrative headquarters is in Ikara town.",
+      "The LGA is well known for its agricultural activities and serves as an important food-producing area for Kaduna State and neighboring regions.",
+      "Communities in Ikara are predominantly Hausa and Fulani, with farming and livestock rearing forming the backbone of the local economy."
+    ],
+    "readMoreHref": "/about",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15985.315897605013!2d8.217207397402403!3d11.173251791461476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11ad097be5072cc1%3A0xbe6eec7248705197!2sIkara%20801126%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773157459986!5m2!1sen!2sng"
+  },
+  "chairman": {
+    "sectionTitle": "Message from the Chairman",
+    "name": "Executive Chairman, Ikara Local Government",
+    "image": "/chairman.png",
+    "messageParagraphs": [
+      "Welcome to the official website of Ikara Local Government Area. Our administration is committed to strengthening agriculture, improving infrastructure, and promoting education and healthcare across our communities.",
+      "Ikara is blessed with hardworking farmers and fertile lands that support food production for Kaduna State.",
+      "We remain dedicated to transparent governance and sustainable development that benefits every citizen."
+    ]
+  },
+  "agriculture": {
+    "sectionTitle": "Agriculture – Backbone of Ikara",
+    "cards": [
+      {
+        "title": "Maize Farming",
+        "subtitle": "Major Staple Crop",
+        "image": "/maize.jpeg",
+        "description": "Maize is widely cultivated across Ikara and serves as both a staple food and commercial crop."
+      },
+      {
+        "title": "Yam Farming",
+        "subtitle": "Traditional Grain Crops",
+        "image": "/yam.png",
+        "description": "Millet and sorghum thrive in the savannah climate of Ikara and are essential grains grown by local farmers."
+      },
+      {
+        "title": "Livestock Rearing",
+        "subtitle": "Animal Husbandry",
+        "image": "/livestock.jpeg",
+        "description": "Livestock such as cattle, goats, and sheep are raised across Ikara communities, supporting household income."
+      }
+    ],
+    "learnMoreText": "Learn More About Agriculture",
+    "learnMoreHref": "/agriculture"
+  },
+  "news": {
+    "sectionTitle": "Latest News",
+    "subtitle": "Stay updated with community projects, government programs, and development initiatives in Ikara."
+  },
+  "footer": {
+    "logo": "/logo.png",
+    "logoAlt": "Ikara LGA Logo",
+    "headquarters": "Headquarters: Local Government Secretariat, Ikara Town, Kaduna State, Nigeria.",
+    "contact": [
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@ikaralga.gov.ng" },
+      { "icon": "mapPin", "text": "Ikara Town, Kaduna State" }
+    ],
+    "socialLinks": [
+      { "name": "Facebook", "href": "https://www.facebook.com/", "icon": "facebook" },
+      { "name": "Twitter", "href": "https://x.com/", "icon": "twitter" },
+      { "name": "Instagram", "href": "https://www.instagram.com/", "icon": "instagram" },
+      { "name": "LinkedIn", "href": "https://www.linkedin.com/", "icon": "linkedin" },
+      { "name": "YouTube", "href": "https://www.youtube.com/", "icon": "youtube" }
+    ],
+    "quickLinks": [
+      { "label": "Home", "href": "/" },
+      { "label": "About Ikara", "href": "/about" },
+      { "label": "Government", "href": "/government" },
+      { "label": "Projects", "href": "/projects" },
+      { "label": "Agriculture", "href": "/agriculture" },
+      { "label": "News & Events", "href": "/news" }
+    ],
+    "copyright": "© 2026 Ikara Local Government Area. All rights reserved."
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "About Ikara",
+      "subtitle": "Learn about the people, geography, and economy of Ikara Local Government Area.",
+      "image": "/bg1.png"
+    },
+    "tabs": {
+      "general": {
+        "leadership": [
+          "Executive Chairman: Ikara Local Government",
+          "Vice Chairman: Deputy Chairman"
+        ],
+        "location": [
+          "Location: Northern Kaduna State, Nigeria",
+          "Headquarters: Ikara Town",
+          "Neighboring LGAs: Makarfi, Kubau, Sabon Gari, Zaria, and Kauru."
+        ],
+        "demographics": [
+          "Major Ethnic Groups: Hausa and Fulani.",
+          "Languages Spoken: Hausa and Fulfulde."
+        ],
+        "economy": [
+          "Main Economic Activities: Farming, livestock rearing, and grain trading.",
+          "Climate: Tropical savannah climate with seasonal rainfall."
+        ]
+      }
+    },
+    "geographyEconomy": {
+      "title": "Geography & Economy",
+      "location": "Ikara lies within the Northern Guinea Savannah region, providing fertile soil for crop farming.",
+      "climate": "The region experiences a wet season between May and October and a dry season between November and April.",
+      "mainActivities": [
+        "Crop Farming: Maize, millet, sorghum, and groundnuts.",
+        "Livestock Rearing: Cattle, goats, sheep, and poultry.",
+        "Local Markets: Grain trading and agricultural produce markets."
+      ]
+    }
+  },
+  "governmentPage": {
+    "hero": {
+      "title": "Government",
+      "subtitle": "Leadership and administrative structure of Ikara Local Government.",
+      "image": "/bg1.png"
+    },
+    "structure": {
+      "intro": "Ikara Local Government operates through an executive leadership supported by a legislative council and administrative departments.",
+      "executive": [
+        "Executive Chairman",
+        "Vice Chairman",
+        "Secretary to the Local Government",
+        "Supervisory Councilors responsible for major sectors."
+      ],
+      "legislative": [
+        "The Legislative Council consists of elected councilors representing wards in Ikara.",
+        "A Speaker elected among the councilors presides over legislative sessions."
+      ],
+      "departments": [
+        "Administration and Finance",
+        "Agriculture and Natural Resources",
+        "Health Services",
+        "Works and Housing",
+        "Social Development",
+        "Education Authority"
+      ]
+    },
+    "electoralWards": [
+      { "ward": "Ikara" },
+      { "ward": "Rumi" },
+      { "ward": "Saulawa" },
+      { "ward": "Taban Sani" },
+      { "ward": "Paki" },
+      { "ward": "Sauwa" },
+      { "ward": "Danlawal" },
+      { "ward": "Kuya" },
+      { "ward": "Janfalan" },
+      { "ward": "Malikan Fagi" }
+    ]
+  },
+  "projectsPage": {
+    "hero": {
+      "title": "Development Projects",
+      "subtitle": "Infrastructure and community development initiatives across Ikara Local Government Area.",
+      "image": "/bg1.png"
+    },
+    "introParagraph": "Ikara Local Government continues to invest in roads, healthcare, schools, and agricultural support to improve the quality of life for residents."
+  },
+  "agriculturePage": {
+    "hero": {
+      "title": "Agriculture in Ikara",
+      "subtitle": "Agriculture remains the backbone of Ikara's economy.",
+      "image": "/bg1.png"
+    },
+    "overview": "Farmers across Ikara cultivate maize, millet, sorghum, and groundnuts and rear livestock, supplying food to Kaduna State and neighboring regions.",
+    "majorCrops": [
+      {
+        "title": "Maize",
+        "description": "A staple crop cultivated widely across Ikara communities.",
+        "image": "/maize.jpeg"
+      },
+      {
+        "title": "Yam Farming",
+        "description": "Traditional grains widely grown across the savannah region.",
+        "image": "/yam.png"
+      },
+      {
+        "title": "Livestock Rearing",
+        "description": "Livestock such as cattle, goats, and sheep support household income across Ikara.",
+        "image": "/livestock.jpeg"
+      }
+    ]
+  },
+  "newsPage": {
+    "metadata": {
+      "title": "News | Ikara Local Government",
+      "description": "Latest news and announcements from Ikara LGA"
+    },
+    "hero": {
+      "title": "Latest News",
+      "subtitle": "Updates and announcements from Ikara Local Government.",
+      "image": "/bg1.png"
+    }
+  },
+  "galleryPage": {
+    "metadata": {
+      "title": "Gallery | Ikara Local Government",
+      "description": "A visual journey through Ikara LGA"
+    },
+    "hero": {
+      "title": "Ikara Gallery",
+      "subtitle": "Explore the culture, communities, and agriculture of Ikara Local Government Area.",
+      "image": "/bg1.png"
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Reach out to Ikara Local Government for inquiries and information.",
+      "image": "/bg1.png"
+    },
+    "contactDetails": [
+      { "icon": "mapPin", "text": "Ikara Local Government Secretariat, Ikara Town, Kaduna State, Nigeria" },
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@ikaralga.gov.ng" }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15985.315897605013!2d8.217207397402403!3d11.173251791461476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11ad097be5072cc1%3A0xbe6eec7248705197!2sIkara%20801126%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773157459986!5m2!1sen!2sng",
+    "successMessage": "Thank you for contacting Ikara Local Government. We will get back to you soon."
+  },
+  "upload": {
+    "defaultFolder": "ikara/news"
+  },
+  "theme": {
+    "colors": {
+      "brand": "142 71% 45%",
+      "brandHover": "142 71% 40%",
+      "brandDark": "142 60% 30%",
+      "brandMuted": "142 30% 96%",
+      "brandForeground": "0 0% 100%",
+      "brandMutedForeground": "142 20% 35%"
+    }
+  },
+  "dashboard": {
+    "adminLabel": "Ikara Admin"
+  }
+}

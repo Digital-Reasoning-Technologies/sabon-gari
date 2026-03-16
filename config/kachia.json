@@ -1,0 +1,272 @@
+{
+  "siteName": "Kachia",
+  "metadata": {
+    "title": "Kachia Local Government",
+    "description": "Official website of Kachia Local Government Area, Kaduna State, Nigeria."
+  },
+  "navbar": {
+    "logo": "/logo.png",
+    "logoAlt": "Kachia LGA Logo",
+    "navLinks": [
+      { "name": "About Kachia", "href": "/about" },
+      { "name": "Government", "href": "/government" },
+      { "name": "Projects", "href": "/projects" },
+      { "name": "Agriculture", "href": "/agriculture" },
+      { "name": "News", "href": "/news" },
+      { "name": "Gallery", "href": "/gallery" }
+    ],
+    "contactButtonLabel": "Contact Us"
+  },
+  "hero": {
+    "slides": [
+      {
+        "image": "/bg2.png",
+        "title": "Kachia – A Land of Rich Culture",
+        "subtitle": "Kachia Local Government Area is one of the largest LGAs in southern Kaduna, known for its agricultural strength and vibrant local communities."
+      },
+      {
+        "image": "/bg1.png",
+        "title": "Kachia – Agricultural Strength of Southern Kaduna",
+        "subtitle": "Farmers across Kachia contribute significantly to Kaduna State's production of grains, ginger, and other important crops."
+      }
+    ]
+  },
+  "about": {
+    "sectionTitle": "About Kachia",
+    "generalInfoHeading": "General Information",
+    "paragraphs": [
+      "Kachia Local Government Area is located in the southern region of Kaduna State, Nigeria. The administrative headquarters is Kachia town.",
+      "The area is home to several ethnic communities including the Adara (Kadara) people, Gbagyi, Hausa, and Fulani, each contributing to the region's cultural diversity.",
+      "Agriculture is the dominant economic activity, with crops such as maize, ginger, millet, sorghum, and groundnuts cultivated across the LGA."
+    ],
+    "readMoreHref": "/about",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d34270.36348473173!2d7.933944429436266!3d9.879618003502529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x105286223e46f6fd%3A0x6de8f8c36e9b4444!2sKachia%20802156%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773330788673!5m2!1sen!2sng"
+  },
+  "chairman": {
+    "sectionTitle": "Message from the Chairman",
+    "name": "Executive Chairman, Kachia Local Government",
+    "image": "/chairman.png",
+    "messageParagraphs": [
+      "Welcome to the official website of Kachia Local Government Area. Our administration remains committed to improving infrastructure, education, healthcare, and economic development across our communities.",
+      "Kachia is blessed with fertile land and hardworking citizens who play an important role in agricultural production within Kaduna State.",
+      "Through transparency, community participation, and effective governance, we aim to build a prosperous future for all residents of Kachia."
+    ]
+  },
+  "agriculture": {
+    "sectionTitle": "Agriculture – Backbone of Kachia",
+    "cards": [
+      {
+        "title": "Maize Farming",
+        "subtitle": "Staple Crop",
+        "image": "/maize.jpeg",
+        "description": "Maize is widely cultivated across Kachia communities and serves as a staple food and major agricultural product."
+      },
+      {
+        "title": "Ginger Farming",
+        "subtitle": "Major Cash Crop",
+        "image": "/ginger.png",
+        "description": "Kachia farmers contribute to Kaduna State's strong ginger production, which is widely exported and traded."
+      },
+      {
+        "title": "Livestock Rearing",
+        "subtitle": "Animal Husbandry",
+        "image": "/livestock.jpeg",
+        "description": "Livestock such as cattle, goats, sheep, and poultry are raised across rural communities within Kachia LGA."
+      }
+    ],
+    "learnMoreText": "Learn More About Agriculture",
+    "learnMoreHref": "/agriculture"
+  },
+  "news": {
+    "sectionTitle": "Latest News",
+    "subtitle": "Stay informed about development projects, community programs, and government initiatives in Kachia."
+  },
+  "footer": {
+    "logo": "/logo.png",
+    "logoAlt": "Kachia LGA Logo",
+    "headquarters": "Headquarters: Local Government Secretariat, Kachia, Kaduna State, Nigeria.",
+    "contact": [
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@kachialga.gov.ng" },
+      { "icon": "mapPin", "text": "Kachia, Kaduna State" }
+    ],
+    "socialLinks": [
+      { "name": "Facebook", "href": "https://www.facebook.com/", "icon": "facebook" },
+      { "name": "Twitter", "href": "https://x.com/", "icon": "twitter" },
+      { "name": "Instagram", "href": "https://www.instagram.com/", "icon": "instagram" },
+      { "name": "LinkedIn", "href": "https://www.linkedin.com/", "icon": "linkedin" },
+      { "name": "YouTube", "href": "https://www.youtube.com/", "icon": "youtube" }
+    ],
+    "quickLinks": [
+      { "label": "Home", "href": "/" },
+      { "label": "About Kachia", "href": "/about" },
+      { "label": "Government", "href": "/government" },
+      { "label": "Projects", "href": "/projects" },
+      { "label": "Agriculture", "href": "/agriculture" },
+      { "label": "News & Events", "href": "/news" }
+    ],
+    "copyright": "© 2026 Kachia Local Government Area. All rights reserved."
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "About Kachia",
+      "subtitle": "Discover the culture, geography, and economy of Kachia Local Government Area.",
+      "image": "/bg1.png"
+    },
+    "tabs": {
+      "general": {
+        "leadership": [
+          "Executive Chairman: Kachia Local Government",
+          "Vice Chairman: Deputy Chairman"
+        ],
+        "location": [
+          "Location: Southern Kaduna State, Nigeria",
+          "Headquarters: Kachia",
+          "Neighboring LGAs: Chikun, Kajuru, Zangon Kataf, Kagarko, and parts of Niger State."
+        ],
+        "demographics": [
+          "Major Ethnic Groups: Adara (Kadara), Gbagyi, Hausa, Fulani.",
+          "Languages Spoken: Adara language, Hausa, and English."
+        ],
+        "economy": [
+          "Main Economic Activities: Farming, livestock rearing, and trading.",
+          "Climate: Tropical savannah climate suitable for crop farming."
+        ]
+      }
+    },
+    "geographyEconomy": {
+      "title": "Geography & Economy",
+      "location": "Kachia lies within the southern Kaduna region and has vast agricultural land suitable for grain and cash crop farming.",
+      "climate": "The area experiences a rainy season between May and October and a dry season between November and April.",
+      "mainActivities": [
+        "Crop Farming: Maize, millet, sorghum, ginger, and groundnuts.",
+        "Livestock Rearing: Cattle, goats, sheep, and poultry.",
+        "Local Markets: Agricultural produce trading across rural communities."
+      ]
+    }
+  },
+  "governmentPage": {
+    "hero": {
+      "title": "Government",
+      "subtitle": "Leadership and administrative structure of Kachia Local Government.",
+      "image": "/bg1.png"
+    },
+    "structure": {
+      "intro": "Kachia Local Government operates through an executive leadership supported by a legislative council and administrative departments.",
+      "executive": [
+        "Executive Chairman",
+        "Vice Chairman",
+        "Secretary to the Local Government",
+        "Supervisory Councilors responsible for major sectors."
+      ],
+      "legislative": [
+        "The Legislative Council consists of elected councilors representing wards in Kachia.",
+        "A Speaker elected among the councilors presides over legislative sessions."
+      ],
+      "departments": [
+        "Administration and Finance",
+        "Agriculture and Natural Resources",
+        "Health Services",
+        "Works and Housing",
+        "Social Development",
+        "Education Authority"
+      ]
+    },
+    "electoralWards": [
+      { "ward": "Anchau" },
+      { "ward": "Awon" },
+      { "ward": "Doka" },
+      { "ward": "Gidan Tagwai" },
+      { "ward": "Kachia" },
+      { "ward": "Kajuru" },
+      { "ward": "Kurmin Musa" },
+      { "ward": "Sabon Gari" },
+      { "ward": "Zangon Kachia" }
+    ]
+  },
+  "projectsPage": {
+    "hero": {
+      "title": "Development Projects",
+      "subtitle": "Infrastructure and community development initiatives across Kachia Local Government Area.",
+      "image": "/bg1.png"
+    },
+    "introParagraph": "Kachia Local Government continues to invest in roads, healthcare, schools, and agricultural support to improve the quality of life for residents."
+  },
+  "agriculturePage": {
+    "hero": {
+      "title": "Agriculture in Kachia",
+      "subtitle": "Agriculture remains the backbone of Kachia's economy.",
+      "image": "/bg1.png"
+    },
+    "overview": "Farmers across Kachia cultivate maize, ginger, millet, sorghum, and groundnuts and rear livestock, supplying food and cash crops to Kaduna State and beyond.",
+    "majorCrops": [
+      {
+        "title": "Maize",
+        "description": "A staple crop cultivated widely across Kachia communities.",
+        "image": "/maize.jpeg"
+      },
+      {
+        "title": "Ginger",
+        "description": "A major cash crop contributing to Kaduna State's ginger production.",
+        "image": "/ginger.png"
+      },
+      {
+        "title": "Livestock Rearing",
+        "description": "Cattle, goats, sheep, and poultry support household income across Kachia.",
+        "image": "/livestock.jpeg"
+      }
+    ]
+  },
+  "newsPage": {
+    "metadata": {
+      "title": "News | Kachia Local Government",
+      "description": "Latest news and announcements from Kachia LGA"
+    },
+    "hero": {
+      "title": "Latest News",
+      "subtitle": "Updates and announcements from Kachia Local Government.",
+      "image": "/bg1.png"
+    }
+  },
+  "galleryPage": {
+    "metadata": {
+      "title": "Gallery | Kachia Local Government",
+      "description": "A visual journey through Kachia LGA"
+    },
+    "hero": {
+      "title": "Kachia Gallery",
+      "subtitle": "Explore the culture, communities, and agriculture of Kachia Local Government Area.",
+      "image": "/bg1.png"
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Reach out to Kachia Local Government for inquiries and information.",
+      "image": "/bg1.png"
+    },
+    "contactDetails": [
+      { "icon": "mapPin", "text": "Kachia Local Government Secretariat, Kachia, Kaduna State, Nigeria" },
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@kachialga.gov.ng" }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d34270.36348473173!2d7.933944429436266!3d9.879618003502529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x105286223e46f6fd%3A0x6de8f8c36e9b4444!2sKachia%20802156%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773330788673!5m2!1sen!2sng",
+    "successMessage": "Thank you for contacting Kachia Local Government. We will get back to you soon."
+  },
+  "upload": {
+    "defaultFolder": "kachia/news"
+  },
+  "theme": {
+    "colors": {
+      "brand": "142 71% 45%",
+      "brandHover": "142 71% 40%",
+      "brandDark": "142 60% 30%",
+      "brandMuted": "142 30% 96%",
+      "brandForeground": "0 0% 100%",
+      "brandMutedForeground": "142 20% 35%"
+    }
+  },
+  "dashboard": {
+    "adminLabel": "Kachia Admin"
+  }
+}

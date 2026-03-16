@@ -1,0 +1,45 @@
+# Cloudflare Pages Configuration for Next.js
+# This configuration is for deploying Next.js to Cloudflare Pages
+
+name = "kudan-landing-page"
+compatibility_date = "2024-01-01"
+
+# Pages configuration
+pages_build_output_dir = ".next"
+
+# Note: Environment variables should be set via:
+# 1. Cloudflare Dashboard (Workers & Pages → Your Project → Settings → Environment Variables)
+# 2. Wrangler CLI: npx wrangler secret put <SECRET_NAME>
+# 3. For Pages deployments: Use the dashboard or wrangler pages commands
+
+# Optional: KV Namespaces (if you want to use Cloudflare KV for storage)
+# Create via: npx wrangler kv:namespace create "MY_KV_NAMESPACE"
+# [kv_namespaces]
+# binding = "MY_KV_NAMESPACE"
+# id = "your-kv-namespace-id"
+
+# Optional: D1 Database (if you want to use Cloudflare D1)
+# Create via: npx wrangler d1 create my-database
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "my-database"
+# database_id = "your-database-id"
+
+# Optional: R2 Storage (if you want to use Cloudflare R2)
+# Create via: npx wrangler r2 bucket create my-bucket
+# [r2_buckets]
+# binding = "MY_BUCKET"
+# bucket_name = "my-bucket"
+
+# Optional: Workers AI (if you want to use Cloudflare Workers AI)
+# [ai]
+# binding = "AI"
+
+# For Pages deployments, use:
+# npx wrangler pages deploy .next --project-name=kudan-landing-page
+#
+# Or deploy via Cloudflare Dashboard:
+# 1. Go to Workers & Pages → Pages
+# 2. Connect your Git repository
+# 3. Configure build settings (Framework: Next.js, Output: .next)
+

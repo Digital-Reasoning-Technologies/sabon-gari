@@ -1,0 +1,186 @@
+{
+  "siteName": "Jema'a",
+  "metadata": {
+    "title": "Jema'a Local Government",
+    "description": "Official website of Jema'a Local Government Area, Kaduna State, Nigeria."
+  },
+
+  "navbar": {
+    "logo": "/logo.png",
+    "logoAlt": "Jema'a LGA Logo",
+    "navLinks": [
+      { "name": "About Jema'a", "href": "/about" },
+      { "name": "Government", "href": "/government" },
+      { "name": "Projects", "href": "/projects" },
+      { "name": "Agriculture", "href": "/agriculture" },
+      { "name": "News", "href": "/news" },
+      { "name": "Gallery", "href": "/gallery" }
+    ],
+    "contactButtonLabel": "Contact Us"
+  },
+
+  "hero": {
+    "slides": [
+      {
+        "image": "/bg1.png",
+        "title": "Jema'a – The Heart of Southern Kaduna",
+        "subtitle": "Jema'a Local Government Area is an important economic and cultural center in southern Kaduna, with Kafanchan serving as a major railway and trading hub."
+      },
+      {
+        "image": "/bg2.png",
+        "title": "Jema'a – A Land of Culture and Agriculture",
+        "subtitle": "Known for fertile lands and vibrant communities, Jema'a contributes significantly to agricultural production in Kaduna State."
+      }
+    ]
+  },
+
+  "about": {
+    "sectionTitle": "About Jema'a",
+    "generalInfoHeading": "General Information",
+    "paragraphs": [
+      "Jema'a Local Government Area is located in the southern region of Kaduna State, Nigeria. The administrative headquarters is Kafanchan, one of the most important towns in southern Kaduna.",
+      "The LGA is home to several ethnic groups including the Fantswam people, Hausa, Fulani, and other communities that have lived in the region for generations.",
+      "Agriculture and trade are the main economic activities, with crops such as maize, ginger, millet, and sorghum widely cultivated across the area."
+    ],
+    "readMoreHref": "/about",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d278387.4580541656!2d8.156149025156958!3d9.317965430513864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x10523a66b5f7c631%3A0x8ccf4e28cf3484f1!2sJema%27a%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773309008305!5m2!1sen!2sng"
+  },
+
+  "chairman": {
+    "sectionTitle": "Message from the Chairman",
+    "name": "Executive Chairman, Jema'a Local Government",
+    "image": "/chairman.png",
+    "messageParagraphs": [
+      "Welcome to the official website of Jema'a Local Government Area. Our administration is committed to improving infrastructure, education, healthcare, and agricultural productivity across our communities.",
+      "Jema'a is known for its cultural diversity, hardworking farmers, and vibrant markets that contribute to the economic growth of Kaduna State.",
+      "Through good governance and community participation, we continue to pursue sustainable development that benefits every resident."
+    ]
+  },
+
+  "agriculture": {
+    "sectionTitle": "Agriculture – Backbone of Jema'a",
+    "cards": [
+      {
+        "title": "Maize Farming",
+        "subtitle": "Staple Crop",
+        "image": "/maize.jpeg",
+        "description": "Maize is widely cultivated across Jema'a communities and serves as a staple food and major agricultural product."
+      },
+      {
+        "title": "Ginger Farming",
+        "subtitle": "Major Cash Crop",
+        "image": "/ginger.png",
+        "description": "Southern Kaduna is famous for ginger production, and farmers in Jema'a cultivate ginger as an important cash crop."
+      },
+      {
+        "title": "Livestock Rearing",
+        "subtitle": "Animal Husbandry",
+        "image": "/livestock.jpeg",
+        "description": "Livestock such as cattle, goats, sheep, and poultry are raised across rural communities within Jema'a LGA."
+      }
+    ],
+    "learnMoreText": "Learn More About Agriculture",
+    "learnMoreHref": "/agriculture"
+  },
+
+  "news": {
+    "sectionTitle": "Latest News",
+    "subtitle": "Stay informed about development projects, community programs, and government initiatives in Jema'a."
+  },
+
+  "footer": {
+    "logo": "/logo.png",
+    "logoAlt": "Jema'a LGA Logo",
+    "headquarters": "Headquarters: Local Government Secretariat, Kafanchan, Kaduna State, Nigeria.",
+    "contact": [
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@jemaalga.gov.ng" },
+      { "icon": "mapPin", "text": "Kafanchan, Kaduna State" }
+    ],
+    "quickLinks": [
+      { "label": "Home", "href": "/" },
+      { "label": "About Jema'a", "href": "/about" },
+      { "label": "Government", "href": "/government" },
+      { "label": "Projects", "href": "/projects" },
+      { "label": "Agriculture", "href": "/agriculture" },
+      { "label": "News", "href": "/news" }
+    ]
+  },
+
+  "aboutPage": {
+    "hero": {
+      "title": "About Jema'a",
+      "subtitle": "Discover the culture, geography, and economy of Jema'a Local Government Area.",
+      "image": "/about.jpg"
+    },
+
+    "tabs": {
+      "general": {
+        "leadership": [
+          "Executive Chairman: Jema'a Local Government",
+          "Vice Chairman: Deputy Chairman"
+        ],
+
+        "location": [
+          "Location: Southern Kaduna State, Nigeria",
+          "Headquarters: Kafanchan",
+          "Neighboring LGAs: Jaba, Kaura, Sanga, and Zangon Kataf."
+        ],
+
+        "demographics": [
+          "Major Ethnic Groups: Fantswam, Hausa, Fulani.",
+          "Languages Spoken: Fantswam, Hausa, and English."
+        ],
+
+        "economy": [
+          "Main Economic Activities: Farming, trading, livestock rearing.",
+          "Climate: Tropical savannah climate suitable for crop farming."
+        ]
+      }
+    },
+
+    "geographyEconomy": {
+      "title": "Geography & Economy",
+      "location": "Jema'a lies within the southern Kaduna region and is known for fertile agricultural land and vibrant commercial activity.",
+      "climate": "The area experiences a rainy season from May to October and a dry season from November to April.",
+      "mainActivities": [
+        "Crop Farming: Maize, millet, sorghum, ginger, and groundnuts.",
+        "Livestock Rearing: Cattle, goats, sheep, and poultry.",
+        "Trading: Kafanchan serves as a major commercial and railway town."
+      ]
+    }
+  },
+
+  "contactPage": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Reach out to Jema'a Local Government for inquiries and information.",
+      "image": "/bg1.png"
+    },
+
+    "contactDetails": [
+      { "icon": "mapPin", "text": "Jema'a Local Government Secretariat, Kafanchan, Kaduna State, Nigeria" },
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@jemaalga.gov.ng" }
+    ],
+
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d278387.4580541656!2d8.156149025156958!3d9.317965430513864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x10523a66b5f7c631%3A0x8ccf4e28cf3484f1!2sJema%27a%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773309008305!5m2!1sen!2sng",
+
+    "successMessage": "Thank you for contacting Jema'a Local Government. We will get back to you soon."
+  },
+
+  "theme": {
+    "colors": {
+      "brand": "142 71% 45%",
+      "brandHover": "142 71% 40%",
+      "brandDark": "142 60% 30%",
+      "brandMuted": "142 30% 96%",
+      "brandForeground": "0 0% 100%",
+      "brandMutedForeground": "142 20% 35%"
+    }
+  },
+
+  "dashboard": {
+    "adminLabel": "Jema'a Admin"
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "siteName": "Birnin Gwari",
+  "metadata": {
+    "title": "Birnin Gwari Local Government",
+    "description": "Official website of Birnin Gwari Local Government Area, Kaduna State - Gateway to progress."
+  },
+  "navbar": {
+    "logo": null,
+    "navLinks": [
+      { "name": "About Birnin Gwari", "href": "/about" },
+      { "name": "Government", "href": "/government" },
+      { "name": "Projects", "href": "/projects" },
+      { "name": "Agriculture", "href": "/agriculture" },
+      { "name": "News", "href": "/news" },
+      { "name": "Gallery", "href": "/gallery" }
+    ],
+    "contactButtonLabel": "Contact Us"
+  },
+  "hero": {
+    "slides": [
+      {
+        "image": "/bg1.png",
+        "title": "Birnin Gwari – Land of Heritage and Agriculture",
+        "subtitle": "Birnin Gwari is a cultural heartland and key agricultural hub in western Kaduna. Our farmlands, forests, and resilient communities drive our economy and heritage."
+      },
+      {
+        "image": "/bg1.png",
+        "title": "Heritage, Peace, and Growth",
+        "subtitle": "From the Royal Market in Birnin Gwari to our historic emirate traditions, we combine rich history with development. Discover a community built on unity, farming, and open governance."
+      }
+    ]
+  },
+  "about": {
+    "sectionTitle": "About Birnin Gwari",
+    "generalInfoHeading": "General Information",
+    "paragraphs": [
+      "Birnin Gwari Local Government Area is located in the western part of Kaduna State, with its headquarters in the town of Birnin Gwari. Spanning an area of approximately 6,185 km², the LGA is currently led by Hon. Salisu Isah Karama (Chairman).",
+      "The area has a rich Hausa-Fulani heritage and includes other communities like Gbagyi. This cultural diversity is our strength, seen in our traditional emirate and local markets. Agriculture, livestock, and trade drive our economy as Birnin Gwari supplies food and goods throughout the region."
+    ],
+    "readMoreHref": "/about",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17092.73517425859!2d6.539171807735339!3d10.663770682429819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11b351a205d574a7%3A0xfad18bed81c287f3!2sBirnin%20Gwari%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773054300238!5m2!1sen!2sng"
+  },
+  "chairman": {
+    "sectionTitle": "Message from the Chairman",
+    "name": "Hon. Salisu Isah Karama – Chairman",
+    "image": "/chairman.png",
+    "messageParagraphs": [
+      "Welcome to the official portal of Birnin Gwari Local Government Area. Our LGA is blessed with fertile land and hardworking people. This platform bridges our administration with the public, highlighting progress in farming, education, and infrastructure across our communities.",
+      "Our administration is focused on agricultural development, security, and good governance. We aim to build roads and schools, provide inputs and training to farmers, and ensure a peaceful environment for all residents. We invite investors and partners to join us in transforming Birnin Gwari into an even more prosperous region."
+    ]
+  },
+  "agriculture": {
+    "sectionTitle": "Agriculture – Farming is our Pride",
+    "cards": [
+      {
+        "title": "Maize",
+        "subtitle": "Staple Grains",
+        "image": "/maize.jpeg",
+        "description": "Birnin Gwari's farmers cultivate vast fields of sorghum and maize, essential staple crops. Improved seeds and farming practices have boosted yields, making us a key grain supplier in northern Nigeria."
+      },
+      {
+        "title": "Livestock",
+        "subtitle": "Animal Wealth",
+        "image": "/livestock.jpeg",
+        "description": "Cattle, goats, and sheep are widely reared across Birnin Gwari. Our livestock sector supports household incomes and provides meat and dairy products to local and regional markets."
+      },
+      {
+        "title": "Gold & Minerals",
+        "subtitle": "Hidden Wealth",
+        "image": "/gold.png",
+        "description": "Gold. Beyond farming, Birnin Gwari is rich in minerals like gold and quartz. Artisanal mining and quarrying provide supplementary income for some communities."
+      }
+    ],
+    "learnMoreText": "Learn More About Our Agriculture",
+    "learnMoreHref": "/agriculture"
+  },
+  "news": {
+    "sectionTitle": "Latest News",
+    "subtitle": "Stay updated with news and events from Birnin Gwari LGA"
+  },
+  "footer": {
+    "logo": null,
+    "headquarters": "Headquarters: Local Government Secretariat, Birnin Gwari Town\nKaduna State, Nigeria.",
+    "contact": [
+      { "icon": "phone", "text": "+234 [Insert Local Phone]" },
+      { "icon": "mail", "text": "General: info@birningwarilga.gov.ng | Support: support@birningwarilga.gov.ng" },
+      { "icon": "mapPin", "text": "Birnin Gwari Local Government Secretariat, Birnin Gwari Town, Kaduna State, Nigeria" }
+    ],
+    "socialLinks": [
+      { "name": "Facebook", "href": "https://www.facebook.com/", "icon": "facebook" },
+      { "name": "Twitter", "href": "https://x.com/", "icon": "twitter" },
+      { "name": "Instagram", "href": "https://www.instagram.com/", "icon": "instagram" },
+      { "name": "LinkedIn", "href": "https://www.linkedin.com/", "icon": "linkedin" },
+      { "name": "YouTube", "href": "https://www.youtube.com/", "icon": "youtube" }
+    ],
+    "quickLinks": [
+      { "label": "Home", "href": "/" },
+      { "label": "About Birnin Gwari", "href": "/about" },
+      { "label": "Government", "href": "/government" },
+      { "label": "Projects", "href": "/projects" },
+      { "label": "Agriculture", "href": "/agriculture" },
+      { "label": "News & Events", "href": "/news" }
+    ],
+    "copyright": "© 2026 Birnin Gwari Local Government Area"
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "About Birnin Gwari",
+      "subtitle": "Learn about our people, history, and culture.",
+      "image": "/bg1.png"
+    },
+    "tabs": {
+      "general": {
+        "leadership": [
+          "Chairman: Hon. Salisu Isah Karama",
+          "Vice Chairman: (Council Appointed)"
+        ],
+        "location": [
+          "Location: Western Kaduna State, Nigeria",
+          "Headquarters: Birnin Gwari Town",
+          "Area: 6,185 km²",
+          "Neighboring areas: Igabi LGA (East), Giwa LGA (North), Chikun LGA (South), and Niger State (West)."
+        ],
+        "demographics": [
+          "Major Ethnic Groups: Hausa-Fulani (dominant), with minorities such as Gbagyi.",
+          "Languages: Hausa and Fulfulde."
+        ],
+        "economy": [
+          "Main Economic Activities: Grain farming (sorghum, maize), livestock rearing, and mineral extraction.",
+          "Climate: Tropical savannah with a rainy season (April–October) and a dry Harmattan season (November–March)."
+        ]
+      },
+      "history": {
+        "paragraphs": [
+          "Birnin Gwari has a long history as a Hausa-Fulani emirate and center of commerce. Under British colonial rule, it was part of Zaria Province, and in post-independence Nigeria it became a recognized local authority. Over time, Birnin Gwari evolved into a democratic Local Government under Kaduna State, while maintaining its traditional emirate leadership.",
+          "Today, Birnin Gwari LGA is administered by an elected chairman and council, supported by the Emir and traditional council. The LGA is divided into 11 wards, each represented by an elected councilor. Traditional rulers and village heads also play important roles in local affairs.",
+          "Birnin Gwari's economy has always been rooted in agriculture; farming and livestock rearing are family trades passed down through generations. In recent years the administration has focused on improving rural infrastructure and boosting productivity."
+        ]
+      },
+      "culture": {
+        "paragraphs": [
+          "Birnin Gwari is known for its rich Hausa-Fulani culture, with traditions such as durbar (horse parades) and Islamic festivals. The Emir's palace is a focal point for cultural events. Family and community life often revolve around farming cycles and harvest celebrations.",
+          "Local crafts and music are also part of our heritage. These cultural expressions unite our communities and highlight our deep connection to the land and history."
+        ],
+        "tribes": ["Hausa-Fulani", "Gbagyi"],
+        "languages": [
+          "Primary: Hausa, Fulfulde",
+          "Secondary: English (official language) and Nigerian Pidgin"
+        ]
+      }
+    },
+    "geographyEconomy": {
+      "title": "Geography & Economy",
+      "location": "Birnin Gwari LGA is situated on the western edge of Kaduna State, bordering Niger State. This location makes it a key link between Kaduna and neighboring regions. The terrain includes savanna and forest, providing fertile soil for grains and grazing land for livestock.",
+      "climate": "Birnin Gwari has a tropical climate with moderate temperatures. The rainy season is from April to October, supporting crop growth, while the dry season (November to March) brings Harmattan winds.",
+      "mainActivities": [
+        "Farming: Large-scale cultivation of sorghum, maize, and other grains.",
+        "Livestock Rearing: Significant cattle, goat, and sheep populations.",
+        "Trading: The Royal Market in Birnin Gwari serves as a major commerce hub for agricultural produce and livestock."
+      ]
+    }
+  },
+  "governmentPage": {
+    "hero": {
+      "title": "Government",
+      "subtitle": "Learn about the leadership and governance of Birnin Gwari Local Government.",
+      "image": "/bg1.png"
+    },
+    "structure": {
+      "intro": "Birnin Gwari LGA combines modern democratic leadership with its traditional emirate institution. Elected officials and the Emir's council work together to serve the community.",
+      "executive": [
+        "Chairman: Hon. Salisu Isah Karama (Executive Chairman)",
+        "Vice Chairman: (Council Appointed)",
+        "Secretary to the Local Government: Hon. Yahaya Musa",
+        "Supervisory Councilors & Special Advisers: Appointed members overseeing departments like Health, Agriculture, and Education."
+      ],
+      "legislative": [
+        "Speaker of the Legislative Council: Elected from among the councilors.",
+        "Members of the Council: 11 elected councilors representing the 11 political wards."
+      ],
+      "departments": [
+        "Administration & Finance Department",
+        "Agriculture & Forestry Department",
+        "Health & Social Development Department",
+        "Works & Housing Department",
+        "Education (LGEA)",
+        "Primary Health Care Authority (PHCA)"
+      ]
+    },
+    "leadership": [
+      { "name": "Senator Uba Sani", "title": "Governor of Kaduna State", "image": "/uba.jpeg" },
+      { "name": "Hon. Sadiq Mamman Lagos", "title": "Commissioner for Local Government & Chieftaincy Affairs", "image": "/commissioner.PNG" },
+      { "name": "Hon. Salisu Isah Karama", "title": "Chairman", "image": "/chairman.png" },
+      { "name": "Hon. Yahaya Musa", "title": "Council Secretary", "image": "/secretary.png" }
+    ],
+    "electoralWards": [
+      { "ward": "Dogon Dawa", "councillor": "Elected Councilor", "image": "/logo.png" },
+      { "ward": "Gayam", "councillor": "Elected Councilor", "image": "/logo.png" },
+      { "ward": "Kakangi", "councillor": "Elected Councilor", "image": "/logo.png" },
+      { "ward": "Kazage", "councillor": "Elected Councilor", "image": "/logo.png" },
+      { "ward": "Kutemesi", "councillor": "Elected Councilor", "image": "/logo.png" },
+      { "ward": "Kuyelo", "councillor": "Elected Councilor", "image": "/logo.png" },
+      { "ward": "Magajin Gari I", "councillor": "Elected Councilor", "image": "/logo.png" },
+      { "ward": "Magajin Gari II", "councillor": "Elected Councilor", "image": "/logo.png" },
+      { "ward": "Magajin Gari III", "councillor": "Elected Councilor", "image": "/logo.png" },
+      { "ward": "Randagi", "councillor": "Elected Councilor", "image": "/logo.png" },
+      { "ward": "Tabanni", "councillor": "Elected Councilor", "image": "/logo.png" }
+    ],
+    "traditionalInstitution": {
+      "intro": "Birnin Gwari has a traditional Hausa-Fulani emirate system under a single ruler.",
+      "chiefdoms": [
+        "Birnin Gwari Emirate: Headed by the Emir of Birnin Gwari, HRH Alhaji Zubairu Jibril Maigwari II."
+      ],
+      "role": "The Emir and the traditional council are custodians of culture and peace. They collaborate with the local government to resolve disputes and promote community development."
+    }
+  },
+  "projectsPage": {
+    "metadata": {
+      "title": "Projects | Birnin Gwari Local Government",
+      "description": "Building a Better Birnin Gwari - Explore our infrastructure and development initiatives."
+    },
+    "hero": {
+      "title": "Projects",
+      "subtitle": "Building a Better Community Together - Explore our infrastructure and development initiatives in Birnin Gwari.",
+      "image": "/bg1.png"
+    },
+    "introParagraph": "At Birnin Gwari Local Government, we believe in transparency and community engagement. This page highlights our completed and ongoing infrastructure projects aimed at improving rural roads, schools, and healthcare facilities. We work closely with citizens to ensure every initiative meets the needs of our communities."
+  },
+  "agriculturePage": {
+    "metadata": {
+      "title": "Agriculture | Birnin Gwari Local Government",
+      "description": "Explore agriculture in Birnin Gwari LGA."
+    },
+    "hero": {
+      "title": "Agriculture in Birnin Gwari",
+      "subtitle": "Discover our agricultural heritage and the crops that sustain Birnin Gwari.",
+      "image": "/bg1.png"
+    },
+    "overview": "Birnin Gwari is an agricultural hub in western Kaduna State. Our farmers cultivate grains and rear livestock on a large scale, contributing to food security across the region. We are committed to improving farming methods and value chains to benefit local producers.",
+    "majorCrops": [
+      { "title": "Maize", "description": "Birnin Gwari's farmers cultivate vast fields of sorghum and maize, essential staple crops. Improved seeds and irrigation have boosted yields in recent years.", "image": "/maize.jpeg" },
+      { "title": "Livestock", "description": "Cattle, goats, and sheep are widely reared in Birnin Gwari. Our livestock sector provides meat and dairy, supporting household incomes and local markets.", "image": "/livestock.jpeg" },
+      { "title": "Gold & Minerals", "description": "Beyond farming, Birnin Gwari is rich in minerals like gold, quartz, and sillimanite. Artisanal mining provides extra income for some communities.", "image": "/gold.png" }
+    ]
+  },
+  "newsPage": {
+    "metadata": {
+      "title": "News | Birnin Gwari Local Government",
+      "description": "Latest news and events from Birnin Gwari LGA"
+    },
+    "hero": {
+      "title": "Latest News",
+      "subtitle": "Stay updated with the latest news, announcements, and events from Birnin Gwari Local Government.",
+      "image": "/news/newsHero.png"
+    }
+  },
+  "galleryPage": {
+    "metadata": {
+      "title": "Gallery | Birnin Gwari Local Government",
+      "description": "A visual journey through Birnin Gwari LGA"
+    },
+    "hero": {
+      "title": "Discover Birnin Gwari",
+      "subtitle": "A visual journey through the people, culture, and landscapes of Birnin Gwari Local Government.",
+      "image": "/bg1.png"
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "We're here to help and answer any questions you might have about Birnin Gwari Local Government.",
+      "image": "/bg1.png"
+    },
+    "contactDetails": [
+      { "icon": "mapPin", "text": "Birnin Gwari Local Government Secretariat, Birnin Gwari Town, Kaduna State, Nigeria" },
+      { "icon": "phone", "text": "+234 [Insert Local Phone] | Customer Service: [Insert Number]" },
+      { "icon": "mail", "text": "General: info@birningwarilga.gov.ng | Support: support@birningwarilga.gov.ng" }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17092.73517425859!2d6.539171807735339!3d10.663770682429819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11b351a205d574a7%3A0xfad18bed81c287f3!2sBirnin%20Gwari%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773054300238!5m2!1sen!2sng",
+    "directionsText": "Birnin Gwari Local Government Secretariat is located in Birnin Gwari Town (the LGA headquarters). It is accessible via the main road from Kaduna City and connects west toward Niger State. Public transportation from Kaduna and neighboring areas can bring visitors to Birnin Gwari.",
+    "successMessage": "Thank you for contacting Birnin Gwari Local Government. We will get back to you soon."
+  },
+  "upload": {
+    "defaultFolder": "birningwari/news"
+  },
+  "theme": {
+    "colors": {
+      "brand": "142 76% 36%",
+      "brandHover": "142 76% 42%",
+      "brandDark": "142 61% 26%",
+      "brandMuted": "142 40% 96%",
+      "brandForeground": "0 0% 100%",
+      "brandMutedForeground": "142 40% 70%"
+    }
+  },
+  "dashboard": {
+    "adminLabel": "Birnin Gwari Admin"
+  }
+}
