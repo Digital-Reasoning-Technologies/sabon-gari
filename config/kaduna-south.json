@@ -1,0 +1,171 @@
+{
+  "siteName": "Kaduna South",
+  "metadata": {
+    "title": "Kaduna South Local Government",
+    "description": "Official website of Kaduna South Local Government Area, Kaduna State, Nigeria."
+  },
+  "navbar": {
+    "logo": "/logo.png",
+    "logoAlt": "Kaduna South LGA Logo",
+    "navLinks": [
+      { "name": "About Kaduna South", "href": "/about" },
+      { "name": "Government", "href": "/government" },
+      { "name": "Projects", "href": "/projects" },
+      { "name": "Economy", "href": "/economy" },
+      { "name": "News", "href": "/news" },
+      { "name": "Gallery", "href": "/gallery" }
+    ],
+    "contactButtonLabel": "Contact Us"
+  },
+  "hero": {
+    "slides": [
+      {
+        "image": "/bg1.png",
+        "title": "Kaduna South – Urban & Administrative Hub",
+        "subtitle": "Kaduna South is a major urban local government within Kaduna metropolis, serving as a center of governance and commerce."
+      },
+      {
+        "image": "/bg2.png",
+        "title": "A Diverse and Vibrant Community",
+        "subtitle": "Home to diverse ethnic and religious groups, Kaduna South plays a key role in the social and economic life of Kaduna State."
+      }
+    ]
+  },
+  "about": {
+    "sectionTitle": "About Kaduna South",
+    "generalInfoHeading": "General Information",
+    "paragraphs": [
+      "Kaduna South Local Government Area is located in Kaduna State, Nigeria, forming part of the Kaduna metropolitan area.",
+      "The headquarters is in Kaduna city, which serves as the state capital and a major administrative center.",
+      "The LGA is characterized by urban settlements, government institutions, markets, and small-scale industries."
+    ],
+    "readMoreHref": "/about",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d34207.81872536684!2d7.394318829746768!3d10.462979540988952!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104d35c1b4ebc4db%3A0x1b261596bb6e6696!2sKaduna%20South%20800282%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773743522044!5m2!1sen!2sng"
+  },
+  "chairman": {
+    "sectionTitle": "Message from the Chairman",
+    "name": "Executive Chairman, Kaduna South Local Government",
+    "image": "/chairman.png",
+    "messageParagraphs": [
+      "Welcome to the official website of Kaduna South Local Government Area. We are committed to improving infrastructure, public services, and economic opportunities for our residents.",
+      "Kaduna South remains a vital part of Kaduna metropolis, supporting governance, commerce, and community development.",
+      "Through inclusive leadership and community engagement, we aim to build a peaceful, modern, and prosperous local government."
+    ]
+  },
+  "economy": {
+    "sectionTitle": "Economy – Driving Urban Development",
+    "cards": [
+      {
+        "title": "Maize Farming",
+        "subtitle": "Staple Crop",
+        "image": "/maize.jpeg",
+        "description": "Maize is widely cultivated in rural communities surrounding Kaduna South."
+      },
+      {
+        "title": "Millet & Sorghum",
+        "subtitle": "Grain Crops",
+        "image": "/Millet.jpeg",
+        "description": "Farmers grow millet and sorghum as major grains contributing to local food supply."
+      },
+      {
+        "title": "Livestock Rearing",
+        "subtitle": "Animal Husbandry",
+        "image": "/livestock.jpeg",
+        "description": "Livestock such as cattle, goats, sheep, and poultry are raised in rural areas within the LGA."
+      }
+    ],
+    "learnMoreText": "Learn More About the Economy",
+    "learnMoreHref": "/economy"
+  },
+  "news": {
+    "sectionTitle": "Latest News",
+    "subtitle": "Stay informed about development projects and community initiatives in Kaduna South."
+  },
+  "footer": {
+    "logo": "/logo.png",
+    "logoAlt": "Kaduna South LGA Logo",
+    "headquarters": "Headquarters: Kaduna South Local Government Secretariat, Kaduna, Kaduna State, Nigeria.",
+    "contact": [
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@kadunasouthlga.gov.ng" },
+      { "icon": "mapPin", "text": "Kaduna South, Kaduna State" }
+    ],
+    "quickLinks": [
+      { "label": "Home", "href": "/" },
+      { "label": "About Kaduna South", "href": "/about" },
+      { "label": "Government", "href": "/government" },
+      { "label": "Projects", "href": "/projects" },
+      { "label": "Economy", "href": "/economy" },
+      { "label": "News", "href": "/news" }
+    ],
+    "socialLinks": [
+      { "platform": "facebook", "href": "#" },
+      { "platform": "twitter", "href": "#" }
+    ]
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "About Kaduna South",
+      "subtitle": "Learn about the people, economy, and governance of Kaduna South Local Government Area.",
+      "image": "/bg1.png"
+    },
+    "tabs": {
+      "general": {
+        "leadership": [
+          "Executive Chairman: Kaduna South Local Government",
+          "Vice Chairman: Deputy Chairman"
+        ],
+        "location": [
+          "Location: Kaduna State, Northern Nigeria",
+          "Part of: Kaduna Metropolitan Area",
+          "Neighboring LGAs: Kaduna North, Chikun, and Igabi."
+        ],
+        "demographics": [
+          "Highly diverse population including Hausa, Fulani, Gbagyi, and other Nigerian ethnic groups.",
+          "Languages Spoken: Hausa and English."
+        ],
+        "economy": [
+          "Main Economic Activities: Commerce, civil service, transportation, and small-scale industries.",
+          "Presence of major government institutions and urban infrastructure."
+        ]
+      }
+    },
+    "geographyEconomy": {
+      "title": "Geography & Economy",
+      "location": "Kaduna South lies within Kaduna metropolis and functions as an administrative and residential hub.",
+      "climate": "The area experiences a tropical savannah climate with distinct rainy and dry seasons.",
+      "mainActivities": [
+        "Commerce: Markets and trading centers.",
+        "Public Administration: Government offices and institutions.",
+        "Urban Services: Transportation, retail, and small industries."
+      ]
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Reach out to Kaduna South Local Government for inquiries and services.",
+      "image": "/bg1.png"
+    },
+    "contactDetails": [
+      { "icon": "mapPin", "text": "Kaduna South Local Government Secretariat, Kaduna, Kaduna State, Nigeria" },
+      { "icon": "phone", "text": "+234" },
+      { "icon": "mail", "text": "info@kadunasouthlga.gov.ng" }
+    ],
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d34207.81872536684!2d7.394318829746768!3d10.462979540988952!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104d35c1b4ebc4db%3A0x1b261596bb6e6696!2sKaduna%20South%20800282%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773743522044!5m2!1sen!2sng",
+    "successMessage": "Thank you for contacting Kaduna South Local Government. We will respond shortly."
+  },
+  "theme": {
+    "colors": {
+      "brand": "142 71% 45%",
+      "brandHover": "142 71% 40%",
+      "brandDark": "142 60% 30%",
+      "brandMuted": "142 30% 96%",
+      "brandForeground": "0 0% 100%",
+      "brandMutedForeground": "142 20% 35%"
+    }
+  },
+  "dashboard": {
+    "adminLabel": "Kaduna South Admin"
+  }
+}

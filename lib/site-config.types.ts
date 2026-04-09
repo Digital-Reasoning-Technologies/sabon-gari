@@ -64,6 +64,8 @@ export interface AgricultureSectionConfig {
   learnMoreHref?: string;
 }
 
+export interface EconomySectionConfig extends AgricultureSectionConfig {}
+
 export interface NewsSectionConfig {
   sectionTitle?: string;
   subtitle?: string;
@@ -159,6 +161,13 @@ export interface AgriculturePageConfig {
   majorCrops?: { title: string; description: string; image?: string }[];
 }
 
+export interface EconomyPageConfig {
+  metadata?: { title?: string; description?: string };
+  hero?: { title?: string; subtitle?: string; image?: string };
+  overview?: string;
+  sectors?: { title: string; description: string; image?: string }[];
+}
+
 export interface NewsPageConfig {
   metadata?: { title?: string; description?: string };
   hero?: { title?: string; subtitle?: string; image?: string };
@@ -192,6 +201,7 @@ export interface SiteConfig {
   about?: AboutSectionConfig;
   chairman?: ChairmanConfig;
   agriculture?: AgricultureSectionConfig;
+  economy?: EconomySectionConfig;
   news?: NewsSectionConfig;
   projects?: ProjectsSectionConfig;
   gallery?: GallerySectionConfig;
@@ -201,6 +211,7 @@ export interface SiteConfig {
   governmentPage?: GovernmentPageConfig;
   projectsPage?: ProjectsPageConfig;
   agriculturePage?: AgriculturePageConfig;
+  economyPage?: EconomyPageConfig;
   newsPage?: NewsPageConfig;
   contactPage?: ContactPageConfig;
   galleryPage?: GalleryPageConfig;

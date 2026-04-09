@@ -9,7 +9,7 @@ import { useSiteConfig } from "@/contexts/site-config";
 
 export default function Agri() {
   const config = useSiteConfig();
-  const agri = config.agriculture ?? {};
+  const agri = config.economy ?? config.agriculture ?? {};
   const siteName = config.siteName ?? "Kudan";
   const sectionTitle = agri.sectionTitle ?? "Agriculture - Farming is our Pride";
   const cards = agri.cards ?? [

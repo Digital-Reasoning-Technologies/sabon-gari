@@ -1,0 +1,246 @@
+{
+    "siteName": "Kaduna North",
+    "metadata": {
+      "title": "Kaduna North Local Government",
+      "description": "Official website of Kaduna North Local Government Area, Kaduna State, Nigeria."
+    },
+    "navbar": {
+      "logo": "/logo.png",
+      "logoAlt": "Kaduna North LGA Logo",
+      "navLinks": [
+        { "name": "About Kaduna North", "href": "/about" },
+        { "name": "Government", "href": "/government" },
+        { "name": "Projects", "href": "/projects" },
+        { "name": "Agriculture", "href": "/agriculture" },
+        { "name": "News", "href": "/news" },
+        { "name": "Gallery", "href": "/gallery" }
+      ],
+      "contactButtonLabel": "Contact Us"
+    },
+    "hero": {
+      "slides": [
+        {
+          "image": "/bg1.png",
+          "title": "Kaduna North – Administrative & Commercial Center",
+          "subtitle": "Kaduna North is a key local government hosting major government institutions and commercial activities within Kaduna metropolis."
+        },
+        {
+          "image": "/bg2.png",
+          "title": "Center of Governance and Heritage",
+          "subtitle": "Kaduna North is home to historic institutions, business districts, and diverse communities shaping Kaduna State."
+        }
+      ]
+    },
+    "about": {
+      "sectionTitle": "About Kaduna North",
+      "generalInfoHeading": "General Information",
+      "paragraphs": [
+        "Kaduna North Local Government Area is located in Kaduna State, Nigeria, forming a central part of Kaduna metropolis.",
+        "The area hosts several key government institutions, business districts, and residential neighborhoods.",
+        "Kaduna North plays a major role in administration, commerce, and public services within the state."
+      ],
+      "readMoreHref": "/about",
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d68397.4015672442!2d7.355965424337443!3d10.545357050296547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11b2caa66bd2c6c1%3A0xd64855d498f0dab2!2sKaduna%20North%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773746758482!5m2!1sen!2sng"
+    },
+    "chairman": {
+      "sectionTitle": "Message from the Chairman",
+      "name": "Executive Chairman, Kaduna North Local Government",
+      "image": "/chairman.png",
+      "messageParagraphs": [
+        "Welcome to the official website of Kaduna North Local Government Area. Our administration is committed to effective governance, infrastructure development, and improved public services.",
+        "Kaduna North remains a strategic hub for administration and commerce within Kaduna metropolis.",
+        "We strive to ensure sustainable development and improved quality of life for all residents."
+      ]
+    },
+    "economy": {
+      "sectionTitle": "Agriculture – Driving Urban Development",
+      "cards": [
+        {
+          "title": "Central Business District",
+          "subtitle": "Commercial Hub",
+          "image": "/maize.jpeg",
+          "description": "Kaduna North hosts major business districts including banks, offices, and retail centers."
+        },
+        {
+          "title": "Government Institutions",
+          "subtitle": "Administrative Center",
+          "image": "/Millet.jpeg",
+          "description": "The LGA contains key federal and state government offices and institutions."
+        },
+        {
+          "title": "Markets & Services",
+          "subtitle": "Urban Agriculture",
+          "image": "/livestock.jpeg",
+          "description": "Markets and service-based businesses contribute significantly to economic activity and employment."
+        }
+      ],
+      "learnMoreText": "Learn More About Agriculture",
+      "learnMoreHref": "/agriculture"
+    },
+    "news": {
+      "sectionTitle": "Latest News",
+      "subtitle": "Stay informed about development projects and community initiatives in Kaduna North."
+    },
+    "footer": {
+      "logo": "/logo.png",
+      "logoAlt": "Kaduna North LGA Logo",
+      "headquarters": "Headquarters: Kaduna North Local Government Secretariat, Kaduna, Kaduna State, Nigeria.",
+      "contact": [
+        { "icon": "phone", "text": "+234" },
+        { "icon": "mail", "text": "info@kadunanorthlga.gov.ng" },
+        { "icon": "mapPin", "text": "Kaduna North, Kaduna State" }
+      ],
+      "quickLinks": [
+        { "label": "Home", "href": "/" },
+        { "label": "About Kaduna North", "href": "/about" },
+        { "label": "Government", "href": "/government" },
+        { "label": "Projects", "href": "/projects" },
+        { "label": "Agriculture", "href": "/agriculture" },
+        { "label": "News", "href": "/news" }
+      ],
+      "socialLinks": [
+        { "platform": "facebook", "href": "#" },
+        { "platform": "twitter", "href": "#" }
+      ]
+    },
+    "aboutPage": {
+      "hero": {
+        "title": "About Kaduna North",
+        "subtitle": "Learn about the governance, agriculture, and communities of Kaduna North Local Government Area.",
+        "image": "/bg1.png"
+      },
+      "tabs": {
+        "general": {
+          "leadership": [
+            "Executive Chairman: Kaduna North Local Government",
+            "Vice Chairman: Deputy Chairman"
+          ],
+          "location": [
+            "Location: Kaduna State, Northern Nigeria",
+            "Part of: Kaduna Metropolitan Area",
+            "Neighboring LGAs: Kaduna South, Igabi, and Chikun."
+          ],
+          "demographics": [
+            "Diverse population including Hausa, Fulani, Gbagyi, and other Nigerian ethnic groups.",
+            "Languages Spoken: Hausa and English."
+          ],
+          "economy": [
+            "Main Economic Activities: Commerce, banking, public administration, and services.",
+            "Presence of major business districts and government institutions."
+          ]
+        }
+      },
+      "geographyEconomy": {
+        "title": "Geography & Economy",
+        "location": "Kaduna North lies at the heart of Kaduna metropolis and serves as a major administrative and commercial hub.",
+        "climate": "The area experiences a tropical savannah climate with wet and dry seasons.",
+        "mainActivities": [
+          "Commerce: Business districts, banks, and retail centers.",
+          "Public Administration: Government ministries and agencies.",
+          "Urban Services: Transportation, hospitality, and services."
+        ]
+      }
+    },
+    "governmentPage": {
+      "hero": {
+        "title": "Government of Kaduna North",
+        "subtitle": "Learn about the administrative structure, elected representatives, and traditional institution in Kaduna North Local Government Area.",
+        "image": "/bg1.png"
+      },
+      "structure": {
+        "intro": "Kaduna North Local Government operates through a structured administrative system that combines democratic governance with community representation.",
+        "executive": [
+          "Executive Chairman: Heads the local government administration and policy implementation.",
+          "Vice Chairman: Supports executive administration and oversees delegated responsibilities."
+        ],
+        "legislative": [
+          "Legislative Council: Comprised of elected councillors representing electoral wards.",
+          "Council deliberates and passes by-laws to support local governance."
+        ],
+        "departments": [
+          "Works and Infrastructure",
+          "Health Services",
+          "Agriculture and Rural Development",
+          "Education and Social Development",
+          "Finance and Administration"
+        ]
+      },
+      "leadership": [
+        {
+          "name": "Executive Chairman, Kaduna North Local Government",
+          "title": "Chairman",
+          "image": "/chairman.png"
+        },
+        {
+          "name": "Vice Chairman, Kaduna North Local Government",
+          "title": "Vice Chairman",
+          "image": "/logo.png"
+        }
+      ],
+      "electoralWards": [
+        {
+          "ward": "Kaduna North Central Ward",
+          "councillor": "Hon. Representative 01",
+          "image": "/logo.png",
+          "position": "Leader of the Legislative Council"
+        },
+        {
+          "ward": "Kabala Costain Ward",
+          "councillor": "Hon. Representative 02",
+          "image": "/logo.png",
+          "position": "Councillor"
+        },
+        {
+          "ward": "Shaba Ward",
+          "councillor": "Hon. Representative 03",
+          "image": "/logo.png",
+          "position": "Councillor"
+        },
+        {
+          "ward": "Badarawa Ward",
+          "councillor": "Hon. Representative 04",
+          "image": "/logo.png",
+          "position": "Councillor"
+        }
+      ],
+      "traditionalInstitution": {
+        "sectionTitle": "Traditional Institution",
+        "emirateHeading": "Emirate Council",
+        "districtsHeading": "Districts",
+        "roleHeading": "Role of Traditional Leaders",
+        "intro": "Kudan falls under the Zazzau Emirate (based in Zaria). Traditional leadership plays an integral role in preserving Kudan's cultural identity and complementing modern governance.",
+        "chiefdoms": [
+          "Kudan District: Headed by Alhaji Halliru Mahmud Tukuran Zazzau, who collaborates closely with the local government to foster community cohesion and preserve cultural continuity.",
+          "Hunkuyi District: Serving as the administrative and cultural center, it is headed by Alhaji Aminu Muhammad Ashiru."
+        ],
+        "role": "A total of 27 village heads operate under these districts, ensuring that traditional practices and community customs are preserved. These traditional structures help maintain a balance between age-old customs and contemporary administrative practices, ensuring that Kudan's heritage remains vibrant and respected."
+      }
+    },
+    "contactPage": {
+      "hero": {
+        "title": "Contact Us",
+        "subtitle": "Reach out to Kaduna North Local Government for inquiries and services.",
+        "image": "/bg1.png"
+      },
+      "contactDetails": [
+        { "icon": "mapPin", "text": "Kaduna North Local Government Secretariat, Kaduna, Kaduna State, Nigeria" },
+        { "icon": "phone", "text": "+234" },
+        { "icon": "mail", "text": "info@kadunanorthlga.gov.ng" }
+      ],
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d68397.4015672442!2d7.355965424337443!3d10.545357050296547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11b2caa66bd2c6c1%3A0xd64855d498f0dab2!2sKaduna%20North%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773746758482!5m2!1sen!2sng",
+      "successMessage": "Thank you for contacting Kaduna North Local Government. We will respond shortly."
+    },
+    "theme": {
+      "colors": {
+        "brand": "142 71% 45%",
+        "brandHover": "142 71% 40%",
+        "brandDark": "142 60% 30%",
+        "brandMuted": "142 30% 96%",
+        "brandForeground": "0 0% 100%",
+        "brandMutedForeground": "142 20% 35%"
+      }
+    },
+    "dashboard": {
+      "adminLabel": "Kaduna North Admin"
+    }
+  }

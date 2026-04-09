@@ -21,13 +21,13 @@
     "slides": [
       {
         "image": "/bg1.png",
-        "title": "Sabon Gari – A Commercial Hub",
-        "subtitle": "Sabon Gari Local Government Area is an important commercial and residential center in Kaduna State."
+        "title": "Sabon Gari – Commercial Hub of Zaria Metropolis",
+        "subtitle": "Sabon Gari is a bustling local government area within the Zaria metropolis, known for its vibrant markets, diverse population, and thriving trade activities."
       },
       {
         "image": "/bg2.png",
-        "title": "Sabon Gari – Gateway to Education and Trade",
-        "subtitle": "Its proximity to Ahmadu Bello University and Zaria makes Sabon Gari an active center of commerce and learning."
+        "title": "Center of Trade and Enterprise",
+        "subtitle": "A key economic zone in Kaduna State, Sabon Gari LGA is home to major markets like Samaru and Sabon Gari Main Market, driving growth and providing livelihoods for thousands."
       }
     ]
   },
@@ -35,43 +35,43 @@
     "sectionTitle": "About Sabon Gari",
     "generalInfoHeading": "General Information",
     "paragraphs": [
-      "Sabon Gari Local Government Area is located in Kaduna State, Nigeria. The administrative headquarters is Sabon Gari town.",
-      "The LGA lies close to Zaria city and serves as a major residential and commercial area supporting trade and services in the region.",
-      "Economic activities include commerce, transportation, education services, and agriculture in surrounding rural communities."
+      "Sabon Gari Local Government Area is a vibrant LGA located within the Zaria metropolis in Kaduna State, Nigeria. Its headquarters is located in the town of Sabon Gari.",
+      "The name 'Sabon Gari' means 'new town' in Hausa, reflecting its history as a cosmopolitan area that grew significantly during the British colonial era. It is one of the local government areas that make up the city of Zaria and is also a district of the Zazzau Emirate Council.",
+      "The LGA has an area of 263 km² and a population of 393,300 (2006 census). It is home to a diverse population including Hausa, Fulani, and other ethnic groups, with Islam and Christianity as the main religions practiced."
     ],
     "readMoreHref": "/about",
-    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8533.194709142565!2d7.7276426427954865!3d11.123007133520643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11b283b0e8657c53%3A0xb5e64ee6cf71ec00!2sSabon%20Gari%2C%20Zaria%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773670528957!5m2!1sen!2sng"
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d119708.08044384822!2d7.594280697413341!3d11.175737183058438!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11b286bfe2e1e5e5%3A0xcd8998f8383b60f5!2sSabon%20Gari%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1775648962233!5m2!1sen!2sng"
   },
   "chairman": {
     "sectionTitle": "Message from the Chairman",
-    "name": "Executive Chairman, Sabon Gari Local Government",
+    "name": "Hon. Mohammed Usman",
     "image": "/chairman.png",
     "messageParagraphs": [
-      "Welcome to the official website of Sabon Gari Local Government Area. Our administration is committed to improving infrastructure, education, and economic opportunities for residents.",
-      "Sabon Gari serves as a key commercial and residential center supporting the broader Zaria metropolitan area.",
-      "Through responsible governance and collaboration with communities, we aim to build a modern and prosperous local government."
+      "Welcome to the official website of Sabon Gari Local Government Area. Our administration is committed to inclusive and participatory governance, ensuring that the voices of our people are incorporated into decision-making processes.",
+      "Sabon Gari is the commercial heart of the Zaria metropolis, and we are dedicated to providing the infrastructure and services needed to support trade, improve healthcare, and enhance education and youth development.",
+      "We strive to ensure sustainable development and an improved quality of life for every citizen across our 11 wards."
     ]
   },
-  "agriculture": {
-    "sectionTitle": "Agriculture – Supporting Local Food Production",
+  "economy": {
+    "sectionTitle": "Economy – Driving Urban Development",
     "cards": [
       {
-        "title": "Maize Farming",
-        "subtitle": "Staple Crop",
-        "image": "/maize.jpeg",
-        "description": "Maize is widely cultivated in rural communities surrounding Sabon Gari."
+        "title": "Central Business District",
+        "subtitle": "Commercial Hub",
+        "image": "/market.png",
+        "description": "Sabon Gari hosts major markets including the famous Samaru Market and Sabon Gari Main Market, attracting thousands of buyers and sellers daily."
       },
       {
-        "title": "Millet & Sorghum",
-        "subtitle": "Grain Crops",
-        "image": "/Millet.jpeg",
-        "description": "Farmers grow millet and sorghum as major grains contributing to local food supply."
+        "title": "Trade & Commerce",
+        "subtitle": "Retail & Wholesale",
+        "image": "/refinery.png",
+        "description": "Trading is the key economic activity in Sabon Gari, with the area hosting several markets where goods ranging from agricultural products to textiles are bought and sold."
       },
       {
-        "title": "Livestock Rearing",
-        "subtitle": "Animal Husbandry",
-        "image": "/livestock.jpeg",
-        "description": "Livestock such as cattle, goats, sheep, and poultry are raised in rural areas within the LGA."
+        "title": "Markets & Services",
+        "subtitle": "Urban Economy",
+        "image": "/pantaka.png",
+        "description": "Small-scale industries and service-based businesses contribute significantly to economic activity and employment in the LGA."
       }
     ],
     "learnMoreText": "Learn More About Agriculture",
@@ -84,9 +84,9 @@
   "footer": {
     "logo": "/logo.png",
     "logoAlt": "Sabon Gari LGA Logo",
-    "headquarters": "Headquarters: Local Government Secretariat, Sabon Gari, Kaduna State, Nigeria.",
+    "headquarters": "Headquarters: Sabon Gari Local Government Secretariat, Sabon Gari, Kaduna State, Nigeria.",
     "contact": [
-      { "icon": "phone", "text": "+234" },
+      { "icon": "phone", "text": "+234 706 574 8665" },
       { "icon": "mail", "text": "info@sabongarilga.gov.ng" },
       { "icon": "mapPin", "text": "Sabon Gari, Kaduna State" }
     ],
@@ -99,61 +99,133 @@
       { "label": "News", "href": "/news" }
     ],
     "socialLinks": [
-      { "platform": "facebook", "href": "#" },
-      { "platform": "twitter", "href": "#" }
+      { "platform": "facebook", "href": "https://www.facebook.com/profile.php/?id=100081246850112" },
+      { "platform": "twitter", "href": "https://x.com/ChairmanSBG?fbclid=IwY2xjawRDKV1leHRuA2FlbQIxMABicmlkETExY0lMV2ZjNHQ4SU42UFJ4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnaQ0uoHvoKCoUKVeKt5_efJI5v9_HxmkcMFvw2gCGqKfQpgTMivBaQaU3tB_aem_4nWdP2pEnf6pMNSneVre8A" }
     ]
   },
   "aboutPage": {
     "hero": {
       "title": "About Sabon Gari",
-      "subtitle": "Discover the culture, economy, and development of Sabon Gari Local Government Area.",
+      "subtitle": "Learn about the governance, economy, and communities of Sabon Gari Local Government Area.",
       "image": "/bg1.png"
     },
     "tabs": {
       "general": {
         "leadership": [
-          "Executive Chairman: Sabon Gari Local Government",
-          "Vice Chairman: Deputy Chairman"
+          "Executive Chairman: Hon. Mohammed Usman",
+          "Vice Chairman: Hon. Kamilu Abdulkareem"
         ],
         "location": [
           "Location: Kaduna State, Northern Nigeria",
-          "Headquarters: Sabon Gari",
-          "Neighboring LGAs: Zaria, Igabi, and Soba."
+          "Part of: Zaria Metropolitan Area",
+          "Neighboring LGAs: Zaria, Kudan, and Soba."
         ],
         "demographics": [
-          "Major Ethnic Groups: Hausa, Fulani, and diverse Nigerian communities.",
+          "Diverse population including Hausa, Fulani, and other Nigerian ethnic groups.",
           "Languages Spoken: Hausa and English."
         ],
         "economy": [
-          "Main Economic Activities: Commerce, transportation, education services, and agriculture.",
-          "Proximity to major institutions including Ahmadu Bello University."
+          "Main Economic Activities: Commerce, trade, small-scale industries, and agriculture.",
+          "Presence of major markets and commercial districts."
         ]
       }
     },
     "geographyEconomy": {
       "title": "Geography & Economy",
-      "location": "Sabon Gari lies within the Zaria metropolitan area and acts as a residential and commercial hub.",
-      "climate": "The LGA experiences a tropical savannah climate with rainy and dry seasons typical of northern Nigeria.",
+      "location": "Sabon Gari lies within the Zaria metropolis and serves as a major commercial hub. The towns and villages include Dogarawa, Bomo, Basawa, Zabi, Samaru, Kwari, Barashi, Muchiya, and Palladan.",
+      "climate": "The area experiences a tropical savannah climate with wet and dry seasons. Average temperature is 32°C.",
       "mainActivities": [
-        "Commerce: Retail markets and trading activities.",
-        "Education Services: Proximity to Ahmadu Bello University and other institutions.",
-        "Agriculture: Farming of maize, millet, sorghum, and livestock rearing."
+        "Commerce: Major markets including Samaru Market and Sabon Gari Main Market.",
+        "Trade: Retail and wholesale trade in agricultural products, textiles, and general goods.",
+        "Urban Services: Transportation, hospitality, and services."
       ]
+    }
+  },
+  "governmentPage": {
+    "hero": {
+      "title": "Government of Sabon Gari",
+      "subtitle": "Learn about the administrative structure, elected representatives, and traditional institution in Sabon Gari Local Government Area.",
+      "image": "/bg1.png"
+    },
+    "structure": {
+      "intro": "Sabon Gari Local Government operates through a structured administrative system that combines democratic governance with community representation.",
+      "executive": [
+        "Executive Chairman: Heads the local government administration and policy implementation.",
+        "Vice Chairman: Supports executive administration and oversees delegated responsibilities."
+      ],
+      "legislative": [
+        "Legislative Council: Comprised of elected councillors representing electoral wards.",
+        "Council deliberates and passes by-laws to support local governance."
+      ],
+      "departments": [
+        "Works and Infrastructure",
+        "Health Services",
+        "Agriculture and Rural Development",
+        "Education and Social Development",
+        "Finance and Administration"
+      ]
+    },
+    "leadership": [
+      {
+        "name": "Senator Uba Sani",
+        "title": "Governor",
+        "image": "/uba.jpeg"
+      },
+      {
+        "name": "Hon. Sadiq Mamman Lagos",
+        "title": "Commissioner for Local Government Affairs",
+        "image": "/commissioner.PNG"
+      },
+      {
+        "name": "Hon. Mohammed Usman",
+        "title": "Chairman",
+        "image": "/chairman.png"
+      },
+      {
+        "name": "Hon. Kamilu Abdulkareem",
+        "title": "Vice Chairman",
+        "image": "/vice.jpg"
+      }
+    ],
+    "electoralWards": [
+      { "ward": "Samaru Ward", "councillor": "Councillor Name Pending", "image": "/logo.png", "position": "Details will be updated soon" },
+      { "ward": "Basawa Ward", "councillor": "Councillor Name Pending", "image": "/logo.png", "position": "Details will be updated soon" },
+      { "ward": "Bomo Ward", "councillor": "Councillor Name Pending", "image": "/logo.png", "position": "Details will be updated soon" },
+      { "ward": "Jama'a Ward", "councillor": "Councillor Name Pending", "image": "/logo.png", "position": "Details will be updated soon" },
+      { "ward": "Dogarawa Ward", "councillor": "Councillor Name Pending", "image": "/logo.png", "position": "Details will be updated soon" },
+      { "ward": "Zabi Ward", "councillor": "Councillor Name Pending", "image": "/logo.png", "position": "Details will be updated soon" },
+      { "ward": "Kwari Ward", "councillor": "Councillor Name Pending", "image": "/logo.png", "position": "Details will be updated soon" },
+      { "ward": "Barashi Ward", "councillor": "Councillor Name Pending", "image": "/logo.png", "position": "Details will be updated soon" },
+      { "ward": "Muchiya Ward", "councillor": "Councillor Name Pending", "image": "/logo.png", "position": "Details will be updated soon" },
+      { "ward": "Palladan Ward", "councillor": "Councillor Name Pending", "image": "/logo.png", "position": "Details will be updated soon" },
+      { "ward": "Sabon Gari Town Ward", "councillor": "Councillor Name Pending", "image": "/logo.png", "position": "Details will be updated soon" }
+    ],
+    "traditionalInstitution": {
+      "sectionTitle": "Traditional Institution",
+      "emirateHeading": "Emirate Council",
+      "districtsHeading": "Districts",
+      "roleHeading": "Role of Traditional Leaders",
+      "intro": "Sabon Gari falls under the Zazzau Emirate (based in Zaria). Traditional leadership plays an integral role in preserving cultural identity and complementing modern governance.",
+      "chiefdoms": [
+        "Sabon Gari District: Headed by a traditional chief who collaborates closely with the local government to foster community cohesion and preserve cultural continuity.",
+        "The area includes several village heads who serve under the district head."
+      ],
+      "role": "Traditional structures help maintain a balance between age-old customs and contemporary administrative practices, ensuring that the region's heritage remains vibrant and respected."
     }
   },
   "contactPage": {
     "hero": {
       "title": "Contact Us",
-      "subtitle": "Reach out to Sabon Gari Local Government for inquiries and information.",
+      "subtitle": "Reach out to Sabon Gari Local Government for inquiries and services.",
       "image": "/bg1.png"
     },
     "contactDetails": [
       { "icon": "mapPin", "text": "Sabon Gari Local Government Secretariat, Sabon Gari, Kaduna State, Nigeria" },
-      { "icon": "phone", "text": "+234" },
+      { "icon": "phone", "text": "+234 706 574 8665" },
       { "icon": "mail", "text": "info@sabongarilga.gov.ng" }
     ],
-    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8533.194709142565!2d7.7276426427954865!3d11.123007133520643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11b283b0e8657c53%3A0xb5e64ee6cf71ec00!2sSabon%20Gari%2C%20Zaria%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773670528957!5m2!1sen!2sng",
-    "successMessage": "Thank you for contacting Sabon Gari Local Government. We will get back to you soon."
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d119708.08044384822!2d7.594280697413341!3d11.175737183058438!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11b286bfe2e1e5e5%3A0xcd8998f8383b60f5!2sSabon%20Gari%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1775648962233!5m2!1sen!2sng",
+    "successMessage": "Thank you for contacting Sabon Gari Local Government. We will respond shortly."
   },
   "theme": {
     "colors": {

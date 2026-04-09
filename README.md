@@ -18,3 +18,5 @@
 # Soba
 # Zangon-Kataf
 # sabon-gari
+# kaduna-south
+# kaduna-north

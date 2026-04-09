@@ -105,17 +105,15 @@ export default function GovernmentPage() {
                   {leadership.map((person, i) => (
                     <div key={i} className="bg-brand-muted p-6 rounded-lg shadow-md mb-6">
                       <div className="flex flex-col items-center">
-                        {person.image && (
-                          <div className="w-32 h-32 rounded-full overflow-hidden mb-4">
-                            <Image
-                              src={person.image}
-                              alt={person.name}
-                              width={128}
-                              height={128}
-                              className="w-full h-full object-cover"
-                            />
-                          </div>
-                        )}
+                        <div className="w-32 h-32 rounded-full overflow-hidden mb-4">
+                          <Image
+                            src={person.image ?? config.navbar?.logo ?? "/logo.png"}
+                            alt={person.name}
+                            width={128}
+                            height={128}
+                            className="w-full h-full object-cover"
+                          />
+                        </div>
                         <h4 className="text-lg font-medium text-brand-dark">{person.name}</h4>
                         <p className="text-gray-600">{person.title}</p>
                       </div>
@@ -152,7 +150,7 @@ export default function GovernmentPage() {
                         <div className="flex flex-col items-center">
                           <div className="w-48 h-48 rounded-full overflow-hidden mb-4 border-2 border-brand/30 flex-shrink-0" style={{ aspectRatio: '1 / 1' }}>
                             <Image
-                              src={electoralWards[0].image}
+                              src={electoralWards[0].image ?? config.navbar?.logo ?? "/logo.png"}
                               alt={`${electoralWards[0].councillor} - ${electoralWards[0].ward}`}
                               width={192}
                               height={192}
@@ -190,7 +188,7 @@ export default function GovernmentPage() {
                         <div className="flex flex-col items-center">
                           <div className="w-40 h-40 rounded-full overflow-hidden mb-4 border-2 border-brand/30 flex-shrink-0" style={{ aspectRatio: '1 / 1' }}>
                             <Image
-                              src={ward.image}
+                              src={ward.image ?? config.navbar?.logo ?? "/logo.png"}
                               alt={`${ward.councillor} - ${ward.ward}`}
                               width={160}
                               height={160}

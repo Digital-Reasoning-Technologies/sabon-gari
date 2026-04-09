@@ -79,7 +79,9 @@ export default function Footer() {
             <SectionHeader title="Follow Us" />
             <div className="flex flex-col space-y-3">
               {socialLinks.map((social, index) => {
-                const Icon = iconMap[social.icon] || Facebook;
+                const iconKey = social.icon ?? social.platform;
+                const Icon = iconMap[iconKey] || Facebook;
+                const label = social.name ?? (iconKey ? iconKey.charAt(0).toUpperCase() + iconKey.slice(1) : "Social");
                 return (
                   <Link
                     key={index}
@@ -89,7 +91,7 @@ export default function Footer() {
                     rel="noopener noreferrer"
                   >
                     <Icon size={20} />
-                    <span>{social.name}</span>
+                    <span>{label}</span>
                   </Link>
                 );
               })}
