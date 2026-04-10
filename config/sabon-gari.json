@@ -44,7 +44,7 @@
   },
   "chairman": {
     "sectionTitle": "Message from the Chairman",
-    "name": "Hon. Mohammed Usman",
+    "name": "Hon. Sheikh Jamilu Abubakar Albani",
     "image": "/chairman.png",
     "messageParagraphs": [
       "Welcome to the official website of Sabon Gari Local Government Area. Our administration is committed to inclusive and participatory governance, ensuring that the voices of our people are incorporated into decision-making processes.",
@@ -98,6 +98,7 @@
       { "label": "Agriculture", "href": "/agriculture" },
       { "label": "News", "href": "/news" }
     ],
+    "copyright": "Zaria Local Government Area. All rights reserved.",
     "socialLinks": [
       { "platform": "facebook", "href": "https://www.facebook.com/profile.php/?id=100081246850112" },
       { "platform": "twitter", "href": "https://x.com/ChairmanSBG?fbclid=IwY2xjawRDKV1leHRuA2FlbQIxMABicmlkETExY0lMV2ZjNHQ4SU42UFJ4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnaQ0uoHvoKCoUKVeKt5_efJI5v9_HxmkcMFvw2gCGqKfQpgTMivBaQaU3tB_aem_4nWdP2pEnf6pMNSneVre8A" }
@@ -112,7 +113,7 @@
     "tabs": {
       "general": {
         "leadership": [
-          "Executive Chairman: Hon. Mohammed Usman",
+          "Executive Chairman: Hon. Sheikh Jamilu Abubakar Albani",
           "Vice Chairman: Hon. Kamilu Abdulkareem"
         ],
         "location": [
@@ -177,14 +178,14 @@
         "image": "/commissioner.PNG"
       },
       {
-        "name": "Hon. Mohammed Usman",
+        "name": "Hon. Sheikh Jamilu Abubakar Albani",
         "title": "Chairman",
         "image": "/chairman.png"
       },
       {
         "name": "Hon. Kamilu Abdulkareem",
         "title": "Vice Chairman",
-        "image": "/vice.jpg"
+        "image": "/vice.jpeg"
       }
     ],
     "electoralWards": [
