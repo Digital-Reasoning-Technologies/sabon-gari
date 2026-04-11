@@ -58,19 +58,19 @@
       {
         "title": "Central Business District",
         "subtitle": "Commercial Hub",
-        "image": "/market.png",
+        "image": "/bg2.png",
         "description": "Sabon Gari hosts major markets including the famous Samaru Market and Sabon Gari Main Market, attracting thousands of buyers and sellers daily."
       },
       {
         "title": "Trade & Commerce",
         "subtitle": "Retail & Wholesale",
-        "image": "/refinery.png",
+        "image": "/markets.png",
         "description": "Trading is the key economic activity in Sabon Gari, with the area hosting several markets where goods ranging from agricultural products to textiles are bought and sold."
       },
       {
         "title": "Markets & Services",
         "subtitle": "Urban Economy",
-        "image": "/pantaka.png",
+        "image": "/urban.png",
         "description": "Small-scale industries and service-based businesses contribute significantly to economic activity and employment in the LGA."
       }
     ],
